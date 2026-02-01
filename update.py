@@ -1,62 +1,69 @@
-from playwright.sync_api import sync_playwright
+import requests
 from datetime import datetime, timedelta
-import re
+import json
+import os
 
-URL = "https://www.intern-list.com/?selectedKey=%F0%9F%92%B0+Accounting+and+Finance&k=af"
+URL = "https://www.intern-list.com/api/v1/jobs?selectedKey=💰+Accounting+and+Finance"
+CACHE_FILE = "jobs_cache.json"
 
 def fetch_jobs():
+    """Fetch all jobs from the JSON feed"""
     jobs = []
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        page = browser.new_page()
-        page.goto(URL)
+    resp = requests.get(URL)
+    resp.raise_for_status()
+    data = resp.json()
 
-        # Wait for the internship cards to appear (up to 15s)
-        page.wait_for_selector("div[role='listitem']", timeout=15000)
-
-        # Select all internship cards
-        cards = page.query_selector_all("div[role='listitem']")
-        for card in cards:
-            role_el = card.query_selector("p.jobtitle")
-            company_el = card.query_selector("p.companyname_list")
-            posted_el = card.query_selector("p.blogtag")
-
-            if not role_el or not company_el or not posted_el:
-                continue
-
-            role = role_el.inner_text().strip()
-            company = company_el.inner_text().strip()
-            posted = posted_el.inner_text().strip()
-
-            # Extract location from role if present (e.g., " - Chicago - " in title)
-            location_match = re.search(r" - ([^-]+) - ", role)
-            location = location_match.group(1).strip() if location_match else ""
-
-            if is_within_24h(posted):
-                jobs.append((company, role, location, posted))
-
-        browser.close()
-    return jobs
-
-def is_within_24h(posted_text: str) -> bool:
-    posted_text = posted_text.strip()
     now = datetime.utcnow()
 
-    # Try parsing date like "January 30, 2026"
-    try:
-        posted_date = datetime.strptime(posted_text, "%B %d, %Y")
-        return now - posted_date <= timedelta(days=1)
-    except:
-        # fallback for "Today" / "Yesterday"
-        t = posted_text.lower()
-        if "today" in t or "yesterday" in t:
-            return True
-    return False
+    for job in data.get("jobs", []):
+        company = job.get("company", "").strip()
+        role = job.get("title", "").strip()
+        posted = job.get("posted_date", "").strip()  # e.g., "2026-01-30"
+        location = job.get("location", "").strip()
+
+        try:
+            posted_date = datetime.strptime(posted, "%Y-%m-%d")
+        except:
+            continue
+
+        # Only include jobs posted in last 24h
+        if now - posted_date <= timedelta(days=1):
+            jobs.append({
+                "company": company,
+                "role": role,
+                "location": location,
+                "posted": posted
+            })
+    return jobs
+
+def load_cache():
+    if os.path.exists(CACHE_FILE):
+        with open(CACHE_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return []
+
+def save_cache(jobs):
+    with open(CACHE_FILE, "w", encoding="utf-8") as f:
+        json.dump(jobs, f, indent=2)
+
+def merge_jobs(old_jobs, new_jobs):
+    """Merge jobs and remove duplicates based on company + role"""
+    merged = { (job["company"], job["role"]): job for job in old_jobs }
+    for job in new_jobs:
+        merged[(job["company"], job["role"])] = job
+    # Keep only jobs posted in last 24h
+    now = datetime.utcnow()
+    merged_24h = [job for job in merged.values() if now - datetime.strptime(job["posted"], "%Y-%m-%d") <= timedelta(days=1)]
+    return merged_24h
+
+# ---- Main ----
+new_jobs = fetch_jobs()
+old_jobs = load_cache()
+all_jobs = merge_jobs(old_jobs, new_jobs)
+save_cache(all_jobs)
 
 # ---- Generate HTML ----
-jobs = fetch_jobs()
 now = datetime.utcnow()
-
 html_lines = [
     "<!DOCTYPE html>",
     "<html lang='en'>",
@@ -77,9 +84,9 @@ html_lines = [
     "<tr><th>Company</th><th>Role</th><th>Location</th><th>Posted</th></tr>"
 ]
 
-if jobs:
-    for c, r, l, p in jobs:
-        html_lines.append(f"<tr><td>{c}</td><td>{r}</td><td>{l}</td><td>{p}</td></tr>")
+if all_jobs:
+    for job in all_jobs:
+        html_lines.append(f"<tr><td>{job['company']}</td><td>{job['role']}</td><td>{job['location']}</td><td>{job['posted']}</td></tr>")
 else:
     html_lines.append("<tr><td colspan='4' style='text-align:center;color:#777;'>No internships posted in the past 24 hours</td></tr>")
 
@@ -88,4 +95,4 @@ html_lines.append("</table></body></html>")
 with open("index.html", "w", encoding="utf-8") as f:
     f.write("\n".join(html_lines))
 
-print(f"index.html generated successfully with {len(jobs)} jobs.")
+print(f"index.html generated successfully with {len(all_jobs)} jobs.")
