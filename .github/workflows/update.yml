@@ -1,44 +1,31 @@
-name: Update Internships
+name: Update Internship Listings
 
 on:
   schedule:
-    # Run every day at 08:00 UTC (adjust as needed)
-    - cron: '0 8 * * *'
-  workflow_dispatch:  # allows manual trigger
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout the repository
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      # 2️⃣ Set up Python
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
+          python-version: "3.10"
 
-      # 3️⃣ Install Playwright
-      - name: Install Playwright
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update README
+        run: python scripts/update_readme.py
+
+      - name: Commit changes
         run: |
-          pip install playwright
-          playwright install
-
-      # 4️⃣ Run your scraper script
-      - name: Update internships
-        run: python update.py
-
-      # 5️⃣ Commit and push updated HTML
-      - name: Commit updated index.html
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add index.html
-          git diff --cached --quiet || git commit -m "Update internships"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Auto-update internships" || exit 0
           git push
-        env:
-          # Use the built-in GitHub token to allow push
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
