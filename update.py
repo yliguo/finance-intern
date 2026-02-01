@@ -1,32 +1,41 @@
 from playwright.sync_api import sync_playwright
+import time
+import re
 
-URL = "https://www.intern-list.com/?selectedKey=%F0%9F%92%B0+Accounting+and+Finance&utm_source=1101&utm_campaign=Accounting+and+Finance&k=af"
+URL = "https://www.intern-list.com/accounting-and-finance-intern-list"
 
 def fetch_all_jobs():
     jobs = []
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        page = browser.new_page()
+        page = browser.new_page(viewport={"width": 1280, "height": 2000})
         page.goto(URL)
 
-        # Wait for the internship list to appear
+        # Wait for the job cards container
         page.wait_for_selector("div[role='listitem']", timeout=30000)
 
-        # Get all internship cards
+        # Scroll slowly to trigger lazy-loading
+        scroll_height = page.evaluate("document.body.scrollHeight")
+        for y in range(0, scroll_height, 500):
+            page.evaluate(f"window.scrollTo(0, {y})")
+            time.sleep(0.5)
+
+        # Grab all job cards
         cards = page.query_selector_all("div[role='listitem']")
         for card in cards:
             role_el = card.query_selector("p.jobtitle")
             company_el = card.query_selector("p.companyname_list")
-            location = ""  # Some listings have location in the role text
-            if role_el and company_el:
-                role = role_el.inner_text().strip()
-                company = company_el.inner_text().strip()
-                # Try to extract location from role (e.g., " - Chicago - ")
-                import re
-                loc_match = re.search(r" - ([^-]+) - ", role)
-                if loc_match:
-                    location = loc_match.group(1).strip()
-                jobs.append((company, role, location))
+            if not role_el or not company_el:
+                continue
+
+            role = role_el.inner_text().strip()
+            company = company_el.inner_text().strip()
+
+            # Try to extract location from role (e.g., " - Chicago - ")
+            loc_match = re.search(r" - ([^-]+) - ", role)
+            location = loc_match.group(1).strip() if loc_match else ""
+
+            jobs.append((company, role, location))
 
         browser.close()
     return jobs
