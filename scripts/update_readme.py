@@ -79,7 +79,8 @@ def main():
     history = load_history()
 
     # Add new batch with timestamp at the top
-    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    eastern = ZoneInfo("America/New_York")
+    timestamp = datetime.now(tz=eastern).strftime("%Y-%m-%d %H:%M ET")
     history.insert(0, {"timestamp": timestamp, "rows": new_rows})
 
     # Keep only last MAX_HISTORY batches
