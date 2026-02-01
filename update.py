@@ -65,4 +65,26 @@ html_lines = [
     "<style>",
     "body { font-family: Arial, sans-serif; padding: 20px; }",
     "table { border-collapse: collapse; width: 100%; }",
-    "th, td { bo
+    "th, td { border: 1px solid #ccc; padding: 8px; }",
+    "th { background: #f2f2f2; }",
+    "</style>",
+    "</head>",
+    "<body>",
+    f"<h1>Accounting & Finance Internships (Last 24h)</h1>",
+    f"<p>Last updated: {now.strftime('%Y-%m-%d %H:%M UTC')}</p>",
+    "<table>",
+    "<tr><th>Company</th><th>Role</th><th>Location</th><th>Posted</th></tr>"
+]
+
+if jobs:
+    for c, r, l, p in jobs:
+        html_lines.append(f"<tr><td>{c}</td><td>{r}</td><td>{l}</td><td>{p}</td></tr>")
+else:
+    html_lines.append("<tr><td colspan='4' style='text-align:center;color:#777;'>No internships posted in the past 24 hours</td></tr>")
+
+html_lines.append("</table></body></html>")
+
+with open("index.html", "w", encoding="utf-8") as f:
+    f.write("\n".join(html_lines))
+
+print(f"index.html generated successfully with {len(jobs)} jobs.")
