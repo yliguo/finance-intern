@@ -10,11 +10,12 @@ def fetch_jobs():
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
         page.goto(URL)
-        # Wait for the internship cards to load
-        page.wait_for_selector("div.collection-item-8", timeout=10000)
 
-        # Get all internship cards
-        cards = page.query_selector_all("div.collection-item-8")
+        # Wait for the internship cards to appear (up to 15s)
+        page.wait_for_selector("div[role='listitem']", timeout=15000)
+
+        # Select all internship cards
+        cards = page.query_selector_all("div[role='listitem']")
         for card in cards:
             role_el = card.query_selector("p.jobtitle")
             company_el = card.query_selector("p.companyname_list")
@@ -27,7 +28,7 @@ def fetch_jobs():
             company = company_el.inner_text().strip()
             posted = posted_el.inner_text().strip()
 
-            # Extract location from role if possible (e.g., " - Chicago - " in title)
+            # Extract location from role if present (e.g., " - Chicago - " in title)
             location_match = re.search(r" - ([^-]+) - ", role)
             location = location_match.group(1).strip() if location_match else ""
 
