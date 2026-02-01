@@ -1,9 +1,9 @@
 import requests
 import json
 from pathlib import Path
-from datetime import datetime, timezone
+from datetime import datetime
 from zoneinfo import ZoneInfo  # Python 3.9+
-
+ 
 # Config
 SOURCE_README = (
     "https://raw.githubusercontent.com/jobright-ai/2026-Account-Internship/master/README.md"
@@ -12,6 +12,7 @@ HISTORY_FILE = Path("data/history.json")
 MAX_HISTORY = 8  # Keep last 8 batches
 
 def fetch_source():
+    """Fetch raw README from Jobright repo."""
     r = requests.get(SOURCE_README, timeout=30)
     r.raise_for_status()
     return r.text
@@ -34,17 +35,20 @@ def extract_table(md):
     return table
 
 def load_history():
+    """Load history from JSON; return empty list if missing."""
     if HISTORY_FILE.exists():
         with open(HISTORY_FILE, "r", encoding="utf-8") as f:
             return json.load(f)
     return []
 
 def save_history(history):
+    """Save updated history to JSON."""
     HISTORY_FILE.parent.mkdir(parents=True, exist_ok=True)
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
 
 def build_readme(history):
+    """Build README.md content from history, removing duplicates."""
     header = """# 💼 Finance & Accounting Internships (Live)
 
 Automatically synced from **jobright-ai/2026-Account-Internship**  
@@ -56,20 +60,37 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
         return header + "_No internships found in last 24 hours_\n"
 
     readme_md = header
+    seen = set()  # Track unique rows across all batches
+
     for batch in history:
         timestamp = batch["timestamp"]
         rows = batch["rows"]
 
+        # Remove duplicates
+        unique_rows = []
+        for row in rows:
+            key = row  # Using the full row string as the unique key
+            if key not in seen:
+                seen.add(key)
+                unique_rows.append(row)
+
+        if not unique_rows:
+            continue  # Skip batch if all rows were duplicates
+
+        # Add timestamp heading
         readme_md += f"### 🕒 Batch updated: {timestamp}\n\n"
+
+        # Add Markdown table
         readme_md += "| Company | Role | Location | Type | Date Posted | Link |\n"
         readme_md += "|--------|------|----------|------|-------------|------|\n"
-        for row in rows:
+        for row in unique_rows:
             readme_md += row + "\n"
         readme_md += "\n"
 
     return readme_md
 
 def main():
+    # Fetch latest data
     source = fetch_source()
     new_rows = extract_table(source)
     if not new_rows:
