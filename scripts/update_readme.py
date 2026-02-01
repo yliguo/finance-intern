@@ -2,7 +2,7 @@ import requests
 
 SOURCE_README = (
     "https://raw.githubusercontent.com/"
-    "jobright-ai/2026-Account-Internship/main/README.md"
+    "jobright-ai/2026-Account-Internship/master/README.md"
 )
 
 def fetch_source():
