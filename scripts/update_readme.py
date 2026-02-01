@@ -1,14 +1,14 @@
 import requests
 import json
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timezone
 
 # Config
 SOURCE_README = (
     "https://raw.githubusercontent.com/jobright-ai/2026-Account-Internship/master/README.md"
 )
 HISTORY_FILE = Path("data/history.json")
-MAX_HISTORY = 8  # keep last 8 runs
+MAX_HISTORY = 8  # Keep last 8 batches
 
 def fetch_source():
     r = requests.get(SOURCE_README, timeout=30)
@@ -54,18 +54,23 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
     if not history:
         return header + "_No internships found in last 24 hours_\n"
 
-    # Flatten all rows from history into a single Markdown table
-    table_md = "| Company | Role | Location | Type | Date Posted | Link |\n"
-    table_md += "|--------|------|----------|------|-------------|------|\n"
+    readme_md = header
     for batch in history:
-        for row in batch:
-            table_md += row + "\n"
-    return header + table_md
+        timestamp = batch["timestamp"]
+        rows = batch["rows"]
+
+        readme_md += f"### 🕒 Batch updated: {timestamp}\n\n"
+        readme_md += "| Company | Role | Location | Type | Date Posted | Link |\n"
+        readme_md += "|--------|------|----------|------|-------------|------|\n"
+        for row in rows:
+            readme_md += row + "\n"
+        readme_md += "\n"
+
+    return readme_md
 
 def main():
     source = fetch_source()
     new_rows = extract_table(source)
-
     if not new_rows:
         print("No new rows found. Exiting.")
         return
@@ -73,10 +78,11 @@ def main():
     # Load previous history
     history = load_history()
 
-    # Add new batch at the start
-    history.insert(0, new_rows)
+    # Add new batch with timestamp at the top
+    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    history.insert(0, {"timestamp": timestamp, "rows": new_rows})
 
-    # Keep only the last MAX_HISTORY batches
+    # Keep only last MAX_HISTORY batches
     history = history[:MAX_HISTORY]
 
     # Save updated history
