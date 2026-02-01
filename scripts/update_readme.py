@@ -2,6 +2,7 @@ import requests
 import json
 from pathlib import Path
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo  # Python 3.9+
 
 # Config
 SOURCE_README = (
