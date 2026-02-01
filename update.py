@@ -1,6 +1,5 @@
 from playwright.sync_api import sync_playwright
 from datetime import datetime, timedelta
-import time
 
 URL = "https://www.intern-list.com/?selectedKey=%F0%9F%92%B0+Accounting+and+Finance&k=af"
 
@@ -10,42 +9,38 @@ def fetch_jobs():
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
         page.goto(URL)
-        # Wait for the table to load (adjust if needed)
-        page.wait_for_timeout(3000)  # wait 3 seconds
-        # Get all table rows
-        rows = page.query_selector_all("table tr")
-        for r in rows[1:]:  # skip header
-            cells = r.query_selector_all("td")
-            if len(cells) < 4:
-                continue
-            company = cells[0].inner_text().strip()
-            role = cells[1].inner_text().strip()
-            location = cells[2].inner_text().strip()
-            posted = cells[3].inner_text().strip()
-            # filter last 24h
+        page.wait_for_timeout(3000)  # wait 3 seconds for table to render
+
+        # Get all job roles
+        job_titles = page.query_selector_all("p.jobtitle")
+        companies = page.query_selector_all("p.companyname_list")
+        posted_dates = page.query_selector_all("p.blogtag")
+
+        # Zip them together (assumes they align)
+        for c, r, p_date in zip(companies, job_titles, posted_dates):
+            company = c.inner_text().strip()
+            role = r.inner_text().strip()
+            posted = p_date.inner_text().strip()
+            # leave location blank for now
+            location = ""
             if is_within_24h(posted):
                 jobs.append((company, role, location, posted))
         browser.close()
     return jobs
 
 def is_within_24h(posted_text: str) -> bool:
-    t = posted_text.lower().strip()
+    posted_text = posted_text.strip()
     now = datetime.utcnow()
-    # Case 1: today
-    if "today" in t:
-        return True
-    # Case 2: yesterday
-    if "yesterday" in t:
-        return True
-    # Case 3: hours like "5h" or "5 hours ago"
-    import re
-    m = re.search(r"(\d+)\s*h", t)
-    if m and int(m.group(1)) <= 24:
-        return True
-    # Case 4: days like "1 day ago"
-    m = re.search(r"(\d+)\s*d", t)
-    if m and int(m.group(1)) <= 1:
-        return True
+
+    # Try parsing date like "January 30, 2026"
+    try:
+        posted_date = datetime.strptime(posted_text, "%B %d, %Y")
+        return now - posted_date <= timedelta(days=1)
+    except:
+        # fallback for "Today" / "Yesterday" etc.
+        t = posted_text.lower()
+        if "today" in t or "yesterday" in t:
+            return True
     return False
 
 # ---- Generate HTML ----
