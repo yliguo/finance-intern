@@ -60,31 +60,3 @@ for r in rows:
         continue
 
     if is_within_24h(posted):
-        jobs.append((company, role, location, posted))
-
-print(f"Jobs found in last 24h: {len(jobs)}")
-
-# ---- Generate HTML ----
-
-with open("index.html", "w", encoding="utf-8") as f:
-    f.write("""<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Accounting & Finance Internships (Last 24h)</title>
-<style>
-body { font-family: Arial, sans-serif; padding: 20px; }
-table { border-collapse: collapse; width: 100%; }
-th, td { border: 1px solid #ccc; padding: 8px; }
-th { background: #f2f2f2; }
-</style>
-</head>
-<body>
-
-<h1>Accounting & Finance Internships (Last 24h)</h1>
-<p>Last updated: """ + now.strftime("%Y-%m-%d %H:%M UTC") + """</p>
-
-<table>
-<tr>
-  <th>Company</th>
-  <th
