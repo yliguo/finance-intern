@@ -1,5 +1,6 @@
 from playwright.sync_api import sync_playwright
 from datetime import datetime, timedelta
+import re
 
 URL = "https://www.intern-list.com/?selectedKey=%F0%9F%92%B0+Accounting+and+Finance&k=af"
 
@@ -9,22 +10,30 @@ def fetch_jobs():
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
         page.goto(URL)
-        page.wait_for_timeout(3000)  # wait 3 seconds for table to render
+        # Wait for the internship cards to load
+        page.wait_for_selector("div.collection-item-8", timeout=10000)
 
-        # Get all job roles
-        job_titles = page.query_selector_all("p.jobtitle")
-        companies = page.query_selector_all("p.companyname_list")
-        posted_dates = page.query_selector_all("p.blogtag")
+        # Get all internship cards
+        cards = page.query_selector_all("div.collection-item-8")
+        for card in cards:
+            role_el = card.query_selector("p.jobtitle")
+            company_el = card.query_selector("p.companyname_list")
+            posted_el = card.query_selector("p.blogtag")
 
-        # Zip them together (assumes they align)
-        for c, r, p_date in zip(companies, job_titles, posted_dates):
-            company = c.inner_text().strip()
-            role = r.inner_text().strip()
-            posted = p_date.inner_text().strip()
-            # leave location blank for now
-            location = ""
+            if not role_el or not company_el or not posted_el:
+                continue
+
+            role = role_el.inner_text().strip()
+            company = company_el.inner_text().strip()
+            posted = posted_el.inner_text().strip()
+
+            # Extract location from role if possible (e.g., " - Chicago - " in title)
+            location_match = re.search(r" - ([^-]+) - ", role)
+            location = location_match.group(1).strip() if location_match else ""
+
             if is_within_24h(posted):
                 jobs.append((company, role, location, posted))
+
         browser.close()
     return jobs
 
@@ -37,7 +46,7 @@ def is_within_24h(posted_text: str) -> bool:
         posted_date = datetime.strptime(posted_text, "%B %d, %Y")
         return now - posted_date <= timedelta(days=1)
     except:
-        # fallback for "Today" / "Yesterday" etc.
+        # fallback for "Today" / "Yesterday"
         t = posted_text.lower()
         if "today" in t or "yesterday" in t:
             return True
@@ -56,26 +65,4 @@ html_lines = [
     "<style>",
     "body { font-family: Arial, sans-serif; padding: 20px; }",
     "table { border-collapse: collapse; width: 100%; }",
-    "th, td { border: 1px solid #ccc; padding: 8px; }",
-    "th { background: #f2f2f2; }",
-    "</style>",
-    "</head>",
-    "<body>",
-    f"<h1>Accounting & Finance Internships (Last 24h)</h1>",
-    f"<p>Last updated: {now.strftime('%Y-%m-%d %H:%M UTC')}</p>",
-    "<table>",
-    "<tr><th>Company</th><th>Role</th><th>Location</th><th>Posted</th></tr>"
-]
-
-if jobs:
-    for c, r, l, p in jobs:
-        html_lines.append(f"<tr><td>{c}</td><td>{r}</td><td>{l}</td><td>{p}</td></tr>")
-else:
-    html_lines.append("<tr><td colspan='4' style='text-align:center;color:#777;'>No internships posted in the past 24 hours</td></tr>")
-
-html_lines.append("</table></body></html>")
-
-with open("index.html", "w", encoding="utf-8") as f:
-    f.write("\n".join(html_lines))
-
-print(f"index.html generated successfully with {len(jobs)} jobs.")
+    "th, td { bo
