@@ -1,70 +1,57 @@
-import requests
-from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 from datetime import datetime, timedelta
-import re
+import time
 
 URL = "https://www.intern-list.com/?selectedKey=%F0%9F%92%B0+Accounting+and+Finance&k=af"
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0",
-    "Accept-Language": "en-US,en;q=0.9",
-}
-
-print("Fetching page...")
-resp = requests.get(URL, headers=HEADERS, timeout=30)
-resp.raise_for_status()
-
-soup = BeautifulSoup(resp.text, "html.parser")
-print(soup.prettify()[:1000])  # print first 1000 chars
-rows = soup.select("table tr")
-
-now = datetime.utcnow()
-cutoff = now - timedelta(hours=24)
-
-jobs = []
+def fetch_jobs():
+    jobs = []
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
+        page.goto(URL)
+        # Wait for the table to load (adjust if needed)
+        page.wait_for_timeout(3000)  # wait 3 seconds
+        # Get all table rows
+        rows = page.query_selector_all("table tr")
+        for r in rows[1:]:  # skip header
+            cells = r.query_selector_all("td")
+            if len(cells) < 4:
+                continue
+            company = cells[0].inner_text().strip()
+            role = cells[1].inner_text().strip()
+            location = cells[2].inner_text().strip()
+            posted = cells[3].inner_text().strip()
+            # filter last 24h
+            if is_within_24h(posted):
+                jobs.append((company, role, location, posted))
+        browser.close()
+    return jobs
 
 def is_within_24h(posted_text: str) -> bool:
     t = posted_text.lower().strip()
-
-    # Case 1: explicit words
+    now = datetime.utcnow()
+    # Case 1: today
     if "today" in t:
         return True
+    # Case 2: yesterday
     if "yesterday" in t:
         return True
-
-    # Case 2: hours (e.g. "5 hours ago", "12h")
+    # Case 3: hours like "5h" or "5 hours ago"
+    import re
     m = re.search(r"(\d+)\s*h", t)
-    if m:
-        return int(m.group(1)) <= 24
-
-    # Case 3: days (e.g. "1 day ago")
+    if m and int(m.group(1)) <= 24:
+        return True
+    # Case 4: days like "1 day ago"
     m = re.search(r"(\d+)\s*d", t)
-    if m:
-        return int(m.group(1)) <= 1
-
+    if m and int(m.group(1)) <= 1:
+        return True
     return False
 
-print("Parsing rows...")
-
-for r in rows:
-    cols = r.find_all("td")
-    if len(cols) < 4:
-        continue
-
-    company = cols[0].get_text(strip=True)
-    role = cols[1].get_text(strip=True)
-    location = cols[2].get_text(strip=True)
-    posted = cols[3].get_text(strip=True)
-
-    if not company or not role:
-        continue
-
-    if is_within_24h(posted):
-        jobs.append((company, role, location, posted))
-
-print(f"Jobs found in last 24h: {len(jobs)}")
-
 # ---- Generate HTML ----
+jobs = fetch_jobs()
+now = datetime.utcnow()
+
 html_lines = [
     "<!DOCTYPE html>",
     "<html lang='en'>",
@@ -96,4 +83,4 @@ html_lines.append("</table></body></html>")
 with open("index.html", "w", encoding="utf-8") as f:
     f.write("\n".join(html_lines))
 
-print("index.html generated successfully.")
+print(f"index.html generated successfully with {len(jobs)} jobs.")
