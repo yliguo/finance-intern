@@ -15,6 +15,7 @@ resp = requests.get(URL, headers=HEADERS, timeout=30)
 resp.raise_for_status()
 
 soup = BeautifulSoup(resp.text, "html.parser")
+print(soup.prettify()[:1000])  # print first 1000 chars
 rows = soup.select("table tr")
 
 now = datetime.utcnow()
