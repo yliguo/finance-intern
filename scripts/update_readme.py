@@ -1,67 +1,55 @@
 import requests
-import datetime
-import re
-from pathlib import Path
 
-# CONFIG
-TARGET_REPO = "https://raw.githubusercontent.com/jobright-ai/2026-Account-Internship/master/README.md"
-OUTPUT_FILE = Path("data/latest_24h.md")
+SOURCE_README = (
+    "https://raw.githubusercontent.com/"
+    "jobright-ai/2026-Account-Internship/main/README.md"
+)
 
-def fetch_readme():
-    r = requests.get(TARGET_REPO)
+def fetch_source():
+    r = requests.get(SOURCE_README, timeout=30)
     r.raise_for_status()
     return r.text
 
-def parse_jobs(md_text):
-    """
-    Extract table rows from README.md
-    Only keep rows with dates within last 24 hours
-    """
-    lines = md_text.splitlines()
+def extract_table(md):
+    lines = md.splitlines()
     table = []
-    date_pattern = re.compile(r"\b(\w+ \d{1,2})(?:,? \d{4})?$")
+    in_table = False
 
-    now = datetime.datetime.utcnow()
     for line in lines:
-        # Skip header and empty lines
-        if "|" not in line:
+        if line.startswith("| Company"):
+            in_table = True
+            table.append(line)
             continue
-
-        parts = line.split("|")
-        if len(parts) < 5:
+        if in_table and line.startswith("|---"):
+            table.append(line)
             continue
-
-        # Try to read date (last column)
-        date_str = parts[-1].strip()
-        match = date_pattern.search(date_str)
-        if not match:
-            continue
-
-        try:
-            dt = datetime.datetime.strptime(match.group(1) + f" {now.year}", "%b %d %Y")
-        except ValueError:
-            continue
-
-        # Only add if within 24 hours
-        if now - dt <= datetime.timedelta(days=1):
+        if in_table:
+            if not line.startswith("|"):
+                break
             table.append(line)
 
     return table
 
-def save_output(jobs):
-    output = "# Latest Internships (Last 24h)\n\n"
-    output += "| Company | Job Title | Location | Work Model | Date Posted |\n"
-    output += "|---|---|---|---|---|\n"
-    output += "\n".join(jobs)
+def build_readme(table):
+    header = """# 💼 Finance & Accounting Internships (Live)
 
-    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    OUTPUT_FILE.write_text(output)
+Automatically synced from **jobright-ai/2026-Account-Internship**  
+⏱ Updated every 3 hours via GitHub Actions
+
+---
+"""
+    if not table:
+        return header + "\n_No internship data found._\n"
+
+    return header + "\n".join(table) + "\n"
 
 def main():
-    md = fetch_readme()
-    jobs = parse_jobs(md)
-    save_output(jobs)
-    print(f"Saved {len(jobs)} internships.")
+    source = fetch_source()
+    table = extract_table(source)
+    readme = build_readme(table)
+
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write(readme)
 
 if __name__ == "__main__":
     main()
