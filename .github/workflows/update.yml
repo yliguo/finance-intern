@@ -18,6 +18,11 @@ jobs:
 
       - name: Install deps
         run: pip install requests beautifulsoup4
+    
+      - name: Install Playwright
+        run: |
+          pip install playwright
+          playwright install
 
       - name: Run scraper
         run: python update.py
