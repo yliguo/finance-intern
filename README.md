@@ -4,11 +4,24 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-02-02 07:40 ET
+### 🕒 Batch updated: 2026-02-02 10:32 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Premium Audit Intern](https://jobright.ai/jobs/info/6980a7c049964d25b5e3732a?utm_campaign=1052&utm_source=git)** | AZ, Scottsdale - 7233 E Butherus Drive | On Site | Feb 02 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Accounting and Finance Intern](https://jobright.ai/jobs/info/6980a78dabff4c399a9f7356?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | Feb 02 |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Premium Audit Intern](https://jobright.ai/jobs/info/6980a43b7f40342e15d97a0e?utm_campaign=1052&utm_source=git)** | US-AZ-Scottsdale | On Site | Feb 02 |
+| **[Kroll](http://www.kroll.com/)** | **[Intern, Valuation Services](https://jobright.ai/jobs/info/68b8cf5b07090163b6ba51a2?utm_campaign=1052&utm_source=git)** | Morristown, NJ | On Site | Feb 02 |
+| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Engineering Cost Management Intern - Summer 2026](https://jobright.ai/jobs/info/697a56d1a8de441ca735805a?utm_campaign=1052&utm_source=git)** | Beaverton, OR | On Site | Feb 02 |
+| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Winter 2027 (Madison)](https://jobright.ai/jobs/info/68b99bf45f3832749185f48d?utm_campaign=1052&utm_source=git)** | Madison, WI | Hybrid | Feb 02 |
+| **[Trideum Corporation](http://trideum.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/690e87c6221b890c2780f148?utm_campaign=1052&utm_source=git)** | Huntsville, AL | On Site | Feb 02 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[Finance Intern](https://jobright.ai/jobs/info/690e290e221b890c2780b5b4?utm_campaign=1052&utm_source=git)** | Kokomo, IN | On Site | Feb 02 |
+| **[Galaxy](https://www.galaxy.com)** | **[2026 Finance Internship - NYC](https://jobright.ai/jobs/info/690ebe4c221b890c27811442?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Feb 02 |
+| **[MasTec Industrial, a MasTec Company](https://mastecpower.com)** | **[Internship - Accounting and Finance](https://jobright.ai/jobs/info/68d649d54736ff202fdd2430?utm_campaign=1052&utm_source=git)** | Louisville, CO | On Site | Feb 02 |
+| **[Dominium](https://www.dominiumapartments.com/)** | **[Property Finance Intern - Summer 2026 - Minneapolis Regional Office](https://jobright.ai/jobs/info/689d2caafaa4e875e826d9c4?utm_campaign=1052&utm_source=git)** | Plymouth, MN | On Site | Feb 02 |
+| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Procurement Analyst](https://jobright.ai/jobs/info/68f139bae6870116b1f55145?utm_campaign=1052&utm_source=git)** | Hagerstown, MD | On Site | Feb 02 |
+| **[FirstOntario Credit Union](https://www.firstontario.com)** | **[Junior Business Analyst (Summer Student)](https://jobright.ai/jobs/info/698079f1abff4c399a9f4402?utm_campaign=1052&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Feb 02 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Accounting Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/6980771f49964d25b5e34328?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[Evergreen FS, Inc.](https://www.evergreen-fs.com)** | **[Accounting Intern - Evergreen FS - Bloomington, IL](https://jobright.ai/jobs/info/697c3dc21423772304ecb518?utm_campaign=1052&utm_source=git)** | Bloomington, IL | On Site | Feb 02 |
 | **[RWE](https://www.rwe.com)** | **[Tax Intern, Summer 2026](https://jobright.ai/jobs/info/69379b3caabec14a727c9ba0?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
@@ -31,7 +44,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Finance Intern - Waring Division](https://jobright.ai/jobs/info/696452212cbf4e44756de333?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | Feb 01 |
 | **[Nutanix](http://www.nutanix.com)** | **[Financial Analyst Intern (Summer 2026/ Undergraduate ONLY)](https://jobright.ai/jobs/info/69801d6f7f40342e15d8daf8?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Feb 01 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Operational Finance / Nashville, TN Summer 2026](https://jobright.ai/jobs/info/69801cb8ce48107c05443e1f?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Feb 01 |
-| ↳ | **[Intern / Operational Finance / Memphis, TN Summer 2026](https://jobright.ai/jobs/info/69801ca7abff4c399a9ece01?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Feb 01 |
 | ↳ | **[Intern / Operational Finance / Nashville, TN Summer 2026](https://jobright.ai/jobs/info/6980024ece48107c05442ebf?utm_campaign=1052&utm_source=git)** | Nashville, TN, US | On Site | Feb 01 |
 | ↳ | **[Intern / Operational Finance / Memphis, TN Summer 2026](https://jobright.ai/jobs/info/69800093ce48107c05442c8c?utm_campaign=1052&utm_source=git)** | Memphis, TN, US | On Site | Feb 01 |
 | **[Interra Credit Union](http://interracu.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69800053ce48107c05442c31?utm_campaign=1052&utm_source=git)** | Goshen, Indiana, United States | On Site | Feb 01 |
@@ -97,6 +109,12 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/696876ce639b452fb57e215f?utm_campaign=1052&utm_source=git)** | St Charles, MO | On Site | Jan 31 |
 | **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[Analyst, Revenue Management (Evergreen)](https://jobright.ai/jobs/info/697e125cabff4c399a9ce252?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Jan 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed2dd46e5b153e5a606be?utm_campaign=1052&utm_source=git)** | Cary, NC | On Site | Jan 31 |
+
+### 🕒 Batch updated: 2026-02-02 07:40 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| ↳ | **[Intern / Operational Finance / Memphis, TN Summer 2026](https://jobright.ai/jobs/info/69801ca7abff4c399a9ece01?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Feb 01 |
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed2a146e5b153e5a60634?utm_campaign=1052&utm_source=git)** | Bonita Springs, FL | On Site | Jan 31 |
 | ↳ | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eedb0746e5b153e5a60979?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Jan 31 |
 | **[Airbnb](https://www.airbnb.com)** | **[Strategic Finance & Analytics Intern (MBA/MS)](https://jobright.ai/jobs/info/69460077d1953b5d11bf1602?utm_campaign=1052&utm_source=git)** | United States | Remote | Jan 31 |
