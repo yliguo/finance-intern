@@ -4,12 +4,15 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-02-01 23:52 ET
+### 🕒 Batch updated: 2026-02-02 01:55 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Operational Finance / Nashville, TN Summer 2026](https://jobright.ai/jobs/info/6980024ece48107c05442ebf?utm_campaign=1052&utm_source=git)** | Nashville, TN, US | On Site | Feb 01 |
+| **[Nutanix](http://www.nutanix.com)** | **[Financial Analyst Intern (Summer 2026/ Undergraduate ONLY)](https://jobright.ai/jobs/info/69801d6f7f40342e15d8daf8?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Feb 01 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Operational Finance / Nashville, TN Summer 2026](https://jobright.ai/jobs/info/69801cb8ce48107c05443e1f?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Feb 01 |
+| ↳ | **[Intern / Operational Finance / Memphis, TN Summer 2026](https://jobright.ai/jobs/info/69801ca7abff4c399a9ece01?utm_campaign=1052&utm_source=git)** | Memphis, TN | On Site | Feb 01 |
+| ↳ | **[Intern / Operational Finance / Nashville, TN Summer 2026](https://jobright.ai/jobs/info/6980024ece48107c05442ebf?utm_campaign=1052&utm_source=git)** | Nashville, TN, US | On Site | Feb 01 |
 | ↳ | **[Intern / Operational Finance / Memphis, TN Summer 2026](https://jobright.ai/jobs/info/69800093ce48107c05442c8c?utm_campaign=1052&utm_source=git)** | Memphis, TN, US | On Site | Feb 01 |
 | **[Interra Credit Union](http://interracu.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69800053ce48107c05442c31?utm_campaign=1052&utm_source=git)** | Goshen, Indiana, United States | On Site | Feb 01 |
 | ↳ | **[Commercial Credit Analyst Intern](https://jobright.ai/jobs/info/697ffef0ce48107c05442a52?utm_campaign=1052&utm_source=git)** | Goshen, Indiana, United States | On Site | Feb 01 |
@@ -26,7 +29,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Artisan Partners](https://www.apam.com/)** | **[MBA Summer 2026 Internship - Equity](https://jobright.ai/jobs/info/68f15f21e6870116b1f57eac?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Finance Internship: Finance Intern / Graduate Level /](https://jobright.ai/jobs/info/697f67ecce48107c0543869e?utm_campaign=1052&utm_source=git)** | Overland Park, KS | On Site | Feb 01 |
 | ↳ | **[Summer 2026 Finance Internship: Finance Intern / Graduate Level /](https://jobright.ai/jobs/info/697f679e7f40342e15d822c4?utm_campaign=1052&utm_source=git)** | Bellevue, WA | On Site | Feb 01 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Assistant Finance Intern](https://jobright.ai/jobs/info/697f85457f40342e15d83f7c?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Remote | Feb 01 |
 | **[Emerge Living](https://disruptmgt.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/697f6588abff4c399a9e1404?utm_campaign=1052&utm_source=git)** | Corporate Head Quarters - EL - Houston, TX 77079 | On Site | Feb 01 |
 | **[Arthur Isaacson & Company, CPA](http://brooklynaccountingservice.net)** | **[Accounting Intern](https://jobright.ai/jobs/info/697f53a1abff4c399a9e0449?utm_campaign=1052&utm_source=git)** | Englishtown, NJ | On Site | Feb 01 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[Audit Summer 2027 Internship – Parsippany, NJ](https://jobright.ai/jobs/info/695c4245aa05c26e7ab5946c?utm_campaign=1052&utm_source=git)** | Parsippany, NJ | Hybrid | Feb 01 |
@@ -107,6 +109,13 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[Federal Tax Services Intern - Winter 2027](https://jobright.ai/jobs/info/6968a024639b452fb57e6358?utm_campaign=1052&utm_source=git)** | Duluth, MN | On Site | Jan 31 |
 | **[OdysseyRe](http://www.odysseyre.com/)** | **[2026 Summer Intern, Actuarial](https://jobright.ai/jobs/info/68c7a93e7d0db4114273f1c0?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | Jan 31 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69747293206da320f49eb1a8?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Jan 31 |
+
+### 🕒 Batch updated: 2026-02-01 23:52 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Operational Finance / Nashville, TN Summer 2026](https://jobright.ai/jobs/info/6980024ece48107c05442ebf?utm_campaign=1052&utm_source=git)** | Nashville, TN, US | On Site | Feb 01 |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Assistant Finance Intern](https://jobright.ai/jobs/info/697f85457f40342e15d83f7c?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Remote | Feb 01 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Financial Analyst Intern, Software Engineering - Summer 2026](https://jobright.ai/jobs/info/6962cf3925e18715077f954f?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | **[McCain Foods](https://www.mccain.com/)** | **[Accounting Co-op Summer 2026](https://jobright.ai/jobs/info/6961c904a112b4026610569e?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
 
