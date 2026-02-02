@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-02-01 18:54 ET
+### 🕒 Batch updated: 2026-02-01 20:25 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -17,7 +17,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[Audit Intern](https://jobright.ai/jobs/info/697f82317f40342e15d826dd?utm_campaign=1052&utm_source=git)** | Cambridge, MA | On Site | Feb 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Tax (Multiple Positions)](https://jobright.ai/jobs/info/697f7aceabff4c399a9e17ad?utm_campaign=1052&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/697f74b7ce48107c05438936?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Feb 01 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Assistant Accounting Intern](https://jobright.ai/jobs/info/697f7442abff4c399a9e16ef?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Remote | Feb 01 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99401 Accountant II, Office of Business Affairs, Tahlequah](https://jobright.ai/jobs/info/697f71cace48107c05438911?utm_campaign=1052&utm_source=git)** | Tahlequah, OK | On Site | Feb 01 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Finance Internship: Finance Intern / Graduate Level /](https://jobright.ai/jobs/info/697f680a7f40342e15d8230b?utm_campaign=1052&utm_source=git)** | Frisco, TX | On Site | Feb 01 |
 | **[Artisan Partners](https://www.apam.com/)** | **[MBA Summer 2026 Internship - Equity](https://jobright.ai/jobs/info/68f15f21e6870116b1f57eac?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
@@ -81,8 +80,8 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed8c8d078b81ad16100ab?utm_campaign=1052&utm_source=git)** | Brentwood, TN | On Site | Jan 31 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Financial Analyst MBA Intern, Hardware Engineering FP&A - Summer 2026](https://jobright.ai/jobs/info/6962e1f52cbf4e44756cb2a6?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6958c5059f1b381eb271a9c8?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
-| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/697847ce52f3c27ec6448577?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6969f696f25a38006698b839?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
+| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/697847ce52f3c27ec6448577?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jan 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed52ae0db92422580bf4e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6969d8c3f25a380066989f1f?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
 | **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax Internship (Winter 2026)](https://jobright.ai/jobs/info/69618a65f3f4cd1325069a76?utm_campaign=1052&utm_source=git)** | Saginaw-Midland-BC Area | On Site | Jan 31 |
@@ -109,4 +108,11 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Finance/Accounting Intern](https://jobright.ai/jobs/info/697dfe51abff4c399a9cbfce?utm_campaign=1052&utm_source=git)** | Northbrook, IL | On Site | Jan 31 |
 | **[IBM](http://www.ibm.com)** | **[Accounts Receivable M&A Intern](https://jobright.ai/jobs/info/697310701790715e866c13a4?utm_campaign=1052&utm_source=git)** | Armonk, NY | Hybrid | Jan 31 |
 | ↳ | **[Accounts Receivable Intern – Q2C (Quote-to-Cash)](https://jobright.ai/jobs/info/697303671790715e866befd5?utm_campaign=1052&utm_source=git)** | Armonk, NY | Hybrid | Jan 31 |
+| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Accounts Payable and Accounts Receivable](https://jobright.ai/jobs/info/6946051c7d506e3808f15740?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC | On Site | Jan 31 |
+
+### 🕒 Batch updated: 2026-02-01 18:54 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Assistant Accounting Intern](https://jobright.ai/jobs/info/697f7442abff4c399a9e16ef?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Remote | Feb 01 |
 
