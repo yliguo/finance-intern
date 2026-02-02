@@ -4,11 +4,28 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-02-02 04:39 ET
+### 🕒 Batch updated: 2026-02-02 07:40 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[Accounting Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/6980771f49964d25b5e34328?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Feb 02 |
+| **[Evergreen FS, Inc.](https://www.evergreen-fs.com)** | **[Accounting Intern - Evergreen FS - Bloomington, IL](https://jobright.ai/jobs/info/697c3dc21423772304ecb518?utm_campaign=1052&utm_source=git)** | Bloomington, IL | On Site | Feb 02 |
+| **[RWE](https://www.rwe.com)** | **[Tax Intern, Summer 2026](https://jobright.ai/jobs/info/69379b3caabec14a727c9ba0?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
+| ↳ | **[Accounting GL Intern, Summer 2026](https://jobright.ai/jobs/info/69446e4add382f5f566a8f4b?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
+| **[FM](https://www.fmglobal.com)** | **[Finance Accounts Receivable Intern](https://jobright.ai/jobs/info/69806351abff4c399a9f2cc8?utm_campaign=1052&utm_source=git)** | East Killingly, CT | On Site | Feb 02 |
+| ↳ | **[Finance Accounts Receivable Intern](https://jobright.ai/jobs/info/69806323abff4c399a9f2cba?utm_campaign=1052&utm_source=git)** | Killingly, CT | On Site | Feb 02 |
+| ↳ | **[Finance Accounts Receivable Intern](https://jobright.ai/jobs/info/698062ecce48107c0544a07c?utm_campaign=1052&utm_source=git)** | Attleboro, MA | On Site | Feb 02 |
+| **[Kings Island](https://www.visitkingsisland.com/)** | **[Intern - Revenue Accounting](https://jobright.ai/jobs/info/698061ecce48107c05449dfa?utm_campaign=1052&utm_source=git)** | Mason, OH | On Site | Feb 02 |
+| **[FM](https://www.fmglobal.com)** | **[Finance Accounts Receivable Intern](https://jobright.ai/jobs/info/698061bbabff4c399a9f1e2c?utm_campaign=1052&utm_source=git)** | Johnston, RI | On Site | Feb 02 |
+| **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management Accounting Intern](https://jobright.ai/jobs/info/69806177ce48107c05449a65?utm_campaign=1052&utm_source=git)** | Anchorage, AK | On Site | Feb 02 |
+| **[FM](https://www.fmglobal.com)** | **[Finance Accounts Receivable Intern](https://jobright.ai/jobs/info/6980616e7f40342e15d937b2?utm_campaign=1052&utm_source=git)** | Putnam, CT | On Site | Feb 02 |
+| **[RWE](https://www.rwe.com)** | **[Accounting Fixed Assets Intern, Summer 2026](https://jobright.ai/jobs/info/693b47805f2c001987ed41df?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
+| **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69806115ce48107c0544982c?utm_campaign=1052&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
+| ↳ | **[Real Estate, (Finance) Intern](https://jobright.ai/jobs/info/69805fba7f40342e15d92c23?utm_campaign=1052&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
+| **[Dynatrace](https://www.dynatrace.com)** | **[Finance Intern - Investor Relations](https://jobright.ai/jobs/info/698058127f40342e15d924bd?utm_campaign=1052&utm_source=git)** | Boston, KY | Hybrid | Feb 01 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/698071657f40342e15d949a6?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Feb 01 |
+| ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69807243abff4c399a9f4004?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Feb 01 |
 | **[LS Power](http://lspower.com)** | **[Intern, Treasury Operations](https://jobright.ai/jobs/info/6969bcd31703f05405abb617?utm_campaign=1052&utm_source=git)** | East Brunswick, NJ | On Site | Feb 01 |
 | **[Geneva Trading](https://geneva-trading.com)** | **[Intern - Quantitative Trader - Digital Assets](https://jobright.ai/jobs/info/69601de67ebc25398eb60c97?utm_campaign=1052&utm_source=git)** | Chicago Office | On Site | Feb 01 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Finance Intern - Waring Division](https://jobright.ai/jobs/info/696452212cbf4e44756de333?utm_campaign=1052&utm_source=git)** | Stamford, CT | Hybrid | Feb 01 |
@@ -61,7 +78,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Tax Compliance Summer Intern](https://jobright.ai/jobs/info/6945f2f1d1953b5d11befcbf?utm_campaign=1052&utm_source=git)** | Westport, CT | Hybrid | Jan 31 |
 | **[City+Ventures](https://city-ventures.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/697fadc87f40342e15d84a96?utm_campaign=1052&utm_source=git)** | La Vista, NE | On Site | Jan 31 |
 | **[Orion Group](https://orionservicesgroup.com/)** | **[Finance & Treasury Intern](https://jobright.ai/jobs/info/697bed841136d179eeef8d04?utm_campaign=1052&utm_source=git)** | Boulder, CO | On Site | Jan 31 |
-| **[Baptist Health](https://www.baptist-health.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/697e9917abff4c399a9d3a8d?utm_campaign=1052&utm_source=git)** | Little Rock, AR | On Site | Jan 31 |
 | **[Interra Credit Union](http://interracu.com)** | **[Finance Intern](https://jobright.ai/jobs/info/697fedd57f40342e15d8a4ed?utm_campaign=1052&utm_source=git)** | Goshen, IN | On Site | Jan 31 |
 | ↳ | **[Commercial Credit Analyst Intern](https://jobright.ai/jobs/info/697fededabff4c399a9e97dc?utm_campaign=1052&utm_source=git)** | Goshen, IN | On Site | Jan 31 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS Accounting Intern](https://jobright.ai/jobs/info/697e4edeabff4c399a9d0a01?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Jan 31 |
@@ -91,8 +107,14 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[Finance Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed8c8d078b81ad16100ab?utm_campaign=1052&utm_source=git)** | Brentwood, TN | On Site | Jan 31 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Financial Analyst MBA Intern, Hardware Engineering FP&A - Summer 2026](https://jobright.ai/jobs/info/6962e1f52cbf4e44756cb2a6?utm_campaign=1052&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6958c5059f1b381eb271a9c8?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
-| ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6969f696f25a38006698b839?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/697847ce52f3c27ec6448577?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jan 31 |
+| ↳ | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6969f696f25a38006698b839?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
+
+### 🕒 Batch updated: 2026-02-02 04:39 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Baptist Health](https://www.baptist-health.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/697e9917abff4c399a9d3a8d?utm_campaign=1052&utm_source=git)** | Little Rock, AR | On Site | Jan 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Procurement Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed52ae0db92422580bf4e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6969d8c3f25a380066989f1f?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
 | **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax Internship (Winter 2026)](https://jobright.ai/jobs/info/69618a65f3f4cd1325069a76?utm_campaign=1052&utm_source=git)** | Saginaw-Midland-BC Area | On Site | Jan 31 |
