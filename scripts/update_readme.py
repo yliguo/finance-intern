@@ -9,7 +9,7 @@ SOURCE_README = (
     "https://raw.githubusercontent.com/jobright-ai/2026-Account-Internship/master/README.md"
 )
 HISTORY_FILE = Path("data/history.json")
-MAX_HISTORY = 8  # Keep last 8 batches
+MAX_HISTORY = 24  # Keep last 24 batches (72 hours, 3 days)
 
 def fetch_source():
     """Fetch raw README from Jobright repo."""
