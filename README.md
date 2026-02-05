@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-02-04 16:26 ET
+### 🕒 Batch updated: 2026-02-04 20:20 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -981,10 +981,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[IBM](http://www.ibm.com)** | **[Accounts Receivable M&A Intern](https://jobright.ai/jobs/info/697310701790715e866c13a4?utm_campaign=1052&utm_source=git)** | Armonk, NY | Hybrid | Jan 31 |
 | ↳ | **[Accounts Receivable Intern – Q2C (Quote-to-Cash)](https://jobright.ai/jobs/info/697303671790715e866befd5?utm_campaign=1052&utm_source=git)** | Armonk, NY | Hybrid | Jan 31 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Accounts Payable and Accounts Receivable](https://jobright.ai/jobs/info/6946051c7d506e3808f15740?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC | On Site | Jan 31 |
-
-### 🕒 Batch updated: 2026-02-01 18:54 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Assistant Accounting Intern](https://jobright.ai/jobs/info/697f7442abff4c399a9e16ef?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Remote | Feb 01 |
 
