@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-02-20 13:36 ET
+### 🕒 Batch updated: 2026-02-20 16:17 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -1223,52 +1223,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69949262e0bddb6acac30551?utm_campaign=1052&utm_source=git)** | New Rochelle, NY | Remote | Feb 17 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69949248ce78e77b4fd89406?utm_campaign=1052&utm_source=git)** | Chillicothe, OH | On Site | Feb 17 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Intern - Busy Season 2027 (Assurance or Tax)](https://jobright.ai/jobs/info/6993dde1ce78e77b4fd7b1dd?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Feb 17 |
-
-### 🕒 Batch updated: 2026-02-17 16:28 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[SingerLewak LLP](http://singerlewak.com)** | **[Audit Intern](https://jobright.ai/jobs/info/6994c20681476f6176ac8bf6?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 17 |
-| ↳ | **[Audit Intern](https://jobright.ai/jobs/info/6994c1cace78e77b4fd8c6c7?utm_campaign=1052&utm_source=git)** | Irvine, CA | Hybrid | Feb 17 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax - Income Franchise Intern - Summer 2027](https://jobright.ai/jobs/info/699129e20cc8ea15f1dbbfd7?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax Intern - Winter 2027](https://jobright.ai/jobs/info/699410d8e0bddb6acac2778e?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
-| **[SingerLewak LLP](http://singerlewak.com)** | **[Audit Intern](https://jobright.ai/jobs/info/6994b792ce78e77b4fd8b667?utm_campaign=1052&utm_source=git)** | Oxnard, CA | Hybrid | Feb 17 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Financial Modelling Intern](https://jobright.ai/jobs/info/6994d09681476f6176aca1e6?utm_campaign=1052&utm_source=git)** | Philadelphia, PA | Remote | Feb 17 |
-| ↳ | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/695c0442aa05c26e7ab55821?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Feb 17 |
-| **[SingerLewak LLP](http://singerlewak.com)** | **[Audit Intern](https://jobright.ai/jobs/info/6994d041e0bddb6acac34dca?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 17 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/697b17fd17b11b1c2e42187d?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Feb 17 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/697c714e727747250d572172?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 17 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/6986d6158da7a6120461daaa?utm_campaign=1052&utm_source=git)** | Peoria, IL | On Site | Feb 17 |
-| ↳ | **[International Tax Business Intern - Winter 2027](https://jobright.ai/jobs/info/69913e070cc8ea15f1dbd025?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/699153960cc8ea15f1dbf355?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Feb 17 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69949565ce78e77b4fd89661?utm_campaign=1052&utm_source=git)** | Kendall, FL | Remote | Feb 17 |
-| **[Arvento A](arventoa.com)** | **[Finance Intern](https://jobright.ai/jobs/info/699494e9e0bddb6acac3078c?utm_campaign=1052&utm_source=git)** | Dallas, TX | Remote | Feb 17 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69949473ce78e77b4fd89594?utm_campaign=1052&utm_source=git)** | Texarkana, TX | Remote | Feb 17 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69949371e0bddb6acac30626?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Feb 17 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6994921d81476f6176ac5822?utm_campaign=1052&utm_source=git)** | Somerville, MA | Remote | Feb 17 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/6994913fce78e77b4fd89344?utm_campaign=1052&utm_source=git)** | Milpitas, CA | Remote | Feb 17 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Spring 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/697b187317b11b1c2e421b13?utm_campaign=1052&utm_source=git)** | Spokane, WA | On Site | Feb 17 |
-| **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/695c0573aa05c26e7ab55900?utm_campaign=1052&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Feb 17 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69948f59e0bddb6acac30423?utm_campaign=1052&utm_source=git)** | Folsom, CA | Remote | Feb 17 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69948ec4e0bddb6acac3032f?utm_campaign=1052&utm_source=git)** | Wenatchee, WA | Remote | Feb 17 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Intern - Revenue Accounting](https://jobright.ai/jobs/info/6977b892fdeb8243a27aa4eb?utm_campaign=1052&utm_source=git)** | Mason, OH | On Site | Feb 17 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69948d8481476f6176ac56af?utm_campaign=1052&utm_source=git)** | Madera, CA | Remote | Feb 17 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Insurance & Actuary Intern](https://jobright.ai/jobs/info/69948d67ce78e77b4fd891ce?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Feb 17 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69948d2581476f6176ac560f?utm_campaign=1052&utm_source=git)** | Lehi, UT | Remote | Feb 17 |
-| **[Bridgewater Associates](https://www.bridgewater.com/)** | **[2027 Investment Associate Intern](https://jobright.ai/jobs/info/697aab529d60e431a16c45ee?utm_campaign=1052&utm_source=git)** | New York City | On Site | Feb 17 |
-| **[Sasser, Inc.](https://www.sasser.com/)** | **[Strategic Fleet Finance Intern](https://jobright.ai/jobs/info/6994ab2a81476f6176ac6e7a?utm_campaign=1052&utm_source=git)** | Oak Brook, IL | Hybrid | Feb 17 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69948c8c81476f6176ac551c?utm_campaign=1052&utm_source=git)** | Johns Creek, GA | Remote | Feb 17 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69948c6de0bddb6acac2ffe2?utm_campaign=1052&utm_source=git)** | Largo, FL | Remote | Feb 17 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69948c5d81476f6176ac54dc?utm_campaign=1052&utm_source=git)** | Miami Beach, FL | Remote | Feb 17 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69948c3ce0bddb6acac2ff8f?utm_campaign=1052&utm_source=git)** | Cheyenne, WY | Remote | Feb 17 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69948b7ece78e77b4fd88ef0?utm_campaign=1052&utm_source=git)** | Alhambra, CA | Remote | Feb 17 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69948b41e0bddb6acac2fe40?utm_campaign=1052&utm_source=git)** | Mountain View, CA | Remote | Feb 17 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69948af6e0bddb6acac2fdd0?utm_campaign=1052&utm_source=git)** | The Villages, FL | Remote | Feb 17 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/69948abbe0bddb6acac2fd76?utm_campaign=1052&utm_source=git)** | Owensboro, KY | Remote | Feb 17 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/699489f8ce78e77b4fd88c97?utm_campaign=1052&utm_source=git)** | Albany, GA | Remote | Feb 17 |
-| **[Sobi - Swedish Orphan Biovitrum AB (publ)](http://www.sobi.com/en)** | **[Finance Internship (Hybrid)](https://jobright.ai/jobs/info/6978238a88e2b47213bc23ed?utm_campaign=1052&utm_source=git)** | Waltham, MA | Hybrid | Feb 17 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/6994898dce78e77b4fd88bfd?utm_campaign=1052&utm_source=git)** | Peoria, IL | On Site | Feb 17 |
-| **[People Driven Technology, Inc](https://www.peopledriven.com/)** | **[Summer Internship - Accounting & Finance](https://jobright.ai/jobs/info/6994adbf81476f6176ac7128?utm_campaign=1052&utm_source=git)** | Byron Center, MI | On Site | Feb 17 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69948905ce78e77b4fd88b4a?utm_campaign=1052&utm_source=git)** | Homestead, FL | Remote | Feb 17 |
-| ↳ | **[Financial Services Intern](https://jobright.ai/jobs/info/699488d281476f6176ac4f81?utm_campaign=1052&utm_source=git)** | Florence, AL | Remote | Feb 17 |
 
