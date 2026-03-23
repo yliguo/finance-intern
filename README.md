@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-03-23 00:58 ET
+### 🕒 Batch updated: 2026-03-23 03:00 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -636,16 +636,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax & Audit Intern - Spring 2027 - Nashville, TN](https://jobright.ai/jobs/info/698407e801214b4cdacc63c9?utm_campaign=1052&utm_source=git)** | Nashville, TN | On Site | Mar 19 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Internal Audit](https://jobright.ai/jobs/info/69bc5a835b89c002acf1ed24?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Mar 19 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Internal Audit](https://jobright.ai/jobs/info/69bc5a835b89c002acf1ed23?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Mar 19 |
-
-### 🕒 Batch updated: 2026-03-20 02:44 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Seasonal Intern, State and Local Tax - New York Financial Services / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/69bccd224828227293fecd1a?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Mar 19 |
-| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Tax Seasonal Intern, State and Local Tax - New York Financial Services / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/69bcc2bd4828227293feb181?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 19 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax - Sales and Use Intern - Summer 2027](https://jobright.ai/jobs/info/69bca5804828227293fe8d9f?utm_campaign=1052&utm_source=git)** | Kansas City, MO | On Site | Mar 19 |
-| **[Methode Electronics](http://methode.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69bc5a1b4828227293fe1490?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | Mar 19 |
-| **[CooperVision](http://coopervision.com)** | **[Indirect Tax Intern](https://jobright.ai/jobs/info/69bc595445e08b3dc1f8e3f2?utm_campaign=1052&utm_source=git)** | Victor, NY | On Site | Mar 19 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Finance/Accounting Intern: Local Receivables](https://jobright.ai/jobs/info/69bc592345e08b3dc1f8e284?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Mar 19 |
-| **[BPM LLP](https://www.bpm.com/)** | **[Accounting Advisory Apprentice](https://jobright.ai/jobs/info/69bc58f74828227293fe0dcb?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 19 |
 
