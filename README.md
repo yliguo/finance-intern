@@ -4,11 +4,12 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-03-22 21:27 ET
+### 🕒 Batch updated: 2026-03-23 00:58 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rohit Group](http://www.rohitgroup.com/)** | **[Procurement (Inventory) Summer Student](https://jobright.ai/jobs/info/69c0b0377798f73e35e530b1?utm_campaign=1052&utm_source=git)** | Edmonton, AB | On Site | Mar 22 |
 | **[Dedham Savings](http://dedhamsavings.com)** | **[Credit Intern](https://jobright.ai/jobs/info/69c078d379e36d3a847cce48?utm_campaign=1052&utm_source=git)** | Dedham,MA,US | On Site | Mar 22 |
 | **[LiftHER Career](https://lifthercareer.com/)** | **[Risk Analyst – Fellowship Program](https://jobright.ai/jobs/info/69c0625a7798f73e35e4f92f?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | Mar 22 |
 | **[Joyce/Dayton](http://joycedayton.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c055902c312363dcd2d3d4?utm_campaign=1052&utm_source=git)** | Dayton, OH | On Site | Mar 22 |
@@ -86,7 +87,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Finance Intern](https://jobright.ai/jobs/info/698565498da7a612045ff4f4?utm_campaign=1052&utm_source=git)** | Woodridge, IL | On Site | Mar 21 |
 | **[Grant Thornton (US)](https://gt-us.co/3LukwpC)** | **[Tax Intern - Winter 2027](https://jobright.ai/jobs/info/68ba22998043103d4f21db00?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 21 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Intake & Agency Reporting Intern](https://jobright.ai/jobs/info/69beaf264828227293017045?utm_campaign=1052&utm_source=git)** | Oakland, CA | Hybrid | Mar 21 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69beaccab106024562842629?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Mar 21 |
 | **[ALO](https://www.aloyoga.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69a1fbb2b600907a962849c4?utm_campaign=1052&utm_source=git)** | Commerce, CA | On Site | Mar 21 |
 | **[Coinbase](https://www.coinbase.com)** | **[Business Controller Intern](https://jobright.ai/jobs/info/69681532639b452fb57da3ad?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/69b060b2dfaeda6ff59a2054?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Mar 21 |
@@ -109,6 +109,12 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Chevron](http://www.chevron.com)** | **[Aviation Maintenance Administrative Associate](https://jobright.ai/jobs/info/69be999cb1060245628411cb?utm_campaign=1052&utm_source=git)** | Sugar Land, TX | On Site | Mar 21 |
 | **[EPIC Insurance Brokers & Consultants](http://www.edgewoodins.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69a1cbfab600907a9628291c?utm_campaign=1052&utm_source=git)** | New Castle, PA | On Site | Mar 21 |
 | **[Canon USA](https://www.usa.canon.com)** | **[2026 Canon Insights Summer Internship – Audit & Business Consultation Intern](https://jobright.ai/jobs/info/69a1bd4eb600907a96282021?utm_campaign=1052&utm_source=git)** | Melville, NY | Hybrid | Mar 21 |
+
+### 🕒 Batch updated: 2026-03-22 21:27 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69beaccab106024562842629?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Mar 21 |
 
 ### 🕒 Batch updated: 2026-03-22 17:19 ET
 
@@ -642,20 +648,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[CooperVision](http://coopervision.com)** | **[Indirect Tax Intern](https://jobright.ai/jobs/info/69bc595445e08b3dc1f8e3f2?utm_campaign=1052&utm_source=git)** | Victor, NY | On Site | Mar 19 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Finance/Accounting Intern: Local Receivables](https://jobright.ai/jobs/info/69bc592345e08b3dc1f8e284?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Mar 19 |
 | **[BPM LLP](https://www.bpm.com/)** | **[Accounting Advisory Apprentice](https://jobright.ai/jobs/info/69bc58f74828227293fe0dcb?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 19 |
-
-### 🕒 Batch updated: 2026-03-20 00:42 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Light & Wonder](https://www.lnw.com/)** | **[Internal Audit Senior Intern](https://jobright.ai/jobs/info/69bcaf3a4828227293fe947c?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | Mar 19 |
-| **[Light & Wonder](https://www.lnw.com/)** | **[Internal Audit Senior Intern](https://jobright.ai/jobs/info/69bca2085b89c002acf2643e?utm_campaign=1052&utm_source=git)** | Austin, Texas | Hybrid | Mar 19 |
-| **[Mission Bank](https://www.missionbank.com/)** | **[Treasury Intern](https://jobright.ai/jobs/info/69bc58f045e08b3dc1f8e145?utm_campaign=1052&utm_source=git)** | San Luis Obispo, CA | On Site | Mar 19 |
-| **[Trench Group](https://trench-group.com/)** | **[Finance Intern (12 Months)](https://jobright.ai/jobs/info/69bc58405b89c002acf1e566?utm_campaign=1052&utm_source=git)** | Pickering, ON | On Site | Mar 19 |
-| **[Menards](https://www.menards.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69bcbd344828227293fe9d42?utm_campaign=1052&utm_source=git)** | EAU CLAIRE, WI - Corporate Office | On Site | Mar 19 |
-| **[Stabilus](https://www.stabilus.com/)** | **[Inventory Analysis Intern](https://jobright.ai/jobs/info/69bc56855b89c002acf1dc92?utm_campaign=1052&utm_source=git)** | Farmington Hills, MI, US | On Site | Mar 19 |
-| **[TTX Company](http://www.ttx.com)** | **[Economic Forecasting Intern](https://jobright.ai/jobs/info/69bc565c5b89c002acf1dc1d?utm_campaign=1052&utm_source=git)** | 2151 Hawkins St, Charlotte, NC, 28203, US | On Site | Mar 19 |
-| **[BDO](https://global-www.bdo.global/)** | **[Tax Intern, Business Incentives Group - Summer 2027 (Chicago)](https://jobright.ai/jobs/info/69bc56574828227293fe0555?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Mar 19 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Mergers & Acquisitions](https://jobright.ai/jobs/info/69bc563545e08b3dc1f8d393?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | On Site | Mar 19 |
-| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Business Incentives Group - Summer 2027 (Chicago)](https://jobright.ai/jobs/info/69bc563545e08b3dc1f8d39b?utm_campaign=1052&utm_source=git)** | 225 W. Randolph Street, Chicago, IL, 60606, US | On Site | Mar 19 |
-| **[Quva](http://www.quvapharma.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69bc55b04828227293fe04f0?utm_campaign=1052&utm_source=git)** | Sugar Land, Texas, United States | On Site | Mar 19 |
 
