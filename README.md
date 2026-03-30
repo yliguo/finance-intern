@@ -4,11 +4,12 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-03-30 01:17 ET
+### 🕒 Batch updated: 2026-03-30 03:17 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PROJXON](www.projxon.com)** | **[Grant Administrator (Intern)](https://jobright.ai/jobs/info/69ca0253aa3c2c1995e29286?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 29 |
 | **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Tax Internship - Summer 2027](https://jobright.ai/jobs/info/69c9de60b773006330b89137?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Mar 29 |
 | ↳ | **[Tax Internship - Winter 2027](https://jobright.ai/jobs/info/69c9de5c1b5ad0288739d08d?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Mar 29 |
 | ↳ | **[Audit Internship - Summer 2027](https://jobright.ai/jobs/info/69c9de501818a24cd84dea2a?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Mar 29 |
@@ -47,11 +48,13 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Corporate Real Estate Intern](https://jobright.ai/jobs/info/6959814faa05c26e7ab33ae4?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Mar 29 |
 | **[Goldbelt, Incorporated](http://goldbelt.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69be2d3f482822729300e629?utm_campaign=1052&utm_source=git)** | Herndon, VA | On Site | Mar 29 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2027 (Atlanta, GA)](https://jobright.ai/jobs/info/698dbe77f64d441a164fed31?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Mar 29 |
+| **[PNC](http://www.pnc.com)** | **[Accounting Analyst](https://jobright.ai/jobs/info/69c9f8b6aa3c2c1995e29035?utm_campaign=1052&utm_source=git)** | Kansas, United States | Hybrid | Mar 29 |
 | **[Wipfli](http://www.wipfli.com)** | **[Accounting Internship, Spring 2027, Tribal Audit](https://jobright.ai/jobs/info/69ae3e713de6821aaccd7888?utm_campaign=1052&utm_source=git)** | Great Falls, MT | On Site | Mar 29 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Accounting Intern - Irving TX - R10226595](https://jobright.ai/jobs/info/69c8b549e565c26a70030a7f?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Mar 28 |
 | ↳ | **[2026 Accounting Intern - Irving TX - R10226609](https://jobright.ai/jobs/info/69c8b548e565c26a70030a7e?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Mar 28 |
 | ↳ | **[2026 Accounting Intern - Irving TX - R10226603](https://jobright.ai/jobs/info/69c8b5001b5ad02887394f58?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Mar 28 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69c8ad61aa3c2c1995e1fc39?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Mar 28 |
+| **[PNC](http://www.pnc.com)** | **[Virtual Financial Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69c9f20c83ea553769ff4420?utm_campaign=1052&utm_source=git)** | Colorado, United States | Hybrid | Mar 28 |
 | **[Amrit Ocean Resort & Residences](https://www.amritocean.com)** | **[Revenue Management Internship - Summer 2026](https://jobright.ai/jobs/info/69c8609eb773006330b7f1da?utm_campaign=1052&utm_source=git)** | US-CA-San Francisco | On Site | Mar 28 |
 | ↳ | **[Revenue Management Internship - Summer 2026](https://jobright.ai/jobs/info/69c8608b1b5ad028873933f7?utm_campaign=1052&utm_source=git)** | San Francisco, CA, US | On Site | Mar 28 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Revenue Management Internship - Summer 2026](https://jobright.ai/jobs/info/69c860851818a24cd84d4af0?utm_campaign=1052&utm_source=git)** | US-CA-San Francisco | On Site | Mar 28 |
@@ -75,7 +78,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Greystar](http://greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c81e6d1818a24cd84d366f?utm_campaign=1052&utm_source=git)** | Colorado, United States | Hybrid | Mar 28 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c81e6d1818a24cd84d3670?utm_campaign=1052&utm_source=git)** | Florida, United States | Hybrid | Mar 28 |
 | **[SBA Communications](http://www.sbasite.com)** | **[2026 Summer Internship - International, Tax](https://jobright.ai/jobs/info/698f9a850f6f7e7a2cebe239?utm_campaign=1052&utm_source=git)** | Boca Raton, FL | On Site | Mar 28 |
-| **[PNC](http://www.pnc.com)** | **[Audit Lead Senior Specialty - Data Risk](https://jobright.ai/jobs/info/69c9724883ea553769feff06?utm_campaign=1052&utm_source=git)** | Lakewood, CO | On Site | Mar 28 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ab9723142d5b4265fcbb0b?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 28 |
 | **[Fifth Third Bank](http://53.com)** | **[Summer 2027 CIB Intern - Syndicated Leveraged Finance](https://jobright.ai/jobs/info/69b3cde7ae2a534885eb3def?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
 | **[BPM LLP](https://www.bpm.com/)** | **[Assurance Intern (Summer 2026)](https://jobright.ai/jobs/info/69c81677e565c26a7002dad7?utm_campaign=1052&utm_source=git)** | Santa Rosa, CA | On Site | Mar 28 |
@@ -107,6 +109,12 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (San Jose)](https://jobright.ai/jobs/info/69a67f0ce567421f42578328?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/698e2a57f64d441a1650660f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Winter 2027 (Richmond)](https://jobright.ai/jobs/info/698e131878b4502f12a4e0a6?utm_campaign=1052&utm_source=git)** | Richmond, VA | Hybrid | Mar 28 |
+
+### 🕒 Batch updated: 2026-03-30 01:17 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[PNC](http://www.pnc.com)** | **[Audit Lead Senior Specialty - Data Risk](https://jobright.ai/jobs/info/69c9724883ea553769feff06?utm_campaign=1052&utm_source=git)** | Lakewood, CO | On Site | Mar 28 |
 | ↳ | **[Assurance Intern - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/699a8aa581476f6176b3194f?utm_campaign=1052&utm_source=git)** | San Francisco, CA | On Site | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/698e182878b4502f12a4e531?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 28 |
 
@@ -696,21 +704,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/69c593fb1818a24cd84b80d2?utm_campaign=1052&utm_source=git)** | Canada | Remote | Mar 26 |
 | **[Allison Transmission](http://www.allisontransmission.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69c593d41818a24cd84b80a5?utm_campaign=1052&utm_source=git)** | Lafayette, IN | On Site | Mar 26 |
 | **[Hammond Power Solutions](https://www.hammondpowersolutions.com)** | **[Financial Planning & Analysis -MBA Intern](https://jobright.ai/jobs/info/69c59349aa3c2c1995e01aa2?utm_campaign=1052&utm_source=git)** | Guelph, ON | On Site | Mar 26 |
-
-### 🕒 Batch updated: 2026-03-27 02:59 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[City of Albuquerque](https://www.cabq.gov)** | **[Internal Audit Student Assistant UN](https://jobright.ai/jobs/info/69c5e35aaa3c2c1995e05a25?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Mar 26 |
-| **[Combe Incorporated](http://www.combe.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69c5cc02aa9a29199e80aa75?utm_campaign=1052&utm_source=git)** | White Plains, NY | On Site | Mar 26 |
-| **[PNC](http://www.pnc.com)** | **[Financial Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69c5c241aa9a29199e809bc5?utm_campaign=1052&utm_source=git)** | Westminster, MD | On Site | Mar 26 |
-| ↳ | **[Underwriter IV- Tax Credit](https://jobright.ai/jobs/info/69c5c26183ea553769fcf42e?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
-| ↳ | **[Financial Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69c5c1b9aa3c2c1995e03eb1?utm_campaign=1052&utm_source=git)** | Littlestown, PA | On Site | Mar 26 |
-| ↳ | **[Underwriter IV- Tax Credit](https://jobright.ai/jobs/info/69c5c2031b5ad02887378ce3?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 26 |
-| **[State of Utah](http://www.utah.gov/)** | **[Financial Analyst I](https://jobright.ai/jobs/info/69c5922daa9a29199e8075fc?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 26 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Equity Research Intern](https://jobright.ai/jobs/info/69c5919f83ea553769fcce43?utm_campaign=1052&utm_source=git)** | Canada | Remote | Mar 26 |
-| **[First Western Trust](https://myfw.com/)** | **[Loan Associate](https://jobright.ai/jobs/info/69c58fd583ea553769fccc87?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | On Site | Mar 26 |
-| **[Greystar (International)](http://www.greystar.com)** | **[Operations and Financial Analyst Internship](https://jobright.ai/jobs/info/69c58f8483ea553769fccac0?utm_campaign=1052&utm_source=git)** | Remote Texas, Remote Texas, TX | Remote | Mar 26 |
-| **[RBC](https://www.rbc.com)** | **[Manager Credit Structures Intern](https://jobright.ai/jobs/info/69c58f74aa3c2c1995e01646?utm_campaign=1052&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Mar 26 |
-| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern- Tax Product Specialist](https://jobright.ai/jobs/info/69c58f71aa3c2c1995e01642?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Mar 26 |
 
