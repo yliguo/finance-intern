@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-03-31 14:51 ET
+### 🕒 Batch updated: 2026-03-31 17:31 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -503,33 +503,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69c785bde565c26a70029d36?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 28 |
 | ↳ | **[Senior Internal Auditor](https://jobright.ai/jobs/info/69c7decbe565c26a7002c6da?utm_campaign=1052&utm_source=git)** | Hanover, NH | Hybrid | Mar 27 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Intern - Plant Controlling - Cost Accounting](https://jobright.ai/jobs/info/69c7af1fb773006330b7afe5?utm_campaign=1052&utm_source=git)** | Allentown, PA | On Site | Mar 27 |
-
-### 🕒 Batch updated: 2026-03-28 17:23 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Assurance Intern - Summer 2027](https://jobright.ai/jobs/info/69bc36754828227293fdb9af?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Mar 28 |
-| **[PNC](http://www.pnc.com)** | **[Virtual Financial Advisor - PNC Wealth Management](https://jobright.ai/jobs/info/69c7b58e83ea553769fe5bc9?utm_campaign=1052&utm_source=git)** | Colorado, United States | Hybrid | Mar 28 |
-| **[Birchwood Automotive Group](https://www.birchwood.ca/)** | **[PROFESSIONAL INTERN - BUSINESS ANALYST](https://jobright.ai/jobs/info/69c73de2e565c26a700272ea?utm_campaign=1052&utm_source=git)** | Winnipeg, MB | On Site | Mar 27 |
-| **[Gollob Morgan Peddy Inc](http://gmpcpa.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/69c71e4e1818a24cd84cbd48?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | Mar 27 |
-| **[Trident](https://www.tridsys.com/)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/69c71dd81b5ad0288738a536?utm_campaign=1052&utm_source=git)** | Fairfax, VA | On Site | Mar 27 |
-| **[Jostens](http://jostens.com)** | **[Sr. Finance Manager - Shared Services (AP & AR)](https://jobright.ai/jobs/info/69672115639b452fb57cc330?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 27 |
-| **[PRO*ACT](http://www.proactusa.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69c71af5aa3c2c1995e15788?utm_campaign=1052&utm_source=git)** | Monterey,CA,US | On Site | Mar 27 |
-| **[Sagard](http://www.sagard.com)** | **[Intern, FP&A](https://jobright.ai/jobs/info/69b3261dad360c0340a84624?utm_campaign=1052&utm_source=git)** | Toronto, ON | On Site | Mar 27 |
-| **[Trident](https://www.tridsys.com/)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/69c71a59aa3c2c1995e15444?utm_campaign=1052&utm_source=git)** | Fairfax, VA, US | On Site | Mar 27 |
-| **[Ophir](http://www.ophir.com)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/69c71a571818a24cd84cb8b7?utm_campaign=1052&utm_source=git)** | Fairfax, VA, US | On Site | Mar 27 |
-| **[Toronto Catholic District School Board](http://www.tcdsb.org)** | **[Accounting Summer Student](https://jobright.ai/jobs/info/69c71966aa3c2c1995e15343?utm_campaign=1052&utm_source=git)** | Toronto, ON | Hybrid | Mar 27 |
-| **[Bow Valley Credit Union](https://www.bowvalleycu.com/)** | **[Summer Finance Intern](https://jobright.ai/jobs/info/69c7189283ea553769fe084c?utm_campaign=1052&utm_source=git)** | Cochrane, AB | On Site | Mar 27 |
-| **[Stantec](http://www.stantec.com)** | **[Accounts Receivable Intern - Summer 2026](https://jobright.ai/jobs/info/69c716d1b773006330b75d60?utm_campaign=1052&utm_source=git)** | Dartmouth, NS | On Site | Mar 27 |
-| **[Calgary Airports](https://www.yyc.com)** | **[Accounting Technician](https://jobright.ai/jobs/info/69c716cae565c26a70025cba?utm_campaign=1052&utm_source=git)** | Calgary, AB | Hybrid | Mar 27 |
-| **[CREW Greater Cincinnati](https://cincinnati.crewnetwork.org/)** | **[Acquisitions Analyst/Associate](https://jobright.ai/jobs/info/69c73450b773006330b76f84?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
-| **[DT Midstream](https://dtmidstream.com/)** | **[Finance Intern - Canonsburg, PA](https://jobright.ai/jobs/info/69c7332ae565c26a70026ff5?utm_campaign=1052&utm_source=git)** | Canonsburg, PA | On Site | Mar 27 |
-| **[CAPREIT](https://www.capreit.ca)** | **[Property Accounting, Summer Student](https://jobright.ai/jobs/info/69c7deb683ea553769fe73a0?utm_campaign=1052&utm_source=git)** | Toronto, ON | Hybrid | Mar 27 |
-| **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Sustainability (Summer 2026)](https://jobright.ai/jobs/info/69c711b883ea553769fe053e?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Mar 27 |
-| **[Long Island Speech](https://www.lispeech.com)** | **[Billing/Insurance Department Intern](https://jobright.ai/jobs/info/69c70f741b5ad02887389c76?utm_campaign=1052&utm_source=git)** | Stony Brook, NY | On Site | Mar 27 |
-| **[Greystar (International)](http://www.greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70ec7b773006330b75665?utm_campaign=1052&utm_source=git)** | Remote Colorado, Remote Colorado, CO | Remote | Mar 27 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70ec7b773006330b75666?utm_campaign=1052&utm_source=git)** | Remote Illinois, Remote Illinois, IL | Remote | Mar 27 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70ec51b5ad028873898eb?utm_campaign=1052&utm_source=git)** | Remote South Carolina, Remote South Carolina, SC | Remote | Mar 27 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70ec51b5ad028873898ec?utm_campaign=1052&utm_source=git)** | Remote North Carolina, Remote North Carolina, NC | Remote | Mar 27 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70eaaaa3c2c1995e14b1d?utm_campaign=1052&utm_source=git)** | Remote Ohio, Remote Ohio, OH | Remote | Mar 27 |
 
