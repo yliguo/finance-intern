@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-03-31 12:01 ET
+### 🕒 Batch updated: 2026-03-31 14:51 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -20,8 +20,8 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Tax Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/69cb67b61b5ad028873ab3bf?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Mar 30 |
 | **[First National Financial LP](https://www.firstnational.ca)** | **[Associate Mortgage Underwriter](https://jobright.ai/jobs/info/69cb4238aa3c2c1995e35846?utm_campaign=1052&utm_source=git)** | Vancouver, BC | On Site | Mar 30 |
 | **[Jefferson Bank](https://www.jeffersonbank.com/)** | **[Loan Operations Intern](https://jobright.ai/jobs/info/69cb404a466f1e133aacc3f1?utm_campaign=1052&utm_source=git)** | San Antonio, TX, US | On Site | Mar 30 |
-| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/69cb671a466f1e133aacd6f4?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Mar 30 |
-| ↳ | **[Tax Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/69cb6728e565c26a700473e9?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Mar 30 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/69cb6728e565c26a700473e9?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Mar 30 |
+| ↳ | **[Tax Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/69cb671a466f1e133aacd6f4?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Mar 30 |
 | ↳ | **[Tax Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/69cb3f578fc6090c5d4562bd?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 30 |
 | ↳ | **[Tax Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/69cb792eaa3c2c1995e378ce?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Mar 30 |
 | **[The 'Quin House](https://thequinhouse.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69cb5387e565c26a700469db?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 30 |
@@ -105,18 +105,25 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[CPA Articling Student – External Audit, Entertainment and New Media – September 2026](https://jobright.ai/jobs/info/69cad94daa3c2c1995e30e1c?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
 | ↳ | **[CPA Articling Student – External Audit, Private Companies – September 2026](https://jobright.ai/jobs/info/69cad94aa8c1822476e20de3?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
 | **[Okuma America Corporation](https://www.okuma.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69cad949466f1e133aac7c5d?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 30 |
+| **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Articling Student – External Audit, Regulated Entities– September 2026](https://jobright.ai/jobs/info/69cad93daa3c2c1995e30deb?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
+| ↳ | **[CPA Articling Student – External Audit, Entertainment and New Media – January 2027](https://jobright.ai/jobs/info/69cad93daa3c2c1995e30de8?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
+| ↳ | **[CPA Articling Student – External Audit, Private Companies – January 2027](https://jobright.ai/jobs/info/69cad93daa3c2c1995e30dea?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
+| ↳ | **[CPA Articling Student – Direct-to-Tax – January 2027](https://jobright.ai/jobs/info/69cad9348fc6090c5d451d1c?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
+
+### 🕒 Batch updated: 2026-03-31 12:01 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/69cb671a466f1e133aacd6f4?utm_campaign=1052&utm_source=git)** | McLean, VA | On Site | Mar 30 |
+| ↳ | **[Tax Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/69cb6728e565c26a700473e9?utm_campaign=1052&utm_source=git)** | Raleigh, NC | On Site | Mar 30 |
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Articling Student – External Audit, Private Companies – January 2027](https://jobright.ai/jobs/info/69cad93daa3c2c1995e30dea?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
 | ↳ | **[CPA Articling Student – External Audit, Regulated Entities– September 2026](https://jobright.ai/jobs/info/69cad93daa3c2c1995e30deb?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
-| ↳ | **[CPA Articling Student – External Audit, Entertainment and New Media – January 2027](https://jobright.ai/jobs/info/69cad93daa3c2c1995e30de8?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
-| ↳ | **[CPA Articling Student – Direct-to-Tax – January 2027](https://jobright.ai/jobs/info/69cad9348fc6090c5d451d1c?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
 
 ### 🕒 Batch updated: 2026-03-31 08:59 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | **[PNC](http://www.pnc.com)** | **[Underwriting Manager II - Small Business Banking](https://jobright.ai/jobs/info/69cb51db1b5ad028873aa8c8?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 30 |
-| **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Articling Student – External Audit, Regulated Entities– September 2026](https://jobright.ai/jobs/info/69cad93daa3c2c1995e30deb?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
-| ↳ | **[CPA Articling Student – External Audit, Private Companies – January 2027](https://jobright.ai/jobs/info/69cad93daa3c2c1995e30dea?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
 
 ### 🕒 Batch updated: 2026-03-31 05:57 ET
 
@@ -525,25 +532,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70ec51b5ad028873898eb?utm_campaign=1052&utm_source=git)** | Remote South Carolina, Remote South Carolina, SC | Remote | Mar 27 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70ec51b5ad028873898ec?utm_campaign=1052&utm_source=git)** | Remote North Carolina, Remote North Carolina, NC | Remote | Mar 27 |
 | ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70eaaaa3c2c1995e14b1d?utm_campaign=1052&utm_source=git)** | Remote Ohio, Remote Ohio, OH | Remote | Mar 27 |
-
-### 🕒 Batch updated: 2026-03-28 14:30 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| ↳ | **[Tax Intern, Core Tax Services - Winter 2027 (Norfolk)](https://jobright.ai/jobs/info/698e14f0f64d441a16504f0b?utm_campaign=1052&utm_source=git)** | Norfolk, VA | Hybrid | Mar 28 |
-| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[Co-Op/Intern 2 (BUDGET)](https://jobright.ai/jobs/info/69c7771383ea553769fe3883?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Mar 27 |
-| **[PRO*ACT](http://www.proactusa.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69c7d6ad1b5ad0288739085c?utm_campaign=1052&utm_source=git)** | Monterey, CA | On Site | Mar 27 |
-| **[Greystar (International)](http://www.greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70ec7b773006330b75666?utm_campaign=1052&utm_source=git)** | Remote Illinois, Remote Illinois, IL | Remote | Mar 27 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70ec7b773006330b75665?utm_campaign=1052&utm_source=git)** | Remote Colorado, Remote Colorado, CO | Remote | Mar 27 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70eaaaa3c2c1995e14b1b?utm_campaign=1052&utm_source=git)** | Remote District of Columbia, Remote District of Columbia, DC | Remote | Mar 27 |
-| **[SpyCloud](https://spycloud.com)** | **[Revenue Operations Internship/Co-Op (Summer/Fall 2026)](https://jobright.ai/jobs/info/69c6fbea1818a24cd84ca6ed?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
-| **[Franklin Templeton](http://www.franklintempleton.com)** | **[Asset Management Intern - LA](https://jobright.ai/jobs/info/69c70e491818a24cd84cb062?utm_campaign=1052&utm_source=git)** | Los Angeles, California, United States of America | On Site | Mar 27 |
-| **[Greystar (International)](http://www.greystar.com)** | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e4683ea553769fe0099?utm_campaign=1052&utm_source=git)** | Remote Florida, Remote Florida, FL | Remote | Mar 27 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e4683ea553769fe0097?utm_campaign=1052&utm_source=git)** | Remote Alabama, Remote Alabama, AL | Remote | Mar 27 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e41e565c26a7002555c?utm_campaign=1052&utm_source=git)** | Remote Georgia, Remote Georgia, GA | Remote | Mar 27 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e41e565c26a7002555b?utm_campaign=1052&utm_source=git)** | Remote California, Remote California, CA | Remote | Mar 27 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e401818a24cd84cb031?utm_campaign=1052&utm_source=git)** | Remote Texas, Remote Texas, TX | Remote | Mar 27 |
-| ↳ | **[Property Accounting Intern](https://jobright.ai/jobs/info/69c70e3f1818a24cd84cb022?utm_campaign=1052&utm_source=git)** | Remote Arizona, Remote Arizona, AZ | Remote | Mar 27 |
-| **[PNC](http://www.pnc.com)** | **[Loan Support Analyst - Retail Lending - Retail Bank Operations](https://jobright.ai/jobs/info/69c7f2f7b773006330b7d171?utm_campaign=1052&utm_source=git)** | Miamisburg, OH | Hybrid | Mar 27 |
-| ↳ | **[Loan Support Analyst - Retail Lending - Retail Bank Operations](https://jobright.ai/jobs/info/69c7f2c3aa3c2c1995e1c512?utm_campaign=1052&utm_source=git)** | Ohio, United States | Hybrid | Mar 27 |
 
