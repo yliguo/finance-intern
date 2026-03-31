@@ -4,12 +4,18 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-03-31 01:04 ET
+### 🕒 Batch updated: 2026-03-31 03:04 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Audit Intern, German Practice / New York Fall 2026](https://jobright.ai/jobs/info/69cb3cf7aa3c2c1995e35638?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 30 |
+| **[Supersoda](https://www.supersoda.com.br/)** | **[Finance Internship](https://jobright.ai/jobs/info/69c53f98e565c26a7000d45a?utm_campaign=1052&utm_source=git)** | 22 Westedge Charleston, SC 29403 | Hybrid | Mar 30 |
+| **[Savage](http://www.savageservices.com)** | **[Finance & Accounting Intern (Summer 2026)](https://jobright.ai/jobs/info/69cb4f178fc6090c5d456ad0?utm_campaign=1052&utm_source=git)** | Midvale, UT | On Site | Mar 30 |
+| **[World Fuel Services](https://aviation.wfscorp.com/)** | **[Finance Internship - Summer 2026](https://jobright.ai/jobs/info/69cb4b62a8c1822476e25a7e?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Mar 30 |
+| **[First National Financial LP](https://www.firstnational.ca)** | **[Associate Mortgage Underwriter](https://jobright.ai/jobs/info/69cb4238aa3c2c1995e35846?utm_campaign=1052&utm_source=git)** | Vancouver, BC | On Site | Mar 30 |
+| **[Jefferson Bank](https://www.jeffersonbank.com/)** | **[Loan Operations Intern](https://jobright.ai/jobs/info/69cb404a466f1e133aacc3f1?utm_campaign=1052&utm_source=git)** | San Antonio, TX, US | On Site | Mar 30 |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Tax Intern / Multiple Locations Winter 2027](https://jobright.ai/jobs/info/69cb3f578fc6090c5d4562bd?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 30 |
+| **[PNC](http://www.pnc.com)** | **[Underwriting Manager II - Small Business Banking](https://jobright.ai/jobs/info/69cb51db1b5ad028873aa8c8?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 30 |
 | **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Intern - Accounting Intern](https://jobright.ai/jobs/info/69cb2817aa3c2c1995e347eb?utm_campaign=1052&utm_source=git)** | Renton, WA | On Site | Mar 30 |
 | **[Epiq](https://www.epiqglobal.com/)** | **[ET&O Finance Intern](https://jobright.ai/jobs/info/69cb2693aa3c2c1995e347d1?utm_campaign=1052&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Mar 30 |
 | **[SEH](http://www.sehinc.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69cb23d9a8c1822476e24599?utm_campaign=1052&utm_source=git)** | Minnesota, United States | Remote | Mar 30 |
@@ -58,7 +64,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[CoStar Group](http://www.costargroup.com/)** | **[Finance Intern - Summer 2026 (Arlington, VA)](https://jobright.ai/jobs/info/69caf0878fc6090c5d452dc6?utm_campaign=1052&utm_source=git)** | US-VA Arlington | On Site | Mar 30 |
 | **[Sipcam Agro USA](https://www.sipcamagrousa.com/)** | **[Copy of Intern - Finance and Accounting](https://jobright.ai/jobs/info/69caec88466f1e133aac8b90?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Mar 30 |
 | **[Edward Rose & Sons](http://edwardrose.com)** | **[Finance Intern (Analytics)](https://jobright.ai/jobs/info/69caeaf4e565c26a700426c8?utm_campaign=1052&utm_source=git)** | Bloomfield Hills, MI | On Site | Mar 30 |
-| **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Student Public Finance Specialist](https://jobright.ai/jobs/info/69cae8bfaa3c2c1995e31bee?utm_campaign=1052&utm_source=git)** | Auburn, AL | On Site | Mar 30 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Intern](https://jobright.ai/jobs/info/69cae890e565c26a700425d8?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 30 |
 | **[St. Charles County Government](http://www.sccmo.org)** | **[BOARD OF EQUALIZATION INTERN / FINANCE DEPARTMENT](https://jobright.ai/jobs/info/69cae86ba8c1822476e21ab4?utm_campaign=1052&utm_source=git)** | St Charles, MO | On Site | Mar 30 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69cae754466f1e133aac8966?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Mar 30 |
@@ -104,6 +109,13 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[Tax Accountant Intern](https://jobright.ai/jobs/info/69bdf862393a1008f743d059?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Canopy Capital Strategies](www.canopycapitalstrategies.com)** | **[Financial Advisor Internship](https://jobright.ai/jobs/info/69cad1e5466f1e133aac7737?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Mar 30 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Orlando, FL](https://jobright.ai/jobs/info/69cacf24e565c26a700410b6?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Mar 30 |
+
+### 🕒 Batch updated: 2026-03-31 01:04 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Audit Intern, German Practice / New York Fall 2026](https://jobright.ai/jobs/info/69cb3cf7aa3c2c1995e35638?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 30 |
+| **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Student Public Finance Specialist](https://jobright.ai/jobs/info/69cae8bfaa3c2c1995e31bee?utm_campaign=1052&utm_source=git)** | Auburn, AL | On Site | Mar 30 |
 | **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Corporate Finance Systems Intern - Summer 2026](https://jobright.ai/jobs/info/69caedbeaa3c2c1995e31dc6?utm_campaign=1052&utm_source=git)** | Pigeon Forge, TN | On Site | Mar 30 |
 | **[Mastronardi Produce](https://www.sunsetgrown.com)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/69caceaa466f1e133aac7535?utm_campaign=1052&utm_source=git)** | Kingsville, ON | On Site | Mar 30 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Graduate Trading Operations Specialist](https://jobright.ai/jobs/info/69caccdda8c1822476e2063e?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Mar 30 |
@@ -581,16 +593,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[BDO](https://global-www.bdo.global/)** | **[Assurance Intern - Summer 2026 (Raleigh)](https://jobright.ai/jobs/info/69c77fd3aa3c2c1995e18c54?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Mar 27 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2026: Finance and Operations Intern](https://jobright.ai/jobs/info/69c6e55f1818a24cd84c993d?utm_campaign=1052&utm_source=git)** | Gladstone, NJ, USA | On Site | Mar 27 |
 | **[SanMar](http://www.sanmar.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69c6e519e565c26a70023b3d?utm_campaign=1052&utm_source=git)** | Issaquah, WA | Hybrid | Mar 27 |
-
-### 🕒 Batch updated: 2026-03-28 02:50 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[PNC](http://www.pnc.com)** | **[Loan Support Analyst - Retail Lending - Retail Bank Operations](https://jobright.ai/jobs/info/69c71fb1aa3c2c1995e15960?utm_campaign=1052&utm_source=git)** | Ohio, United States | Hybrid | Mar 27 |
-| ↳ | **[Loan Support Analyst - Retail Lending - Retail Bank Operations](https://jobright.ai/jobs/info/69c71f9bb773006330b763b5?utm_campaign=1052&utm_source=git)** | Miamisburg, OH | Hybrid | Mar 27 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Intern - Plant Controlling - Cost Accounting](https://jobright.ai/jobs/info/69c71f99b773006330b763b2?utm_campaign=1052&utm_source=git)** | Allentown, PA | On Site | Mar 27 |
-| **[PNC](http://www.pnc.com)** | **[Business Banking Treasury Management Advisor](https://jobright.ai/jobs/info/69c7029eb773006330b751aa?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Mar 27 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Intern - Summer 2026 (Raleigh)](https://jobright.ai/jobs/info/69c700b7aa3c2c1995e142cf?utm_campaign=1052&utm_source=git)** | 421 Fayetteville Street, Raleigh, NC, 27601, US | On Site | Mar 27 |
-| ↳ | **[Assurance Intern - Summer 2026 (Raleigh)](https://jobright.ai/jobs/info/69c700b6aa3c2c1995e142c6?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Mar 27 |
-| **[The Living Legacy Foundation of Maryland](http://www.thellf.org/)** | **[Intern - Finance](https://jobright.ai/jobs/info/69c6e4e01818a24cd84c96f3?utm_campaign=1052&utm_source=git)** | Baltimore, MD, US | On Site | Mar 27 |
 
