@@ -4,16 +4,41 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-04-01 06:01 ET
+### 🕒 Batch updated: 2026-04-01 09:01 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 National Tax Office & Transactional Specialist Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206b4?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 01 |
+| **[Bessemer Trust](http://www.bessemertrust.com/)** | **[Equity Intern](https://jobright.ai/jobs/info/69c368e694007a2195dfdbb3?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 01 |
+| **[Aprio](https://www.aprio.com/)** | **[Aprio 2027 Internship Application - Tax/Audit - Washington DC Metro](https://jobright.ai/jobs/info/695d7b95fbd62a0a656614ea?utm_campaign=1052&utm_source=git)** | Rockville, MD | On Site | Apr 01 |
+| ↳ | **[Aprio 2027 Internship Application - Tax/Audit - Texas](https://jobright.ai/jobs/info/695d6d89f5f3c43f38e23846?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 01 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Project Purchasing Analyst Intern (Year-Round)](https://jobright.ai/jobs/info/69ccfac554f00230c6cebdb1?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Apr 01 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/699bee2fe0bddb6acacad58f?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 01 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6840e82a0f1f4815da2206c1?utm_campaign=1052&utm_source=git)** | Columbus, OH | On Site | Apr 01 |
+| ↳ | **[2027 State and Local Tax (SALT) Intern](https://jobright.ai/jobs/info/6934184df131d96e48469706?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Apr 01 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Securities Operations Specialist Military Apprentice](https://jobright.ai/jobs/info/69ccf477891d7b11cfcb5363?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 01 |
+| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2028 (Indianapolis, IN)](https://jobright.ai/jobs/info/6977d48688e2b47213bbcc0c?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 01 |
+| **[Mercadien](https://www.mercadien.com/)** | **[Summer 2027 Accounting Intern](https://jobright.ai/jobs/info/69ccebd9cfdc6132f9414e4b?utm_campaign=1052&utm_source=git)** | Trenton, NJ | On Site | Apr 01 |
+| **[PNC](http://www.pnc.com)** | **[Loan Processing Analyst (MLO)](https://jobright.ai/jobs/info/69ccebbe366bb95ba54f8121?utm_campaign=1052&utm_source=git)** | Arizona, United States | Hybrid | Apr 01 |
+| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Accounting Intern (Fall 2026)](https://jobright.ai/jobs/info/69b0afba74950064509773ab?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Apr 01 |
+| **[PNC](http://www.pnc.com)** | **[Loan Processing Analyst (MLO)](https://jobright.ai/jobs/info/69cceb89cdb525785fb84233?utm_campaign=1052&utm_source=git)** | Colorado, United States | Hybrid | Apr 01 |
+| **[RMR Group](http://www.rmrgroup.com/)** | **[Staff, Property Accountant](https://jobright.ai/jobs/info/6994e812ce78e77b4fd8fa15?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
+| **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Financial Services Intern](https://jobright.ai/jobs/info/6993bcbe81476f6176ab5ab6?utm_campaign=1052&utm_source=git)** | Greensboro, NC | On Site | Apr 01 |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, International Tax Services - Summer 2027 (Dallas)](https://jobright.ai/jobs/info/69b0a591749500645097588f?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Apr 01 |
+| ↳ | **[Tax Intern, State and Local Tax - Summer 2027 (Dallas)](https://jobright.ai/jobs/info/69b0a57e0b2db6275c04f611?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Apr 01 |
+| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Credit](https://jobright.ai/jobs/info/69b0ac160b2db6275c050bfe?utm_campaign=1052&utm_source=git)** | Paramus, NJ | On Site | Apr 01 |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Business Incentives Group - Summer 2027 (Dallas)](https://jobright.ai/jobs/info/69b0a4e9dfaeda6ff59ae657?utm_campaign=1052&utm_source=git)** | Dallas, TX | Hybrid | Apr 01 |
+| ↳ | **[Assurance Intern - Winter 2027 (Detroit)](https://jobright.ai/jobs/info/69cc9e8ae1921223acc7aba0?utm_campaign=1052&utm_source=git)** | Detroit, MI | On Site | Apr 01 |
+| **[Laveer Engineering](https://laveer.ca/)** | **[US Fuels Account Management Intern Summer 2026](https://jobright.ai/jobs/info/69cce14c891d7b11cfcb4f3a?utm_campaign=1052&utm_source=git)** | Hopkins, SC | Hybrid | Apr 01 |
+| **[PNC](http://www.pnc.com)** | **[Audit Lead Senior - Specialty](https://jobright.ai/jobs/info/69cce10d54f00230c6ceb8b0?utm_campaign=1052&utm_source=git)** | Lakewood, CO | On Site | Apr 01 |
+| **[Continental](https://www.continental.com)** | **[2026 Internship - Controlling (Hoosier Racing Tire)](https://jobright.ai/jobs/info/69c7086283ea553769fdfe79?utm_campaign=1052&utm_source=git)** | Lakeville, IN | On Site | Apr 01 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69ccd9da891d7b11cfcb49b3?utm_campaign=1052&utm_source=git)** | Burns Lake, BC | On Site | Apr 01 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Sr Financial Analyst - DIS - req13643](https://jobright.ai/jobs/info/69ccd8aecfdc6132f941461a?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 01 |
 | **[Equinox](http://www.equinox.com)** | **[Tax Internship](https://jobright.ai/jobs/info/69ccd590398fb071abf706d0?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 01 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Fiscal/Administrative Assistant(Hybrid)](https://jobright.ai/jobs/info/69ccd576366bb95ba54f71f2?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Apr 01 |
 | **[Requity](https://www.linkedin.com/company/111600079)** | **[Real Estate Investment Intern](https://jobright.ai/jobs/info/69ccd570366bb95ba54f71cc?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Apr 01 |
+| **[Durham County Government](http://www.dconc.gov)** | **[EXECUTIVE ACCOUNTANT - 40008700](https://jobright.ai/jobs/info/69ccf4b8cdb525785fb84569?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Apr 01 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Accountant(Hybrid)](https://jobright.ai/jobs/info/69ccc665891d7b11cfcb3840?utm_campaign=1052&utm_source=git)** | Hartford, CT | Hybrid | Apr 01 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Accounting Intern MYMI 2026](https://jobright.ai/jobs/info/69ccc3b6cfdc6132f9413472?utm_campaign=1052&utm_source=git)** | Canada-Ontario-MississaugaWork Locations | Hybrid | Apr 01 |
 | ↳ | **[Accounting Intern MYMI 2026](https://jobright.ai/jobs/info/69ccc33a891d7b11cfcb36c5?utm_campaign=1052&utm_source=git)** | 2680 Matheson Blvd East, Suite 5002680 Matheson Blvd East, Suite 500 | Hybrid | Apr 01 |
@@ -35,55 +60,62 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8ed3891d7b11cfcaff2b?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8ed3891d7b11cfcaff2c?utm_campaign=1052&utm_source=git)** | Frankfort, KY | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8ec6891d7b11cfcaff23?utm_campaign=1052&utm_source=git)** | Jackson, MS | Remote | Mar 31 |
-| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8e6b8130af1ac833bf55?utm_campaign=1052&utm_source=git)** | Washington, DC | Remote | Mar 31 |
-| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8e6b8130af1ac833bf53?utm_campaign=1052&utm_source=git)** | Boise, ID | Remote | Mar 31 |
-| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8e6b8130af1ac833bf52?utm_campaign=1052&utm_source=git)** | Providence, RI | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8e6b8130af1ac833bf54?utm_campaign=1052&utm_source=git)** | Honolulu, HI | Remote | Mar 31 |
+| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8e6b8130af1ac833bf55?utm_campaign=1052&utm_source=git)** | Washington, DC | Remote | Mar 31 |
+| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8e6b8130af1ac833bf52?utm_campaign=1052&utm_source=git)** | Providence, RI | Remote | Mar 31 |
+| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8e6b8130af1ac833bf53?utm_campaign=1052&utm_source=git)** | Boise, ID | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8e5d8130af1ac833bf44?utm_campaign=1052&utm_source=git)** | Columbia, SC | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8cc0e1921223acc794c8?utm_campaign=1052&utm_source=git)** | Annapolis, MD | Remote | Mar 31 |
-| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8cc0e1921223acc794c9?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8cc0e1921223acc794c7?utm_campaign=1052&utm_source=git)** | Santa Fe, NM | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8cc0e1921223acc794c5?utm_campaign=1052&utm_source=git)** | Lansing, MI | Remote | Mar 31 |
+| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8cc0e1921223acc794c9?utm_campaign=1052&utm_source=git)** | Raleigh, NC | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8caee1921223acc794ae?utm_campaign=1052&utm_source=git)** | Juneau, AK | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8cad366bb95ba54f2c8d?utm_campaign=1052&utm_source=git)** | Helena, MT | Remote | Mar 31 |
-| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8cac366bb95ba54f2c8c?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Mar 31 |
-| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8cac366bb95ba54f2c89?utm_campaign=1052&utm_source=git)** | Topeka, KS | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8cac366bb95ba54f2c8a?utm_campaign=1052&utm_source=git)** | Charleston, WV | Remote | Mar 31 |
+| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8cac366bb95ba54f2c89?utm_campaign=1052&utm_source=git)** | Topeka, KS | Remote | Mar 31 |
+| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8cac366bb95ba54f2c8c?utm_campaign=1052&utm_source=git)** | Boston, MA | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8ca4e1921223acc794a7?utm_campaign=1052&utm_source=git)** | Bismarck, ND | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8c9f366bb95ba54f2c76?utm_campaign=1052&utm_source=git)** | Montgomery, AL | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8c9f366bb95ba54f2c79?utm_campaign=1052&utm_source=git)** | Lincoln, NE | Remote | Mar 31 |
-| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8c9f366bb95ba54f2c74?utm_campaign=1052&utm_source=git)** | Hartford, CT | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8c9f366bb95ba54f2c77?utm_campaign=1052&utm_source=git)** | Montpelier, VT | Remote | Mar 31 |
+| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8c9f366bb95ba54f2c74?utm_campaign=1052&utm_source=git)** | Hartford, CT | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8c9f366bb95ba54f2c75?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8c99366bb95ba54f2c6d?utm_campaign=1052&utm_source=git)** | Salem, OR | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8c95e1921223acc79497?utm_campaign=1052&utm_source=git)** | Pierre, SD | Remote | Mar 31 |
-| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8c8d366bb95ba54f2c61?utm_campaign=1052&utm_source=git)** | St Paul, MN | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8c8d366bb95ba54f2c60?utm_campaign=1052&utm_source=git)** | San Juan, TX | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8c8d366bb95ba54f2c5f?utm_campaign=1052&utm_source=git)** | Tallahassee, FL | Remote | Mar 31 |
+| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8c8d366bb95ba54f2c61?utm_campaign=1052&utm_source=git)** | St Paul, MN | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8c01cfdc6132f940fb31?utm_campaign=1052&utm_source=git)** | Madison, WI | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8bf8cfdc6132f940fb21?utm_campaign=1052&utm_source=git)** | Concord, NH | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8bf8cfdc6132f940fb22?utm_campaign=1052&utm_source=git)** | Denver, CO | Remote | Mar 31 |
-| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8be9cfdc6132f940fb16?utm_campaign=1052&utm_source=git)** | Cheyenne, WY | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8be9cfdc6132f940fb15?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | Remote | Mar 31 |
-| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8b65cdb525785fb7eb1f?utm_campaign=1052&utm_source=git)** | Gu Oidak, AZ | Remote | Mar 31 |
-| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8b65cdb525785fb7eb23?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Remote | Mar 31 |
+| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8be9cfdc6132f940fb16?utm_campaign=1052&utm_source=git)** | Cheyenne, WY | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8b65cdb525785fb7eb22?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Remote | Mar 31 |
+| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8b65cdb525785fb7eb1f?utm_campaign=1052&utm_source=git)** | Gu Oidak, AZ | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8b65cdb525785fb7eb21?utm_campaign=1052&utm_source=git)** | Austin, TX | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8b65cdb525785fb7eb20?utm_campaign=1052&utm_source=git)** | Jefferson City, MO | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8b65cdb525785fb7eb24?utm_campaign=1052&utm_source=git)** | Carson City, NV | Remote | Mar 31 |
-| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8b59cdb525785fb7eaff?utm_campaign=1052&utm_source=git)** | Richmond, VA | Remote | Mar 31 |
+| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8b65cdb525785fb7eb23?utm_campaign=1052&utm_source=git)** | Des Moines, IA | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8b59cdb525785fb7eb02?utm_campaign=1052&utm_source=git)** | Trenton, NJ | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8b59cdb525785fb7eb00?utm_campaign=1052&utm_source=git)** | Harrisburg, PA | Remote | Mar 31 |
+| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8b59cdb525785fb7eaff?utm_campaign=1052&utm_source=git)** | Richmond, VA | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8b47cdb525785fb7eae9?utm_campaign=1052&utm_source=git)** | Springfield, IL | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8b47cdb525785fb7eaec?utm_campaign=1052&utm_source=git)** | Albany, NY | Remote | Mar 31 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department - Quality Assurance Intern](https://jobright.ai/jobs/info/69a73ef42672cb0acb4baaeb?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8a458130af1ac833b93f?utm_campaign=1052&utm_source=git)** | Little Rock, AR | Remote | Mar 31 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Finance Internship, Summer 2026](https://jobright.ai/jobs/info/69cc8a2fe1921223acc791f0?utm_campaign=1052&utm_source=git)** | Lowell, AR | On Site | Mar 31 |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8a2d8130af1ac833b925?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Mar 31 |
-| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8a2d8130af1ac833b924?utm_campaign=1052&utm_source=git)** | Columbus, OH | Remote | Mar 31 |
+| **[Ryder System, Inc.](http://ryder.com/en)** | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8a2d8130af1ac833b924?utm_campaign=1052&utm_source=git)** | Columbus, OH | Remote | Mar 31 |
+| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8a2d8130af1ac833b925?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69ccb6f2e1921223acc7c00e?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK | Remote | Mar 31 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Growth Equity Portfolio Value Creation Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69cc85f3cfdc6132f940eec0?utm_campaign=1052&utm_source=git)** | Greater Philadelphia | On Site | Mar 31 |
 | **[LG Electronics](http://www.lg.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69c4686933eecf310794bac7?utm_campaign=1052&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 31 |
+
+### 🕒 Batch updated: 2026-04-01 06:01 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Ryder System, Inc.](http://ryder.com/en)** | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8a2d8130af1ac833b925?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Mar 31 |
+| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8a2d8130af1ac833b924?utm_campaign=1052&utm_source=git)** | Columbus, OH | Remote | Mar 31 |
 | **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69cc83148130af1ac833a539?utm_campaign=1052&utm_source=git)** | Framingham, MA | Hybrid | Mar 31 |
 | **[Mapletree](http://www.mapletree.com.sg)** | **[Intern, Property Management, United States](https://jobright.ai/jobs/info/69cc82e0e1921223acc77bd5?utm_campaign=1052&utm_source=git)** | Atlanta Metro | Hybrid | Mar 31 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[IT Auditor I/II](https://jobright.ai/jobs/info/69cc7ff88130af1ac833963a?utm_campaign=1052&utm_source=git)** | DFW Metroplex | Hybrid | Mar 31 |
@@ -117,8 +149,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[First Onsite Property Restoration](https://firstonsite.com)** | **[Intern - Financial Analyst](https://jobright.ai/jobs/info/69cc91afcdb525785fb7f281?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | On Site | Mar 31 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8ed3891d7b11cfcaff2e?utm_campaign=1052&utm_source=git)** | Dover, DE | Remote | Mar 31 |
 | ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8ed3891d7b11cfcaff2d?utm_campaign=1052&utm_source=git)** | Nashville, TN | Remote | Mar 31 |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8a2d8130af1ac833b924?utm_campaign=1052&utm_source=git)** | Columbus, OH | Remote | Mar 31 |
-| ↳ | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc8a2d8130af1ac833b925?utm_campaign=1052&utm_source=git)** | Phoenix, AZ | Remote | Mar 31 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc565acfdc6132f940bbf3?utm_campaign=1052&utm_source=git)** | USA - Nationwide Remote USA | Remote | Mar 31 |
 | **[Stout](http://www.stout.com)** | **[Intern Summer 2026, Portfolio Valuation and Complex Securities (New York/Los Angeles/Chicago/Detroit/Philadelphia)](https://jobright.ai/jobs/info/69cc5651891d7b11cfcabd84?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Mar 31 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[IT Audit Intern - REMOTE](https://jobright.ai/jobs/info/69cc56378130af1ac8337f38?utm_campaign=1052&utm_source=git)** | USA - Remote FL | Remote | Mar 31 |
@@ -584,20 +614,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, International Tax Services - Summer 2027 (Miami)](https://jobright.ai/jobs/info/69ab94f32747003c3d5117f2?utm_campaign=1052&utm_source=git)** | Miami, FL | Hybrid | Mar 28 |
 | ↳ | **[Tax Intern, Core Tax Services - Winter 2027 (Columbia)](https://jobright.ai/jobs/info/698e23ef0f6f7e7a2cea31af?utm_campaign=1052&utm_source=git)** | Columbia, MD | Hybrid | Mar 28 |
 | **[Penn Mutual](https://www.pennmutual.com/)** | **[PMAM Summer Intern](https://jobright.ai/jobs/info/69c8f0d41b5ad028873970e7?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 28 |
-
-### 🕒 Batch updated: 2026-03-29 08:37 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Senior Associate Director of Financial (Hybrid)](https://jobright.ai/jobs/info/69c852d51818a24cd84d4489?utm_campaign=1052&utm_source=git)** | Flint, MI | Hybrid | Mar 28 |
-| ↳ | **[Lending Transact Assoc Sr.](https://jobright.ai/jobs/info/69c84b381818a24cd84d43b6?utm_campaign=1052&utm_source=git)** | Michigan, United States | Hybrid | Mar 28 |
-| **[Alumni Ventures](http://www.av.vc)** | **[Investment Team Intern](https://jobright.ai/jobs/info/69b09a830b2db6275c04d7f0?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Mar 28 |
-| **[Minnesota Department of Employment and Economic Development](https://mn.gov/deed/)** | **[Lead Internal Auditor - State Program Administrator Coordinator](https://jobright.ai/jobs/info/69c790c5b773006330b7a1b8?utm_campaign=1052&utm_source=git)** | St Paul, MN | Hybrid | Mar 28 |
-| **[Coherent Corp.](http://www.coherent.com)** | **[Intern - Treasury](https://jobright.ai/jobs/info/69c775c183ea553769fe3862?utm_campaign=1052&utm_source=git)** | Saxonburg, PA | On Site | Mar 27 |
-| **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Foundation Fund and Scholarship Coordinator - Statler College of Engineering and Mineral Resources  28750](https://jobright.ai/jobs/info/69c8bb3fb773006330b810a7?utm_campaign=1052&utm_source=git)** | Morgantown, WV | On Site | Mar 27 |
-| **[PNC](http://www.pnc.com)** | **[Loan Support Analyst - Retail Lending - Retail Bank Operations](https://jobright.ai/jobs/info/69c8bb2ab773006330b81095?utm_campaign=1052&utm_source=git)** | Miamisburg, OH | Hybrid | Mar 27 |
-| **[Coherent Corp.](http://www.coherent.com)** | **[Intern - Treasury](https://jobright.ai/jobs/info/69c75021e565c26a70027b00?utm_campaign=1052&utm_source=git)** | 375 Saxonburg Blvd, Saxonburg, PA, 16056, US | On Site | Mar 27 |
-| **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69c749fd1b5ad0288738ba16?utm_campaign=1052&utm_source=git)** | Mission, TX | On Site | Mar 27 |
-| **[PwC](http://pwc.com)** | **[Customs & International Trade Tax Intern - Summer 2026](https://jobright.ai/jobs/info/69c74032b773006330b77347?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
-| **[II-VI Aerospace & Defense](https://www.iiviad.com)** | **[Intern - Treasury](https://jobright.ai/jobs/info/69c77f9ae565c26a7002962c?utm_campaign=1052&utm_source=git)** | 375 Saxonburg Blvd, Saxonburg, PA, 16056, US | On Site | Mar 27 |
 
