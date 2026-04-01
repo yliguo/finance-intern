@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-03-31 17:31 ET
+### 🕒 Batch updated: 2026-03-31 21:54 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -491,16 +491,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Vialto](https://vialtopartners.com/)** | **[Financial Planning & Analysis Summer Intern – Strategic Finance](https://jobright.ai/jobs/info/69c723bb1818a24cd84cbf05?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[Credit One Bank](http://creditonebank.com)** | **[Portfolio Management Analyst Intern](https://jobright.ai/jobs/info/69c7214083ea553769fe0e8f?utm_campaign=1052&utm_source=git)** | Las Vegas, NV | On Site | Mar 27 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Chief Accounting Officer and Controller](https://jobright.ai/jobs/info/69c7dedf1818a24cd84d225c?utm_campaign=1052&utm_source=git)** | New Britain, CT | On Site | Mar 27 |
-
-### 🕒 Batch updated: 2026-03-28 21:48 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Fifth Third Bank](http://53.com)** | **[Summer 2027 Intern - CIB Corporate Client Coverage (Corp. Finance)](https://jobright.ai/jobs/info/69b2e686ad360c0340a7f44f?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | Mar 28 |
-| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69c7b2521818a24cd84d0a84?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | On Site | Mar 28 |
-| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Winter 2027 (Baltimore)](https://jobright.ai/jobs/info/698e199078b4502f12a4e658?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Mar 28 |
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69c785dbb773006330b79c81?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 28 |
-| ↳ | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69c785bde565c26a70029d36?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Mar 28 |
-| ↳ | **[Senior Internal Auditor](https://jobright.ai/jobs/info/69c7decbe565c26a7002c6da?utm_campaign=1052&utm_source=git)** | Hanover, NH | Hybrid | Mar 27 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Intern - Plant Controlling - Cost Accounting](https://jobright.ai/jobs/info/69c7af1fb773006330b7afe5?utm_campaign=1052&utm_source=git)** | Allentown, PA | On Site | Mar 27 |
 
