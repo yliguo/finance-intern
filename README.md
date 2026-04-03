@@ -4,11 +4,13 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-04-03 02:59 ET
+### 🕒 Batch updated: 2026-04-03 05:46 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American National Bank of Texas](https://www.anbtx.com/)** | **[Banking Operations Support Internship](https://jobright.ai/jobs/info/69cf5dd4891d7b11cfcd2c59?utm_campaign=1052&utm_source=git)** | Terrell, TX | On Site | Apr 02 |
+| **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Treasury Analytics Intern](https://jobright.ai/jobs/info/69cf5db1366bb95ba5515917?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | Apr 02 |
 | **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Financial Analysis and Accounting Intern](https://jobright.ai/jobs/info/69cf533e54f00230c6d091f0?utm_campaign=1052&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Deposit Operations](https://jobright.ai/jobs/info/69cf518c891d7b11cfcd2808?utm_campaign=1052&utm_source=git)** | Gretna, LA | On Site | Apr 02 |
 | **[BankIn Minnesota](https://www.minnesota.bank)** | **[Loan Documentation Specialist](https://jobright.ai/jobs/info/69cf42ee398fb071abf8e4cd?utm_campaign=1052&utm_source=git)** | Richfield, MN | Hybrid | Apr 02 |
@@ -59,7 +61,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69ceee7f54f00230c6d04e56?utm_campaign=1052&utm_source=git)** | Santa Maria, CA | On Site | Apr 02 |
 | **[Nuovo Artistic Photography](https://nuovophotography.com)** | **[Collections Intern](https://jobright.ai/jobs/info/69ceee56cdb525785fb9d23d?utm_campaign=1052&utm_source=git)** | Montreal, QC | On Site | Apr 02 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Senior Associate Director of Financial (Hybrid)](https://jobright.ai/jobs/info/69cf0af9cdb525785fb9e266?utm_campaign=1052&utm_source=git)** | Flint, MI | Hybrid | Apr 02 |
-| **[Willis Knighton Health](https://wkhs.com/)** | **[Billing & Coding Specialist](https://jobright.ai/jobs/info/69cf0f4b366bb95ba5512294?utm_campaign=1052&utm_source=git)** | Louisiana, United States | On Site | Apr 02 |
+| **[Willis Knighton Health](https://wkhs.com/)** | **[Billing & Coding Specialist](https://jobright.ai/jobs/info/69cf0af6cdb525785fb9e25f?utm_campaign=1052&utm_source=git)** | Louisiana, United States | On Site | Apr 02 |
 | **[Chandler Asset Management, Inc.](http://chandlerasset.com/)** | **[Investment Intern](https://jobright.ai/jobs/info/69cf305dcdb525785fb9f856?utm_campaign=1052&utm_source=git)** | San Diego,CA,US | On Site | Apr 02 |
 | **[Cerini and Associates, LLP](http://ceriniandassociates.com)** | **[Accounts Payable Auditor- Internship](https://jobright.ai/jobs/info/69ceeb14cdb525785fb9d0dc?utm_campaign=1052&utm_source=git)** | Bohemia, NY | On Site | Apr 02 |
 | **[Ryan](http://ryan.com)** | **[Intern, Real Property Tax - Plano, TX](https://jobright.ai/jobs/info/69ceeab4cdb525785fb9d082?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Apr 02 |
@@ -96,7 +98,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69ced744cdb525785fb9bd29?utm_campaign=1052&utm_source=git)** | Naples, FL | On Site | Apr 02 |
 | **[BMO](http://www.bmo.com)** | **[Investorline Analyst, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69ced71f366bb95ba550fc95?utm_campaign=1052&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 02 |
 | **[City of North Vancouver](https://www.cnv.org/)** | **[Payroll Technician](https://jobright.ai/jobs/info/69ced417891d7b11cfcccecd?utm_campaign=1052&utm_source=git)** | North Vancouver, BC | On Site | Apr 02 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Sr Financial Analyst - DIS - req13643](https://jobright.ai/jobs/info/69ced2d354f00230c6d036d1?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 02 |
 | **[Greenlight](https://greenlight.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ced2b8398fb071abf89568?utm_campaign=1052&utm_source=git)** | Atlanta, GA | Hybrid | Apr 02 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69cf2b86891d7b11cfcd099d?utm_campaign=1052&utm_source=git)** | Fort Smith, AR | On Site | Apr 02 |
 | **[Kadant Solutions Division](https://dcf.kadant.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ced026cfdc6132f942c86c?utm_campaign=1052&utm_source=git)** | Auburn, MA | On Site | Apr 02 |
@@ -108,13 +109,19 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Guardian Pharmacy](https://guardianpharmacy.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69cece2154f00230c6d0343f?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Accounting Internship - Summer 2026](https://jobright.ai/jobs/info/69cec954cdb525785fb9b7c0?utm_campaign=1052&utm_source=git)** | London, ON | On Site | Apr 02 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Finance Intern - General Ledger](https://jobright.ai/jobs/info/69cec86fcdb525785fb9b64a?utm_campaign=1052&utm_source=git)** | Daytona Beach, FL, USA | On Site | Apr 02 |
+
+### 🕒 Batch updated: 2026-04-03 02:59 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Willis Knighton Health](https://wkhs.com/)** | **[Billing & Coding Specialist](https://jobright.ai/jobs/info/69cf0f4b366bb95ba5512294?utm_campaign=1052&utm_source=git)** | Louisiana, United States | On Site | Apr 02 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Sr Financial Analyst - DIS - req13643](https://jobright.ai/jobs/info/69ced2d354f00230c6d036d1?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 02 |
 | **[Kline Hill Partners](http://klinehill.com/)** | **[London - Summer 2026 Intern](https://jobright.ai/jobs/info/69cec3a954f00230c6d02e9a?utm_campaign=1052&utm_source=git)** | Greenwich, Connecticut, United States | On Site | Apr 02 |
 
 ### 🕒 Batch updated: 2026-04-03 00:59 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
-| **[Willis Knighton Health](https://wkhs.com/)** | **[Billing & Coding Specialist](https://jobright.ai/jobs/info/69cf0af6cdb525785fb9e25f?utm_campaign=1052&utm_source=git)** | Louisiana, United States | On Site | Apr 02 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69cec376891d7b11cfccc439?utm_campaign=1052&utm_source=git)** | Santa Maria, California | On Site | Apr 02 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Inventory Coordinator Intern](https://jobright.ai/jobs/info/69cec373366bb95ba550f1ca?utm_campaign=1052&utm_source=git)** | 900 Georgia Avenue, Deer Park, TX, 77536, US | On Site | Apr 02 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69cec35f366bb95ba550f15c?utm_campaign=1052&utm_source=git)** | Buffalo, New York, United States | On Site | Apr 02 |
@@ -820,11 +827,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | **[PNC](http://www.pnc.com)** | **[Underwriting Manager II - Small Business Banking](https://jobright.ai/jobs/info/69cb51db1b5ad028873aa8c8?utm_campaign=1052&utm_source=git)** | United States | Remote | Mar 30 |
-
-### 🕒 Batch updated: 2026-03-31 05:57 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Travelers Canada](https://www.travelerscanada.ca/)** | **[Financial Analyst - Intern](https://jobright.ai/jobs/info/69cb6bacaa3c2c1995e36ca4?utm_campaign=1052&utm_source=git)** | Toronto, ON | Hybrid | Mar 30 |
-| **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[CPA Articling Student – External Audit, Entertainment and New Media – January 2027](https://jobright.ai/jobs/info/69cad93daa3c2c1995e30de8?utm_campaign=1052&utm_source=git)** | Vancouver, BC | Hybrid | Mar 30 |
 
