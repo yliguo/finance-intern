@@ -4,11 +4,20 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-04-13 03:51 ET
+### 🕒 Batch updated: 2026-04-13 06:26 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Volkswagen Group Canada Inc.](https://vwgoa.taleo.net/careersection/volkswagen_canada/jobsearch.ftl)** | **[Commercial Credit & Risk Intern](https://jobright.ai/jobs/info/69dca991b67cec4f9b0b2d36?utm_campaign=1052&utm_source=git)** | Pickering, ON | Hybrid | Apr 13 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Financial Aid Advisor - DIS - req13655](https://jobright.ai/jobs/info/69dca9815356a60f40fea737?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 13 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69dca818f748bc5d08a5c1ad?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 13 |
+| **[TD](https://www.td.com)** | **[Commercial Banking Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dca7e2738f2f099e8b28dc?utm_campaign=1052&utm_source=git)** | Burnaby, British Columbia | On Site | Apr 13 |
+| ↳ | **[Commercial Banking Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dca7c6f748bc5d08a5bff6?utm_campaign=1052&utm_source=git)** | Victoria, British Columbia | On Site | Apr 13 |
+| **[SemiAnalysis](https://semianalysis.com)** | **[Research Intern](https://jobright.ai/jobs/info/69dca7845356a60f40fea328?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | Apr 13 |
+| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69dca77f5356a60f40fea310?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 13 |
+| **[Hourglass Cosmetics](https://www.hourglasscosmetics.com)** | **[Summer Intern, Finance & Accounting](https://jobright.ai/jobs/info/69d960bdf748bc5d08a4b0da?utm_campaign=1052&utm_source=git)** | West Hollywood, CA (Hybrid) | Hybrid | Apr 13 |
+| **[WP Engine](http://africancentury.wpengine.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69dc89ebf748bc5d08a5ade2?utm_campaign=1052&utm_source=git)** | Austin | On Site | Apr 12 |
 | **[TD](https://www.td.com)** | **[Credit Underwriting Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78c2738f2f099e8b1701?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[Risk Management - Customer Exit and Watchlist Oversight Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78c1869c7e25d85aa6e7?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Treasury Funding Intern/ Co-op ( Fall 2026)](https://jobright.ai/jobs/info/69dc78c0869c7e25d85aa6e0?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
@@ -23,10 +32,10 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[SSF Governance & Controls Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78b2b67cec4f9b0b17ec?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Global Technology Solutions (GTS) Finance Intern/ Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc78b2b67cec4f9b0b17eb?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[Risk Management - Wealth Credit & Market Risk Management Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc7589f748bc5d08a5ad4b?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
-| ↳ | **[TBSM Asset & Liability Management Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc7588f748bc5d08a5ad46?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - Credit Loss Allowance & Business Insights Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc7588f748bc5d08a5ad45?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
-| ↳ | **[Run My Business Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dc7587f748bc5d08a5ad3e?utm_campaign=1052&utm_source=git)** | TD Centre - West - 100 Wellington Street West, Toronto, Ontario | On Site | Apr 12 |
+| ↳ | **[TBSM Asset & Liability Management Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc7588f748bc5d08a5ad46?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Risk Management - Model Validation Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc75875356a60f40fe9146?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
+| ↳ | **[Run My Business Intern / Co-Op (FALL 2026)](https://jobright.ai/jobs/info/69dc7587f748bc5d08a5ad3e?utm_campaign=1052&utm_source=git)** | TD Centre - West - 100 Wellington Street West, Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Corporate Segment (Expense Governance Team) Intern/ Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc75865356a60f40fe913f?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[TD Securities Finance Capital Reporting Intern/Co-op ( Fall 2026 )](https://jobright.ai/jobs/info/69dc75845356a60f40fe9133?utm_campaign=1052&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69dc54fb869c7e25d85a9612?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 12 |
@@ -100,6 +109,11 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Lumos Fiber](https://www.lumosfiber.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69bdac174828227293ffed30?utm_campaign=1052&utm_source=git)** | High Point, NC | On Site | Apr 11 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2027 Tax Intern](https://jobright.ai/jobs/info/6969c960f25a38006698850e?utm_campaign=1052&utm_source=git)** | Greater Kalamazoo Area | On Site | Apr 11 |
 | **[Mitsubishi HC Capital America, Inc.](https://www.mhccna.com)** | **[Intern - Corporate Tax](https://jobright.ai/jobs/info/69bddd79b10602456283424a?utm_campaign=1052&utm_source=git)** | Itasca, IL | Hybrid | Apr 11 |
+
+### 🕒 Batch updated: 2026-04-13 03:51 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
 | **[IG Wealth Management](https://ig.ca)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6967ccd6f25a38006696254a?utm_campaign=1052&utm_source=git)** | London, ON | Hybrid | Apr 11 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Liquidity and Rate Metrics Intern (May – August 2026)](https://jobright.ai/jobs/info/69320968d0010831497be8d9?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 11 |
 | **[Regional Municipality of Wood Buffalo](https://rmwb.ca)** | **[Internal Auditor](https://jobright.ai/jobs/info/69da45d65356a60f40fe0b9a?utm_campaign=1052&utm_source=git)** | Fort McMurray, AB | On Site | Apr 11 |
@@ -283,7 +297,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Burke & Herbert Bank](http://www.burkeandherbertbank.com/)** | **[Intern - Wealth Management](https://jobright.ai/jobs/info/69d96600869c7e25d859aafb?utm_campaign=1052&utm_source=git)** | Alexandria, VA, US | On Site | Apr 10 |
 | **[AVB](http://avbinc.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d965d1738f2f099e8a19b5?utm_campaign=1052&utm_source=git)** | Portage, MI, US | On Site | Apr 10 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Financial Aid Advisor - DIS - req13655](https://jobright.ai/jobs/info/69d96175b67cec4f9b0a1baa?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 10 |
-| **[Hourglass Cosmetics](https://www.hourglasscosmetics.com)** | **[Summer Intern, Finance & Accounting](https://jobright.ai/jobs/info/69d960bdf748bc5d08a4b0da?utm_campaign=1052&utm_source=git)** | West Hollywood, CA (Hybrid) | Hybrid | Apr 10 |
 | **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Portfolio Management - Options Strategy Intern](https://jobright.ai/jobs/info/69d9607d5356a60f40fd969b?utm_campaign=1052&utm_source=git)** | Stamford, CT | On Site | Apr 10 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69d95ff1869c7e25d859a975?utm_campaign=1052&utm_source=git)** | Kawaiahao Plaza | Hybrid | Apr 10 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Lead Financial Aid Advisor - DIS - req13605](https://jobright.ai/jobs/info/69d95f47869c7e25d859a8c3?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 10 |
@@ -561,18 +574,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[CME Wire and Cable, Inc.](http://cmewire.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d80a05b861c42857c48299?utm_campaign=1052&utm_source=git)** | Suwanee, GA | On Site | Apr 09 |
 | **[Merchants Insurance Group](http://www.merchantsgroup.com)** | **[Accounting/Internal Audit Internship](https://jobright.ai/jobs/info/69d809e3f4ea471a51fe350e?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 09 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Investment Banking Intern-Seattle (For Internal Use Only)](https://jobright.ai/jobs/info/69d809e1b67cec4f9b09a04d?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Apr 09 |
-
-### 🕒 Batch updated: 2026-04-10 06:02 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Senior Associate Director of Financial Aid (Hybrid)](https://jobright.ai/jobs/info/69d833f2f4ea471a51fe48da?utm_campaign=1052&utm_source=git)** | Flint, MI | Hybrid | Apr 09 |
-| **[BKF Engineers](http://www.bkf.com)** | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69d823e9b861c42857c48cd2?utm_campaign=1052&utm_source=git)** | Newport Beach, CA | Hybrid | Apr 09 |
-| ↳ | **[2026 Accounting Intern](https://jobright.ai/jobs/info/69d823e9b861c42857c48cd1?utm_campaign=1052&utm_source=git)** | San Jose, CA | Hybrid | Apr 09 |
-| **[Make-A-Wish Metro New York and Western New York](http://metrony.wish.org)** | **[Finance Intern](https://jobright.ai/jobs/info/69d8b1be869c7e25d85974b3?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 09 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Single Audit Intern - Summer 2026 (Naperville, IL)](https://jobright.ai/jobs/info/69d809d6738f2f099e89a2b7?utm_campaign=1052&utm_source=git)** | Naperville, IL | On Site | Apr 09 |
-| ↳ | **[Audit Intern - Fall 2027 (Indianapolis, IN)](https://jobright.ai/jobs/info/69d809d5738f2f099e89a2b2?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 09 |
-| ↳ | **[Audit Intern - Spring 2027 (Indianapolis, IN)](https://jobright.ai/jobs/info/69d809cf738f2f099e89a294?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 09 |
-| **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Finance Assistant](https://jobright.ai/jobs/info/69d809c1b67cec4f9b09a000?utm_campaign=1052&utm_source=git)** | Location, WV | Hybrid | Apr 09 |
-| **[Schellman](http://schellman.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69d809b59f97a42dc9c19d4a?utm_campaign=1052&utm_source=git)** | Tampa, FL | Remote | Apr 09 |
 
