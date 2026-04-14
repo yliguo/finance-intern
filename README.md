@@ -4,17 +4,21 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-04-14 01:15 ET
+### 🕒 Batch updated: 2026-04-14 03:21 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Protective Life](http://www.protective.com/)** | **[2026 Internal Audit Summer Internship Program](https://jobright.ai/jobs/info/69ddce34e34484770f19f776?utm_campaign=1052&utm_source=git)** | Birmingham, AL | On Site | Apr 13 |
+| **[Strongpoint Partners](https://www.strongpointpartners.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ddbf11433ac8430e0d6a50?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Apr 13 |
+| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Tax Intern, Trust Tax / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/69ddbec7e34484770f19eed8?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | Apr 13 |
+| **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Management, Consumer Banking](https://jobright.ai/jobs/info/69ddbe968182b27d3474151f?utm_campaign=1052&utm_source=git)** | Harahan, LA | On Site | Apr 13 |
 | **[Framatome North America](www.framatome.com/en)** | **[Finance Intern (Accounts Payable)](https://jobright.ai/jobs/info/69ddb26baba61f1417311b58?utm_campaign=1052&utm_source=git)** | Lynchburg, VA | On Site | Apr 13 |
 | **[American Residential Services](http://ars.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/69dda5108182b27d347409cb?utm_campaign=1052&utm_source=git)** | Columbus Worthington Air (Columbus) | On Site | Apr 13 |
 | ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/69dda4e35913ad33981397df?utm_campaign=1052&utm_source=git)** | Columbus, OH, US | On Site | Apr 13 |
 | ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/69dda4d6aba61f14173112fd?utm_campaign=1052&utm_source=git)** | US-OH-Columbus | On Site | Apr 13 |
-| **[Kentucky Eye Institute](https://kyeye.com/)** | **[Revenue Cycle Management Summer Intern](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5be5?utm_campaign=1052&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
-| ↳ | **[Accounts Payable Summer Intern](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5bcf?utm_campaign=1052&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
+| **[Kentucky Eye Institute](https://kyeye.com/)** | **[Accounts Payable Summer Intern](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5bcf?utm_campaign=1052&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
+| ↳ | **[Revenue Cycle Management Summer Intern](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5be5?utm_campaign=1052&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
 | **[Framatome](http://www.framatome.com)** | **[Finance Intern (Accounts Payable)](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5bcd?utm_campaign=1052&utm_source=git)** | Onsite | On Site | Apr 13 |
 | **[Kentucky Eye Institute](https://kyeye.com/)** | **[Accounting & Finance Summer Intern](https://jobright.ai/jobs/info/69dda3465913ad3398139770?utm_campaign=1052&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
 | ↳ | **[Revenue Cycle Management Summer Intern](https://jobright.ai/jobs/info/69dda330aba61f14173111f9?utm_campaign=1052&utm_source=git)** | US-GA-Atlanta | On Site | Apr 13 |
@@ -76,9 +80,9 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Phibro Animal Health](http://www.pahc.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dd5a3bbc6f6622c9911ce8?utm_campaign=1052&utm_source=git)** | US - Teaneck, NJ - Remote | Remote | Apr 13 |
 | **[Applegreen](http://www.applegreenstores.com/)** | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a37738f2f099e8b5dc8?utm_campaign=1052&utm_source=git)** | Glen Rock , NJ | Hybrid | Apr 13 |
 | ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a35f748bc5d08a5f73b?utm_campaign=1052&utm_source=git)** | East Brunswick	, NJ | Hybrid | Apr 13 |
+| ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a349f97a42dc9c35d4e?utm_campaign=1052&utm_source=git)** | Glen Rock, NJ | Hybrid | Apr 13 |
 | ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a349f97a42dc9c35d4d?utm_campaign=1052&utm_source=git)** | Woodbridge, NJ | Hybrid | Apr 13 |
 | ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a34f748bc5d08a5f732?utm_campaign=1052&utm_source=git)** | Woodbridge Township, NJ | Hybrid | Apr 13 |
-| ↳ | **[Intern Grants and Incentives Analyst](https://jobright.ai/jobs/info/69dd5a349f97a42dc9c35d4e?utm_campaign=1052&utm_source=git)** | Glen Rock, NJ | Hybrid | Apr 13 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Sr Financial Analyst - DIS - req13643](https://jobright.ai/jobs/info/69dd5801bc6f6622c9911b92?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 13 |
 | **[Eirich Machines, Inc.](https://eirichusa.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dd55569f97a42dc9c35bde?utm_campaign=1052&utm_source=git)** | Gurnee, IL | On Site | Apr 13 |
 | **[Alchemy Insurance Solutions, LLC](https://alchemyins.com/)** | **[Remote Underwriter Internship](https://jobright.ai/jobs/info/69dd554361f6ed54321fcd72?utm_campaign=1052&utm_source=git)** | Washington, DC | Remote | Apr 13 |
@@ -105,6 +109,13 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Techniplas](https://www.techniplas.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69dd45005356a60f40fed3bf?utm_campaign=1052&utm_source=git)** | Mishawaka, IN 46545 | On Site | Apr 13 |
 | **[Security Mutual Life Insurance Company of New York](https://www.smlny.com)** | **[Actuarial and Investments Intern - 1135](https://jobright.ai/jobs/info/69dd448c5356a60f40fed340?utm_campaign=1052&utm_source=git)** | Binghamton, NY, US | On Site | Apr 13 |
 | **[Federal Bureau of Investigation (FBI)](http://www.fbi.gov)** | **[Forensic Accountant](https://jobright.ai/jobs/info/69dd4489f748bc5d08a5ed3a?utm_campaign=1052&utm_source=git)** | Boston, MA | On Site | Apr 13 |
+
+### 🕒 Batch updated: 2026-04-14 01:15 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Kentucky Eye Institute](https://kyeye.com/)** | **[Revenue Cycle Management Summer Intern](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5be5?utm_campaign=1052&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
+| ↳ | **[Accounts Payable Summer Intern](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5bcf?utm_campaign=1052&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
 | **[EDUrain Inc. (Techstars ‘23)](https://edurain.org/)** | **[Accounting Internship (Depaul and Mckendree Students)](https://jobright.ai/jobs/info/69dd4484f748bc5d08a5ed21?utm_campaign=1052&utm_source=git)** | Chicago, IL | Hybrid | Apr 13 |
 | **[MSIG USA](https://www.msigusa.com/)** | **[Financial Planning & Analysis (FP&A) Analyst Intern](https://jobright.ai/jobs/info/69dd447a61f6ed54321fc1cd?utm_campaign=1052&utm_source=git)** | NJ-Warren | Hybrid | Apr 13 |
 | **[Allianz Commercial](https://www.commercial.allianz.com/)** | **[Student Intern](https://jobright.ai/jobs/info/69dd3cd8bc6f6622c99112fb?utm_campaign=1052&utm_source=git)** | Toronto, ON | Hybrid | Apr 13 |
@@ -670,12 +681,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[LaFrance Corp](http://www.lafrancecorp.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d93fcf738f2f099e8a09b2?utm_campaign=1052&utm_source=git)** | Concordville, PA | Hybrid | Apr 10 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Emerging Financial Advisor 2026 Grads](https://jobright.ai/jobs/info/69d93c9b869c7e25d859988c?utm_campaign=1052&utm_source=git)** | Grand Rapids, MI | On Site | Apr 10 |
 | **[CooperVision](http://coopervision.com)** | **[Indirect Tax Intern](https://jobright.ai/jobs/info/69bc595445e08b3dc1f8e3f2?utm_campaign=1052&utm_source=git)** | Victor, NY | On Site | Apr 10 |
-
-### 🕒 Batch updated: 2026-04-11 02:53 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[City of Sioux City](https://www.sioux-city.org/)** | **[Student Intern (Finance Department)](https://jobright.ai/jobs/info/69d9c059b67cec4f9b0a475d?utm_campaign=1052&utm_source=git)** | Sioux City, IA | On Site | Apr 10 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Accounting Intern - Highlands Ranch](https://jobright.ai/jobs/info/69bc26335b89c002acf1562e?utm_campaign=1052&utm_source=git)** | Littleton, CO | On Site | Apr 10 |
-| **[Generac](https://www.generac.com)** | **[Operations Finance Intern](https://jobright.ai/jobs/info/69d9369eb67cec4f9b0a0834?utm_campaign=1052&utm_source=git)** | Waukesha, WI - USA | On Site | Apr 10 |
 
