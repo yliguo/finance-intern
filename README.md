@@ -4,11 +4,14 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-04-15 03:21 ET
+### 🕒 Batch updated: 2026-04-15 06:10 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Financial Aid Advisor - DIS - req13655](https://jobright.ai/jobs/info/69df509814bf245fc7a6be1f?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | Apr 15 |
+| **[RBC](https://www.rbc.com)** | **[Manager, Credit Structures (Intern)- EN](https://jobright.ai/jobs/info/69df4d8814bf245fc7a6bce7?utm_campaign=1052&utm_source=git)** | Montreal, QC | On Site | Apr 15 |
+| **[State of Tennessee](https://www.tn.gov/)** | **[ACCOUNTANT 2* - 04152026-76807](https://jobright.ai/jobs/info/69df2bd6433ac8430e0df645?utm_campaign=1052&utm_source=git)** | Madison County, TN | Hybrid | Apr 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69df2199433ac8430e0df21c?utm_campaign=1052&utm_source=git)** | San Rafael, CA | On Site | Apr 14 |
 | **[Bellco Credit Union](https://www.bellco.org)** | **[Risk Management Intern](https://jobright.ai/jobs/info/69df217536823d1b425868ab?utm_campaign=1052&utm_source=git)** | Greenwood Village, CO | On Site | Apr 14 |
 | **[LG Electronics](http://www.lg.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69c4686933eecf310794bac7?utm_campaign=1052&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 14 |
@@ -33,7 +36,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Discount Tire](http://www.discounttire.com/dtcs/home.do)** | **[Financial Systems & Planning Intern](https://jobright.ai/jobs/info/69ded8815913ad3398140686?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Apr 14 |
 | **[NCCU Public Administration](https://www.nccu.edu/cash/public-administration)** | **[Accounting Technician](https://jobright.ai/jobs/info/69ded87e433ac8430e0dcc6d?utm_campaign=1052&utm_source=git)** | Durham, NC | On Site | Apr 14 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/69ded67218cf504166e3016a?utm_campaign=1052&utm_source=git)** | Milwaukee, WI | On Site | Apr 14 |
-| **[Springbrook Software](http://www.springbrooksoftware.com)** | **[Cash Application Specialist Internship](https://jobright.ai/jobs/info/69ded105433ac8430e0dca26?utm_campaign=1052&utm_source=git)** | United States, 00000 | On Site | Apr 14 |
 | **[Valley Strong Credit Union](https://www.valleystrong.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69ded103aba61f1417317ee0?utm_campaign=1052&utm_source=git)** | Admin, Bakersfield, CA, US | On Site | Apr 14 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Retail Banking Intern](https://jobright.ai/jobs/info/69decc6daba61f1417317cd6?utm_campaign=1052&utm_source=git)** | Jefferson City, MO | On Site | Apr 14 |
 | **[Autoliv](http://autoliv.com)** | **[Finance intern](https://jobright.ai/jobs/info/69decae236823d1b42583db0?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Apr 14 |
@@ -64,8 +66,8 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Five9](http://www.five9.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69deb2c45913ad339813f081?utm_campaign=1052&utm_source=git)** | San Ramon, CA | Hybrid | Apr 14 |
 | **[PNC](http://www.pnc.com)** | **[Fund Manager Sr](https://jobright.ai/jobs/info/69deb28336823d1b4258345e?utm_campaign=1052&utm_source=git)** | Portland, OR | Hybrid | Apr 14 |
 | **[Kiokii and...](kiokii.com)** | **[Data Entry (Finance) Co-op](https://jobright.ai/jobs/info/69deb27736823d1b42583415?utm_campaign=1052&utm_source=git)** | Markham, ON | On Site | Apr 14 |
-| **[PNC](http://www.pnc.com)** | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb272e34484770f1a4406?utm_campaign=1052&utm_source=git)** | East Brunswick, NJ | On Site | Apr 14 |
-| ↳ | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb272e34484770f1a4401?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 14 |
+| **[PNC](http://www.pnc.com)** | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb272e34484770f1a4401?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 14 |
+| ↳ | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb272e34484770f1a4406?utm_campaign=1052&utm_source=git)** | East Brunswick, NJ | On Site | Apr 14 |
 | **[RingCentral](https://www.ringcentral.com)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/69deb271e34484770f1a43eb?utm_campaign=1052&utm_source=git)** | Belmont, California | On Site | Apr 14 |
 | **[Kiokii and...](kiokii.com)** | **[Finance Co-op](https://jobright.ai/jobs/info/69deb26faba61f1417317325?utm_campaign=1052&utm_source=git)** | Markham, ON | On Site | Apr 14 |
 | **[PNC](http://www.pnc.com)** | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb26aaba61f1417317319?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Apr 14 |
@@ -107,6 +109,14 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Traffic Tech](http://www.traffictech.com)** | **[Invoicing Intern](https://jobright.ai/jobs/info/69de8a345913ad339813de4e?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
 | **[First National Bank GH](https://www.firstnationalbank.com.gh)** | **[Summer Intern - Tributary Capital Management (Kansas City, MO)](https://jobright.ai/jobs/info/69de89db18cf504166e2dc87?utm_campaign=1052&utm_source=git)** | Kansas City, MO - 1 Ward Parkway | On Site | Apr 14 |
 | **[Harbourside Engineering Group](https://harboursideengineering.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69deba815913ad339813f607?utm_campaign=1052&utm_source=git)** | Stratford, PE | On Site | Apr 14 |
+
+### 🕒 Batch updated: 2026-04-15 03:21 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Springbrook Software](http://www.springbrooksoftware.com)** | **[Cash Application Specialist Internship](https://jobright.ai/jobs/info/69ded105433ac8430e0dca26?utm_campaign=1052&utm_source=git)** | United States, 00000 | On Site | Apr 14 |
+| **[PNC](http://www.pnc.com)** | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb272e34484770f1a4406?utm_campaign=1052&utm_source=git)** | East Brunswick, NJ | On Site | Apr 14 |
+| ↳ | **[Underwriter III- Real Estate Banking](https://jobright.ai/jobs/info/69deb272e34484770f1a4401?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 14 |
 | **[PlayStation](https://www.playstation.com/)** | **[Strategic & Commercial Finance - Data Science Intern](https://jobright.ai/jobs/info/69de871a18cf504166e2d987?utm_campaign=1052&utm_source=git)** | United States of America | On Site | Apr 14 |
 | **[Friedman + Huey Associates LLP](http://www.fhassoc.com)** | **[2027 Winter/Spring Tax Internship](https://jobright.ai/jobs/info/69a73d0e76bbe83d3afa9807?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Apr 14 |
 
@@ -847,21 +857,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Intern - Junior Accountant - CPA Firm](https://jobright.ai/jobs/info/69db348c5356a60f40fe5820?utm_campaign=1052&utm_source=git)** | Crompond, NY | On Site | Apr 11 |
 | **[Marriott International](https://w-hotels.marriott.com)** | **[Director of Finance and Accounting](https://jobright.ai/jobs/info/69da03795356a60f40fdf616?utm_campaign=1052&utm_source=git)** | Vail, CO | Remote | Apr 10 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Summer Analyst, Corporate Venture Capital Fund Internship](https://jobright.ai/jobs/info/69d9c0365356a60f40fdc1b9?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
-
-### 🕒 Batch updated: 2026-04-12 05:39 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Audit Intern - Summer 2027](https://jobright.ai/jobs/info/69daab075356a60f40fe3968?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 11 |
-| **[Lumsden McCormick CPA](http://lumsdencpa.com)** | **[Tax Intern - Spring 2027](https://jobright.ai/jobs/info/69daab01869c7e25d85a4cdb?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | Apr 11 |
-| ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/69d7973ab67cec4f9b094784?utm_campaign=1052&utm_source=git)** | Davenport, IA | On Site | Apr 11 |
-| **[University of Massachusetts](https://www.youtube.com/channel/UCH_NUbvxPedsdb5jq98Atig)** | **[Intern UITS Business and Budget Operations](https://jobright.ai/jobs/info/69d9c013869c7e25d859d654?utm_campaign=1052&utm_source=git)** | Shrewsbury, MA | Hybrid | Apr 10 |
-| **[Boyd Group Services Inc.](https://www.boydgroup.com)** | **[Finance Intern – Audit & Financial Reporting](https://jobright.ai/jobs/info/69d9b1f1b67cec4f9b0a406f?utm_campaign=1052&utm_source=git)** | Winnipeg, MB | On Site | Apr 10 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Corporate Tax Intern - Summer 2026](https://jobright.ai/jobs/info/69d9aefc738f2f099e8a3c4a?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Apr 10 |
-| **[HealthStream](http://www.healthstream.com)** | **[Intern, Accounts Receivable](https://jobright.ai/jobs/info/69d9ae70b67cec4f9b0a3d20?utm_campaign=1052&utm_source=git)** | Nashville, TN | Remote | Apr 10 |
-| **[CITY OF MISSOULA](http://ci.missoula.mt.us)** | **[Utility Billing Specialist](https://jobright.ai/jobs/info/69d9ae365356a60f40fdb9a6?utm_campaign=1052&utm_source=git)** | Missoula, MT | On Site | Apr 10 |
-| **[Relay Graduate School of Education](https://www.relay.edu)** | **[Manager, Accounting](https://jobright.ai/jobs/info/69d9a4b5738f2f099e8a3832?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | Apr 10 |
-| **[Héroux-Devtek](http://www.herouxdevtek.com)** | **[Intern - Internal Audit and Corporate Governance](https://jobright.ai/jobs/info/69d02a25366bb95ba551bfd9?utm_campaign=1052&utm_source=git)** | Longueuil, QC | On Site | Apr 10 |
-| **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69d99e8f738f2f099e8a3600?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 10 |
-| **[Chicago Public Schools](http://www.cps.edu)** | **[Accounting Manager, Capital Fixed Asset & Revenue](https://jobright.ai/jobs/info/69d99e5a738f2f099e8a35a0?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 
