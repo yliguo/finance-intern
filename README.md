@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-04-18 01:01 ET
+### 🕒 Batch updated: 2026-04-18 02:58 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -29,8 +29,8 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Intern - Finance](https://jobright.ai/jobs/info/69e2bfbfbe46fa3a4ef58998?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Trader Internship: Summer 2027](https://jobright.ai/jobs/info/69e2b3f9be46fa3a4ef585bf?utm_campaign=1052&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Apr 17 |
 | ↳ | **[Quantitative Trader Internship: Summer 2027](https://jobright.ai/jobs/info/69e2b3c53ce36005badbf4c0?utm_campaign=1052&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Apr 17 |
-| **[Dialogue](https://www.dialogue.co)** | **[Accounting Analyst Intern](https://jobright.ai/jobs/info/69e2d6895c44d4710fe270f7?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
-| ↳ | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e2d788be46fa3a4ef59101?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
+| **[Dialogue](https://www.dialogue.co)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e2d788be46fa3a4ef59101?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
+| ↳ | **[Accounting Analyst Intern](https://jobright.ai/jobs/info/69e2d6895c44d4710fe270f7?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
 | **[Orion](https://orionadvisortech.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e2b21d3ce36005badbf443?utm_campaign=1052&utm_source=git)** | Omaha, NE | Hybrid | Apr 17 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Director of Finance and Business Management](https://jobright.ai/jobs/info/69e2b1b2fcfcbd43860a4102?utm_campaign=1052&utm_source=git)** | Triangle Area | On Site | Apr 17 |
 | **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Finance](https://jobright.ai/jobs/info/69e2ad3c5c44d4710fe264b2?utm_campaign=1052&utm_source=git)** | Fairfield, NJ, US | On Site | Apr 17 |
@@ -61,8 +61,8 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Ulteig](http://ulteig.com)** | **[Summer 2026 Accounting Intern](https://jobright.ai/jobs/info/69e28e1c3ce36005badbeb45?utm_campaign=1052&utm_source=git)** | St Louis Park, MN | Hybrid | Apr 17 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69e28dccfcfcbd43860a35eb?utm_campaign=1052&utm_source=git)** | Austin, TX | Hybrid | Apr 17 |
 | ↳ | **[Tax Intern](https://jobright.ai/jobs/info/69e28dc82f286535930770d6?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Hybrid | Apr 17 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Akron/Canton](https://jobright.ai/jobs/info/69c7d95383ea553769fe71cd?utm_campaign=1052&utm_source=git)** | Akron, OH | On Site | Apr 17 |
-| ↳ | **[Tax and Audit Intern - Spring 2027 - Akron/Canton](https://jobright.ai/jobs/info/69c9188f83ea553769fee93c?utm_campaign=1052&utm_source=git)** | Canton, OH | On Site | Apr 17 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Akron/Canton](https://jobright.ai/jobs/info/69c9188f83ea553769fee93c?utm_campaign=1052&utm_source=git)** | Canton, OH | On Site | Apr 17 |
+| ↳ | **[Tax and Audit Intern - Spring 2027 - Akron/Canton](https://jobright.ai/jobs/info/69c7d95383ea553769fe71cd?utm_campaign=1052&utm_source=git)** | Akron, OH | On Site | Apr 17 |
 | ↳ | **[Tax and Audit Intern - Spring 2027 - Northern California](https://jobright.ai/jobs/info/69d5dcd7e63cea7a8b665910?utm_campaign=1052&utm_source=git)** | Sacramento, CA | On Site | Apr 17 |
 | **[Robinson, Farmer, Cox Associates (RFC)](https://www.rfca.com)** | **[Intern](https://jobright.ai/jobs/info/69e2b8aafcfcbd43860a4437?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | Apr 17 |
 | **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[Financial Reporting and Compliance Manager](https://jobright.ai/jobs/info/69e2aab7fcfcbd43860a3d83?utm_campaign=1052&utm_source=git)** | Portland, OR | On Site | Apr 17 |
@@ -79,8 +79,8 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[S&P Global](https://www.spglobal.com)** | **[CREDit Ratings Analyst Intern - Structured Finance](https://jobright.ai/jobs/info/69e2a3433770bd5361cd9408?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[National Life Group](https://www.nationallife.com)** | **[Intern](https://jobright.ai/jobs/info/69e25b8f3770bd5361cd82e3?utm_campaign=1052&utm_source=git)** | Addison, TX | On Site | Apr 17 |
 | **[Learning Resources](https://www.learningresources.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d80933f4ea471a51fe328b?utm_campaign=1052&utm_source=git)** | Vernon Hills, IL | On Site | Apr 17 |
-| **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69e29083fcfcbd43860a37d0?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Apr 17 |
-| ↳ | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69e290703770bd5361cd9071?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Apr 17 |
+| **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69e290703770bd5361cd9071?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Apr 17 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69e29083fcfcbd43860a37d0?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Apr 17 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Capital Markets Intern](https://jobright.ai/jobs/info/69e259103770bd5361cd82c3?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Apr 17 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Support Group Intern - Prequalification](https://jobright.ai/jobs/info/69aa078c1f59c56275e2d996?utm_campaign=1052&utm_source=git)** | Tucson, AZ | On Site | Apr 17 |
 | **[LitFinancial](https://litfinancial.com)** | **[Finance Internship](https://jobright.ai/jobs/info/69e2590c2f28653593076542?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Apr 17 |
@@ -109,6 +109,17 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Triumvirate Environmental](http://www.triumvirate.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/69e2411a3ce36005badbdab8?utm_campaign=1052&utm_source=git)** | Astoria, NY | On Site | Apr 17 |
 | **[National Life Group](https://www.nationallife.com)** | **[Intern](https://jobright.ai/jobs/info/69e27182fcfcbd43860a2e4f?utm_campaign=1052&utm_source=git)** | Addison, TX | On Site | Apr 17 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Financial Services Intern](https://jobright.ai/jobs/info/69e279792f28653593076c48?utm_campaign=1052&utm_source=git)** | Clovis, NM | Remote | Apr 17 |
+
+### 🕒 Batch updated: 2026-04-18 01:01 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Dialogue](https://www.dialogue.co)** | **[Accounting Analyst Intern](https://jobright.ai/jobs/info/69e2d6895c44d4710fe270f7?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
+| ↳ | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69e2d788be46fa3a4ef59101?utm_campaign=1052&utm_source=git)** | Montreal, QC | Hybrid | Apr 17 |
+| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax and Audit Intern - Spring 2027 - Akron/Canton](https://jobright.ai/jobs/info/69c7d95383ea553769fe71cd?utm_campaign=1052&utm_source=git)** | Akron, OH | On Site | Apr 17 |
+| ↳ | **[Tax and Audit Intern - Spring 2027 - Akron/Canton](https://jobright.ai/jobs/info/69c9188f83ea553769fee93c?utm_campaign=1052&utm_source=git)** | Canton, OH | On Site | Apr 17 |
+| **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69e29083fcfcbd43860a37d0?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Apr 17 |
+| ↳ | **[Corporate Finance Intern](https://jobright.ai/jobs/info/69e290703770bd5361cd9071?utm_campaign=1052&utm_source=git)** | St. Louis, MO | On Site | Apr 17 |
 
 ### 🕒 Batch updated: 2026-04-17 21:46 ET
 
@@ -933,12 +944,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Traffic Tech](http://www.traffictech.com)** | **[Invoicing Intern](https://jobright.ai/jobs/info/69de8a345913ad339813de4e?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
 | **[First National Bank GH](https://www.firstnationalbank.com.gh)** | **[Summer Intern - Tributary Capital Management (Kansas City, MO)](https://jobright.ai/jobs/info/69de89db18cf504166e2dc87?utm_campaign=1052&utm_source=git)** | Kansas City, MO - 1 Ward Parkway | On Site | Apr 14 |
 | **[Harbourside Engineering Group](https://harboursideengineering.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69deba815913ad339813f607?utm_campaign=1052&utm_source=git)** | Stratford, PE | On Site | Apr 14 |
-
-### 🕒 Batch updated: 2026-04-15 03:21 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Springbrook Software](http://www.springbrooksoftware.com)** | **[Cash Application Specialist Internship](https://jobright.ai/jobs/info/69ded105433ac8430e0dca26?utm_campaign=1052&utm_source=git)** | United States, 00000 | On Site | Apr 14 |
-| **[PlayStation](https://www.playstation.com/)** | **[Strategic & Commercial Finance - Data Science Intern](https://jobright.ai/jobs/info/69de871a18cf504166e2d987?utm_campaign=1052&utm_source=git)** | United States of America | On Site | Apr 14 |
-| **[Friedman + Huey Associates LLP](http://www.fhassoc.com)** | **[2027 Winter/Spring Tax Internship](https://jobright.ai/jobs/info/69a73d0e76bbe83d3afa9807?utm_campaign=1052&utm_source=git)** | Greater Chicago Area | On Site | Apr 14 |
 
