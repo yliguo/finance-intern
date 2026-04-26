@@ -4,11 +4,12 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-04-25 22:01 ET
+### 🕒 Batch updated: 2026-04-26 01:32 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Service Wire Company](http://servicewire.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69ed7acc4b0fa35a707846e7?utm_campaign=1052&utm_source=git)** | Culloden, WV | On Site | Apr 25 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/69ed41d74b0fa35a7078428c?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 25 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Planning & Allocation Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69ebb79516b2612c2a11dfd4?utm_campaign=1052&utm_source=git)** | Burlington, NJ | Hybrid | Apr 25 |
 | **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Spring 2026 Full-time Audit Internship](https://jobright.ai/jobs/info/69c1a21e75f7ff1cd80fee60?utm_campaign=1052&utm_source=git)** | Tampa, FL | On Site | Apr 25 |
@@ -90,7 +91,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/69ebf61616b2612c2a120090?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 24 |
 | ↳ | **[Equity Research Intern](https://jobright.ai/jobs/info/69ebf60c16b2612c2a12006f?utm_campaign=1052&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Ecore Athletic](http://www.ecoreintl.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ec27107820c036924f9858?utm_campaign=1052&utm_source=git)** | Lancaster, PA | Hybrid | Apr 24 |
-| **[SalesForce-ad](https://www.salesforce.com/)** | **[Summer 2026 Intern - Finance Operations Associate](https://jobright.ai/jobs/info/69ebf35c58811370cb13dbe1?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
 | **[MITER Brands](https://www.miterbrands.com/)** | **[Intern](https://jobright.ai/jobs/info/69ebef1c16b2612c2a11fe0f?utm_campaign=1052&utm_source=git)** | Harrisburg, PA | On Site | Apr 24 |
 | **[Texas Permanent School Fund Corporation](https://texaspsf.org)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69ebeeef4b0fa35a7077f891?utm_campaign=1052&utm_source=git)** | Innovation Tower, US | Hybrid | Apr 24 |
 | **[Stadler](http://www.stadlerrail.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/69ec32a50a6e09555304d151?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | Apr 24 |
@@ -109,6 +109,12 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Balto Capital Inc.](https://www.linkedin.com/company/99503341)** | **[Finance & Operations Intern (Real Estate)](https://jobright.ai/jobs/info/69ebd4524b0fa35a7077efc7?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 24 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/69ebfd3216b2612c2a120432?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 24 |
 | **[Practising Law Institute (PLI)](https://pli.edu)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ebd32f16b2612c2a11f356?utm_campaign=1052&utm_source=git)** | New York, New York, United States | On Site | Apr 24 |
+
+### 🕒 Batch updated: 2026-04-25 22:01 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[SalesForce-ad](https://www.salesforce.com/)** | **[Summer 2026 Intern - Finance Operations Associate](https://jobright.ai/jobs/info/69ebf35c58811370cb13dbe1?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
 
 ### 🕒 Batch updated: 2026-04-25 17:29 ET
 
@@ -643,18 +649,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[Audit Internship](https://jobright.ai/jobs/info/69d6fae1366bb95ba5550fea?utm_campaign=1052&utm_source=git)** | Tacoma, WA | Hybrid | Apr 22 |
 | **[Waste Connections](http://www.wasteconnections.com/)** | **[Accounting Intern- Summer 2026](https://jobright.ai/jobs/info/69e94e523aa0c479643a8fe7?utm_campaign=1052&utm_source=git)** | Fife, WA | On Site | Apr 22 |
 | ↳ | **[Accounting Intern Summer 2026](https://jobright.ai/jobs/info/69d6ee01706f771673baed6f?utm_campaign=1052&utm_source=git)** | Knoxville, TN | On Site | Apr 22 |
-
-### 🕒 Batch updated: 2026-04-23 01:23 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Balco, Inc.](https://www.balcousa.com/)** | **[FP&A Intern](https://jobright.ai/jobs/info/69e9778ae0cd471b2f13d7b2?utm_campaign=1052&utm_source=git)** | Rockwall, Texas, United States | On Site | Apr 22 |
-| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69e977b67820c036924e8344?utm_campaign=1052&utm_source=git)** | Rockwall, Texas, United States | On Site | Apr 22 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/69b6438456973837413b8609?utm_campaign=1052&utm_source=git)** | Moses Lake, WA | On Site | Apr 22 |
-| ↳ | **[Tax/Audit Intern - Summer 2027 - Eastern & Central WA](https://jobright.ai/jobs/info/69d5c794cfdc6132f9465c12?utm_campaign=1052&utm_source=git)** | Wenatchee, WA | On Site | Apr 22 |
-| **[Bering Flooring and Finishes](https://www.beringfinishes.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e9796a0a6e09555303c703?utm_campaign=1052&utm_source=git)** | Cottonwood Heights, UT | On Site | Apr 22 |
-| **[Rehmann](http://www.rehmann.com)** | **[Audit or Tax 2027 Internship](https://jobright.ai/jobs/info/69af39a3dfaeda6ff59758ae?utm_campaign=1052&utm_source=git)** | Greater Lansing | On Site | Apr 22 |
-| **[Alpha Omega](http://www.alphaomegaintegration.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69e9091a7820c036924e4bc5?utm_campaign=1052&utm_source=git)** | Vienna, VA | On Site | Apr 22 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Project Purchasing Analyst Intern (Year-Round)](https://jobright.ai/jobs/info/69cc73628130af1ac833880d?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | On Site | Apr 22 |
-| **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Finance](https://jobright.ai/jobs/info/69b0679174950064509695e8?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 22 |
 
