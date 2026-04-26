@@ -4,11 +4,12 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-04-26 01:32 ET
+### 🕒 Batch updated: 2026-04-26 03:18 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SevenTrainVentures](https://seventrainventures.com/)** | **[VC Associate Summer Intern — Quantum Fund Operations](https://jobright.ai/jobs/info/69ed90f616b2612c2a1249f8?utm_campaign=1052&utm_source=git)** | Cambridge, MA | Hybrid | Apr 25 |
 | **[Service Wire Company](http://servicewire.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69ed7acc4b0fa35a707846e7?utm_campaign=1052&utm_source=git)** | Culloden, WV | On Site | Apr 25 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/69ed41d74b0fa35a7078428c?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 25 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Planning & Allocation Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69ebb79516b2612c2a11dfd4?utm_campaign=1052&utm_source=git)** | Burlington, NJ | Hybrid | Apr 25 |
@@ -58,6 +59,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[Finance and Accounting Internship](https://jobright.ai/jobs/info/69ec50750a6e09555304d9ef?utm_campaign=1052&utm_source=git)** | South Carolina, United States | On Site | Apr 24 |
 | ↳ | **[Loan Servicing Internship](https://jobright.ai/jobs/info/69ec507416b2612c2a122090?utm_campaign=1052&utm_source=git)** | Headquarters, KY | On Site | Apr 24 |
 | **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern, Client Finance](https://jobright.ai/jobs/info/69cc91a7366bb95ba54f30c1?utm_campaign=1052&utm_source=git)** | El Segundo, CA | Hybrid | Apr 24 |
+| **[Cincinnati Children's Office of Academic Affairs and Career Development](https://www.cincinnatichildrens.org/research/support/academic-affairs-career-development/career-development)** | **[Finance Summer Intern](https://jobright.ai/jobs/info/69ed94600a6e095553050211?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Apr 24 |
 | **[Artemax, Inc.](https://www.artemax.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ec384358811370cb13f5af?utm_campaign=1052&utm_source=git)** | New Berlin, WI | On Site | Apr 24 |
 | **[Aerotech, Inc.](http://www.aerotech.com/Default.aspx)** | **[CMU Finance & Operations Associate Internship at KST](https://jobright.ai/jobs/info/69ec36e70a6e09555304d4c8?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | Apr 24 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Tax Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/69ec52014b0fa35a70781cf8?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
@@ -107,6 +109,11 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Groupe Clarins](http://www.groupeclarins.com)** | **[Intern, Financial Planning & Analysis](https://jobright.ai/jobs/info/69ebfc0e58811370cb13e077?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 24 |
 | **[School District No. 27](https://www.sd27.bc.ca)** | **[Accounting Clerk](https://jobright.ai/jobs/info/69ec02d416b2612c2a1205b4?utm_campaign=1052&utm_source=git)** | Williams Lake, British Columbia, Canada | On Site | Apr 24 |
 | **[Balto Capital Inc.](https://www.linkedin.com/company/99503341)** | **[Finance & Operations Intern (Real Estate)](https://jobright.ai/jobs/info/69ebd4524b0fa35a7077efc7?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 24 |
+
+### 🕒 Batch updated: 2026-04-26 01:32 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Investment Banking Intern](https://jobright.ai/jobs/info/69ebfd3216b2612c2a120432?utm_campaign=1052&utm_source=git)** | Canada | Remote | Apr 24 |
 | **[Practising Law Institute (PLI)](https://pli.edu)** | **[Accounting Intern](https://jobright.ai/jobs/info/69ebd32f16b2612c2a11f356?utm_campaign=1052&utm_source=git)** | New York, New York, United States | On Site | Apr 24 |
 
