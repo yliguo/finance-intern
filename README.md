@@ -4,11 +4,18 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-05-01 06:17 ET
+### 🕒 Batch updated: 2026-05-01 09:01 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metal Processing Group, an Affiliate of The Heico Companies](https://www.heicocompanies.com/metal-processing-group)** | **[Intern- Finance](https://jobright.ai/jobs/info/692e71214c474121999d987a?utm_campaign=1052&utm_source=git)** | Warrenville, IL | On Site | May 01 |
+| **[HDR](http://www.hdrinc.com)** | **[Mergers and Acquisitions Intern](https://jobright.ai/jobs/info/69d7fe08738f2f099e89990c?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | May 01 |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[Tax Winter 2027 Internship - Minneapolis, MN](https://jobright.ai/jobs/info/69bc8c5045e08b3dc1f94a55?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | Hybrid | May 01 |
+| **[ACO Group](https://www.aco.com/)** | **[Finance Assistant Intern](https://jobright.ai/jobs/info/69f47f63a3d34b4f76f4f571?utm_campaign=1052&utm_source=git)** | Mentor, OH | On Site | May 01 |
+| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Richmond)](https://jobright.ai/jobs/info/69d833bcb67cec4f9b09b5aa?utm_campaign=1052&utm_source=git)** | Richmond, VA | On Site | May 01 |
+| **[TTM Technologies](https://www.ttm.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69d7d81c738f2f099e898c49?utm_campaign=1052&utm_source=git)** | Santa Ana, CA | On Site | May 01 |
+| **[Univest](http://www.univest.net/)** | **[Commercial Banking Internship - Summer 2026](https://jobright.ai/jobs/info/69f46a0ba3d34b4f76f4f179?utm_campaign=1052&utm_source=git)** | Lancaster, PA | On Site | May 01 |
 | **[Liberty Latin America](https://www.lla.com/)** | **[Intern - FP&A](https://jobright.ai/jobs/info/69f449006942c746fa6973d8?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 30 |
 | ↳ | **[Intern - M&A](https://jobright.ai/jobs/info/69f448f9c78b9e4518959d96?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Apr 30 |
 | **[Fairview Health Services](http://www.fairview.org/)** | **[Intern - Behavioral Health](https://jobright.ai/jobs/info/69f425a2461b9b613a625cec?utm_campaign=1052&utm_source=git)** | Minneapolis, MN | On Site | Apr 30 |
@@ -24,7 +31,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Commercial Payments (Summer 2026)](https://jobright.ai/jobs/info/69f423d058b23a2329da9998?utm_campaign=1052&utm_source=git)** | Kansas City, MO | Hybrid | Apr 30 |
 | **[Primerica](https://www.primerica.com)** | **[Securities Operations Finance Intern](https://jobright.ai/jobs/info/69f423c858b23a2329da9976?utm_campaign=1052&utm_source=git)** | Duluth, GA | On Site | Apr 30 |
 | **[Superior Insurance Partners](https://superiorinsurancepartnersllc.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f3f7d2c78b9e4518958ddb?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 30 |
-| **[Univest](http://www.univest.net/)** | **[Commercial Banking Internship - Summer 2026](https://jobright.ai/jobs/info/69f3f792c78b9e4518958d87?utm_campaign=1052&utm_source=git)** | Lancaster, PA | On Site | Apr 30 |
 | **[Quad City Bank & Trust](http://qcbt.com)** | **[Community Banker Intern](https://jobright.ai/jobs/info/69f3ecd91f90bd6ae23d2ecb?utm_campaign=1052&utm_source=git)** | Davenport, IA | On Site | Apr 30 |
 | **[BRE Hotels & Resorts, a Blackstone Portfolio Company](http://www.brehotels.com)** | **[Intern, FP&A](https://jobright.ai/jobs/info/69f3ebb258b23a2329da8f3e?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 30 |
 | **[Mizkan America](http://mizkan.com)** | **[Intern, Accounting AI Analytics](https://jobright.ai/jobs/info/69f3eb606942c746fa69604c?utm_campaign=1052&utm_source=git)** | Schaumburg, IL | On Site | Apr 30 |
@@ -95,14 +101,22 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Baton Rouge, LA](https://jobright.ai/jobs/info/699e43eace78e77b4fe35efc?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | On Site | Apr 30 |
 | **[MMB+CO](https://www.mmbaccounting.com)** | **[Summer 2027 Assurance Intern](https://jobright.ai/jobs/info/69a5a889359fe034b1d049b3?utm_campaign=1052&utm_source=git)** | Fairport, NY | On Site | Apr 30 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Metairie, LA](https://jobright.ai/jobs/info/699fa6ea81476f6176b95fb9?utm_campaign=1052&utm_source=git)** | Metairie, LA | On Site | Apr 30 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d841461b9b613a624441?utm_campaign=1052&utm_source=git)** | Denver Tech Center, US | On Site | Apr 30 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d8b1c78b9e4518958059?utm_campaign=1052&utm_source=git)** | Southfield, US | On Site | Apr 30 |
 | ↳ | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d843343eef4fb0a9e56f?utm_campaign=1052&utm_source=git)** | Chicago Riverside Plaza, US | On Site | Apr 30 |
-| ↳ | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d8b1c78b9e4518958059?utm_campaign=1052&utm_source=git)** | Southfield, US | On Site | Apr 30 |
+| ↳ | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d841461b9b613a624441?utm_campaign=1052&utm_source=git)** | Denver Tech Center, US | On Site | Apr 30 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/69eaf3d216b2612c2a11827a?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Apr 30 |
 | **[Pansophic Learning](https://pansophiclearning.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f38583c78b9e451895508c?utm_campaign=1052&utm_source=git)** | Tysons Corner, VA | On Site | Apr 30 |
 | **[MMB+CO](https://www.mmbaccounting.com)** | **[Winter 2027 Tax Intern](https://jobright.ai/jobs/info/69a5a32c359fe034b1d04504?utm_campaign=1052&utm_source=git)** | Fairport, NY | On Site | Apr 30 |
 | ↳ | **[Summer 2027 Assurance Intern](https://jobright.ai/jobs/info/69a5a7dab600907a962b5982?utm_campaign=1052&utm_source=git)** | Elmira, NY | On Site | Apr 30 |
 | ↳ | **[Winter 2027 Tax Intern](https://jobright.ai/jobs/info/69a5a3c2b600907a962b561c?utm_campaign=1052&utm_source=git)** | Elmira, NY | On Site | Apr 30 |
+
+### 🕒 Batch updated: 2026-05-01 06:17 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Univest](http://www.univest.net/)** | **[Commercial Banking Internship - Summer 2026](https://jobright.ai/jobs/info/69f3f792c78b9e4518958d87?utm_campaign=1052&utm_source=git)** | Lancaster, PA | On Site | Apr 30 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d841461b9b613a624441?utm_campaign=1052&utm_source=git)** | Denver Tech Center, US | On Site | Apr 30 |
+| ↳ | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d8b1c78b9e4518958059?utm_campaign=1052&utm_source=git)** | Southfield, US | On Site | Apr 30 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/69ccb65fcdb525785fb819f4?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Apr 30 |
 | **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f3d81c461b9b613a6243cf?utm_campaign=1052&utm_source=git)** | Garff Enterprises Corporate Office - Salt Lake City, UT, US | On Site | Apr 30 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Tax / Audit Intern - Spring 2028 - Southern MN](https://jobright.ai/jobs/info/69810488abff4c399a9fd2c8?utm_campaign=1052&utm_source=git)** | New Ulm, MN | On Site | Apr 30 |
@@ -122,7 +136,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Vertex Education](http://vertexeducation.com/)** | **[Intern – Accounting & Business Operations](https://jobright.ai/jobs/info/69f3a0fec78b9e4518956662?utm_campaign=1052&utm_source=git)** | Albuquerque, NM | On Site | Apr 30 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Finance Internship, Summer 2026](https://jobright.ai/jobs/info/69f3d861461b9b613a62448f?utm_campaign=1052&utm_source=git)** | Lowell, AR - JB Hunt Corporate B & C, US | On Site | Apr 30 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d843343eef4fb0a9e56f?utm_campaign=1052&utm_source=git)** | Chicago Riverside Plaza, US | On Site | Apr 30 |
-| ↳ | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d841461b9b613a624441?utm_campaign=1052&utm_source=git)** | Denver Tech Center, US | On Site | Apr 30 |
 
 ### 🕒 Batch updated: 2026-04-30 22:25 ET
 
@@ -131,7 +144,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Novelty Hill Capital](https://noveltyhill.com)** | **[(2027 Summer) Analyst Intern](https://jobright.ai/jobs/info/69f3f1d3461b9b613a6251f1?utm_campaign=1052&utm_source=git)** | Bellevue, WA | Hybrid | Apr 30 |
 | **[One Workplace](http://www.oneworkplace.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69f3e3fd461b9b613a624f11?utm_campaign=1052&utm_source=git)** | US-CA-Santa Clara | Hybrid | Apr 30 |
 | **[SFE- Southwest Foodservice Excellence](https://sfellc.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69f3d0dc461b9b613a62403a?utm_campaign=1052&utm_source=git)** | Scottsdale, AZ | On Site | Apr 30 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2027 PMCF Investment Banking Summer Intern](https://jobright.ai/jobs/info/69f3d8b1c78b9e4518958059?utm_campaign=1052&utm_source=git)** | Southfield, US | On Site | Apr 30 |
 | ↳ | **[Tax & Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/69f37b68c78b9e4518954da3?utm_campaign=1052&utm_source=git)** | Providence, Providence, RI, US | On Site | Apr 30 |
 | ↳ | **[Tax & Accounting Internship - Spring 2027](https://jobright.ai/jobs/info/69f37b56343eef4fb0a9a8b0?utm_campaign=1052&utm_source=git)** | Andover , Andover, MA, US | On Site | Apr 30 |
 | **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2027 Tax Summer Intern](https://jobright.ai/jobs/info/69d7b701869c7e25d858ff45?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 30 |
@@ -676,11 +688,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Dr. Reddy's Laboratories](http://www.drreddys.com/)** | **[SRx Summer Intern – Commercial Portfolio Analysis](https://jobright.ai/jobs/info/69ef411a58811370cb1453a3?utm_campaign=1052&utm_source=git)** | Princeton, NJ | Hybrid | Apr 27 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/698449110f6f7e7a2cde9d83?utm_campaign=1052&utm_source=git)** | Washington, DC | On Site | Apr 27 |
 | ↳ | **[Intern, Core Tax - Summer 2027](https://jobright.ai/jobs/info/69e9e8ca58811370cb12f6db?utm_campaign=1052&utm_source=git)** | Miami, FL | On Site | Apr 27 |
-
-### 🕒 Batch updated: 2026-04-28 04:11 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Armanino](https://www.armanino.com)** | **[Summer 2026 - Tax Intern, Corporate Tax (San Jose)](https://jobright.ai/jobs/info/69f00a3216b2612c2a12d4f7?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | Apr 27 |
-| **[Armanino](https://www.armanino.com)** | **[Summer 2026 - Tax Intern, Corporate Tax (San Jose)](https://jobright.ai/jobs/info/69efd83d58811370cb148d0a?utm_campaign=1052&utm_source=git)** | San Jose, California, US | On Site | Apr 27 |
 
