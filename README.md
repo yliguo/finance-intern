@@ -4,11 +4,27 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-05-02 14:46 ET
+### 🕒 Batch updated: 2026-05-02 17:33 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Graduate Intern - Child Support - Springfield Location](https://jobright.ai/jobs/info/69f6539281706a5bd2168c30?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Springfield- 1 Federal Street | On Site | May 02 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Internal Audit](https://jobright.ai/jobs/info/69f6539081706a5bd2168c24?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Budget Intern](https://jobright.ai/jobs/info/69f6538f81706a5bd2168c18?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
+| ↳ | **[Summer Intern - Collections Bureau](https://jobright.ai/jobs/info/69f6538db1fc847fc1ae302e?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Budget Intern](https://jobright.ai/jobs/info/69f653830b36ff0354754e8c?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
+| ↳ | **[Summer Intern - Child Support - Customer Service Bureau](https://jobright.ai/jobs/info/69f653750b36ff0354754e69?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Remote | May 02 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Estate Tax](https://jobright.ai/jobs/info/69f653720b36ff0354754e53?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Child Support - Policy & Procedures](https://jobright.ai/jobs/info/69f65235a3d34b4f76f58341?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | May 02 |
+| ↳ | **[Summer Graduate Intern - Child Support - Metro Region - Boston Location](https://jobright.ai/jobs/info/69f65233a3d34b4f76f5832e?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | May 02 |
+| ↳ | **[Summer Intern - Cloud Financial Operations (FinOps)](https://jobright.ai/jobs/info/69f65225db88714bcdfb60ed?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
+| ↳ | **[Summer Graduate Intern - Child Support - Springfield Location](https://jobright.ai/jobs/info/69f65225db88714bcdfb60ec?utm_campaign=1052&utm_source=git)** | United States-Massachusetts-Springfield- 1 Federal Street | On Site | May 02 |
+| **[First Hope Bank](http://firsthope.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69f6511da3d34b4f76f58040?utm_campaign=1052&utm_source=git)** | Blairstown, NJ 07832, USA | On Site | May 02 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/69f64731db88714bcdfb5d0f?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | May 02 |
+| ↳ | **[Assurance Intern - Winter 2027](https://jobright.ai/jobs/info/69f6406db1fc847fc1ae2acc?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | May 02 |
+| ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/69f6406ab1fc847fc1ae2acb?utm_campaign=1052&utm_source=git)** | Iowa City, IA | On Site | May 02 |
+| ↳ | **[Federal Tax Services Intern – Winter 2027](https://jobright.ai/jobs/info/69f6401981706a5bd216857c?utm_campaign=1052&utm_source=git)** | Davenport, IA | On Site | May 02 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[P&L Controller – Intern](https://jobright.ai/jobs/info/69d9cad8f748bc5d08a4e169?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 02 |
 | **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Accounting - USA - GA - Atlanta - Global Support Center - R26-03923](https://jobright.ai/jobs/info/69d988df5356a60f40fda3f1?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax Transaction Automation Intern - Summer 2027](https://jobright.ai/jobs/info/69f61c7fa3d34b4f76f57bfa?utm_campaign=1052&utm_source=git)** | St Louis, MO | On Site | May 02 |
@@ -93,6 +109,11 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Cost Accounting Intern Fall 2026](https://jobright.ai/jobs/info/6966ac3c7a34f53920552a1b?utm_campaign=1052&utm_source=git)** | Columbus, MS | On Site | May 01 |
 | **[Fifth Third Bank](http://53.com)** | **[Summer 2026 Intern - Investment Banking](https://jobright.ai/jobs/info/69f51d97db88714bcdfb20c8?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | May 01 |
 | ↳ | **[Summer 2027 Intern - Investment Banking - Charlotte](https://jobright.ai/jobs/info/69f51d6243a25828a8d16f77?utm_campaign=1052&utm_source=git)** | Charlotte, NC | On Site | May 01 |
+
+### 🕒 Batch updated: 2026-05-02 14:46 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
 | **[OTG Management](http://www.otgexp.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/699fcd7581476f6176b989f3?utm_campaign=1052&utm_source=git)** | New York, NY | Remote | May 01 |
 | **[RBC](https://www.rbc.com)** | **[Financial Advisor Intern](https://jobright.ai/jobs/info/69f51c5da3d34b4f76f53b6c?utm_campaign=1052&utm_source=git)** | Prince Albert, Saskatchewan, Canada | On Site | May 01 |
 | **[Heart Aerospace](https://heartaerospace.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69f4f48112f2811ab5a61fa5?utm_campaign=1052&utm_source=git)** | Torrance | On Site | May 01 |
@@ -608,22 +629,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Lucid Software](https://lucid.co)** | **[Strategic Financial Intern](https://jobright.ai/jobs/info/69f1733162b48c6838795748?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 28 |
 | **[Trench Group](https://trench-group.com/)** | **[Finance Intern (12 Months)](https://jobright.ai/jobs/info/69f16b33ecbc8c2f73205a59?utm_campaign=1052&utm_source=git)** | Pickering, Ontario, Canada | On Site | Apr 28 |
 | **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/69f16b218feca91f1492011c?utm_campaign=1052&utm_source=git)** | Barnes, CA | On Site | Apr 28 |
-
-### 🕒 Batch updated: 2026-04-29 15:13 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[USA Rare Earth, Inc. (Nasdaq: USAR)](https://usare.com)** | **[Accounting Internship](https://jobright.ai/jobs/info/69f23c8ff154d768fbaa5f5b?utm_campaign=1052&utm_source=git)** | Stillwater, OK | On Site | Apr 29 |
-| **[Fannie Mae](http://www.fanniemae.com)** | **[Campus - Treasury & Capital Markets Program Intern](https://jobright.ai/jobs/info/69f231bc8d8d624381a9f958?utm_campaign=1052&utm_source=git)** | Midtown Center, US | On Site | Apr 29 |
-| **[CoreSite](http://www.coresite.com)** | **[Accounts Payable Coordinator (1886)](https://jobright.ai/jobs/info/69b877c93b74eb1e2c864b19?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | Apr 29 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Treasury Liquidity & Funding Management intern](https://jobright.ai/jobs/info/69c1e36e75f7ff1cd8103f49?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Apr 28 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Tax Intern (Summer 2026)](https://jobright.ai/jobs/info/69f15ce78feca91f1491fe54?utm_campaign=1052&utm_source=git)** | Troy, MI | On Site | Apr 28 |
-| **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Strategic Operations Graduate Intern- Summer 2026](https://jobright.ai/jobs/info/69f1560d825a315d7ca37737?utm_campaign=1052&utm_source=git)** | New York, New York | On Site | Apr 28 |
-| **[Ducommun Incorporated](http://www.ducommun.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f15410ecbc8c2f7320555a?utm_campaign=1052&utm_source=git)** | Joplin, MO | On Site | Apr 28 |
-| **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Transaction Tax Compliance Intern - Fall 2026](https://jobright.ai/jobs/info/69f153f58d8d624381a9bac7?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Apr 28 |
-| **[Bluespring Wealth Partners](https://www.bluespringwealth.com)** | **[Summer Internship, Financial Advisory](https://jobright.ai/jobs/info/69f153f4ecbc8c2f732054fe?utm_campaign=1052&utm_source=git)** | Waco, TX | On Site | Apr 28 |
-| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2026- Accounting (Research Department)](https://jobright.ai/jobs/info/69f150168d8d624381a9b8ab?utm_campaign=1052&utm_source=git)** | Little Rock, AR | On Site | Apr 28 |
-| **[Leggett & Platt](http://www.leggett.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69f1471462b48c6838794db5?utm_campaign=1052&utm_source=git)** | Carthage, MO | On Site | Apr 28 |
-| **[CTDI](http://www.ctdi.eu)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f141d9ecbc8c2f73204f78?utm_campaign=1052&utm_source=git)** | West Chester, Pennsylvania, United States | On Site | Apr 28 |
-| ↳ | **[Accounting Intern](https://jobright.ai/jobs/info/69f1417262b48c6838794cb6?utm_campaign=1052&utm_source=git)** | West Chester, PA | On Site | Apr 28 |
 
