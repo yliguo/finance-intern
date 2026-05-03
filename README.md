@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-05-03 01:51 ET
+### 🕒 Batch updated: 2026-05-03 03:50 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -565,13 +565,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Sara Lee Frozen Bakery](https://saraleefrozenbakery.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69f23326ab4ec4779fff7d50?utm_campaign=1052&utm_source=git)** | Oak Brook, IL | Hybrid | Apr 29 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Credit Transaction Management – New Graduate](https://jobright.ai/jobs/info/6981827b49964d25b5e47f74?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 29 |
 | **[Printpack](http://www.printpack.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f20dff8d8d624381a9efbd?utm_campaign=1052&utm_source=git)** | Villa Rica 1, GA, US | On Site | Apr 29 |
-
-### 🕒 Batch updated: 2026-04-30 01:51 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Denver Botanic Gardens](http://www.botanicgardens.org)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/69f2cd168d8d624381aa3ef7?utm_campaign=1052&utm_source=git)** | Denver, CO | On Site | Apr 29 |
-| **[Heritage Auctions](https://www.ha.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69f2cd138d8d624381aa3ee6?utm_campaign=1052&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
-| **[Maravai LifeSciences](http://www.maravai.com/)** | **[Intern - Finance](https://jobright.ai/jobs/info/69f2bffc825a315d7ca3f857?utm_campaign=1052&utm_source=git)** | San Diego, CA | On Site | Apr 29 |
-| **[SouthState Bank](https://southstatebank.com)** | **[Summer 2026 Commercial Banking Intern](https://jobright.ai/jobs/info/69f2a629f154d768fbaa82a0?utm_campaign=1052&utm_source=git)** | Winter Haven, FL | On Site | Apr 29 |
 
