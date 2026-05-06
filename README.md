@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-05-06 04:11 ET
+### 🕒 Batch updated: 2026-05-06 06:59 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -31,7 +31,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26038 Oceans Blended and Innovative Finance Intern](https://jobright.ai/jobs/info/69fa644581706a5bd2175678?utm_campaign=1052&utm_source=git)** | Washington, DC, US | On Site | May 05 |
 | **[Pure Water Service Group](https://purewatersg.com/)** | **[Analyst](https://jobright.ai/jobs/info/69fa63f6db88714bcdfc2a30?utm_campaign=1052&utm_source=git)** | Denver, CO | Hybrid | May 05 |
 | **[CBIZ](http://www.cbiz.com)** | **[Risk & Advisory Intern / Business Process / Summer 2026](https://jobright.ai/jobs/info/69fa5ddfb1fc847fc1aefc23?utm_campaign=1052&utm_source=git)** | 5959 Rockside Woods Blvd N, Suite 600, Cleveland, OH, 44131, US | On Site | May 05 |
-| **[Sony](https://www.sony.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69d7c5ef869c7e25d859058f?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | May 05 |
 | **[Cortland](https://cortland.com)** | **[Finance and Investor Relations Intern - Atlanta, GA](https://jobright.ai/jobs/info/69fa53b3582f810f9c8d5810?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 05 |
 | **[DNOW](https://www.dnow.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/69fa4c200b36ff0354761d8a?utm_campaign=1052&utm_source=git)** | US TX Houston 7402 N Eldridge Pkwy, US | On Site | May 05 |
 | **[Comfort Systems USA (Kentucky), Inc.](http://comfortsystemsusakentucky.com)** | **[Operational Finance Intern](https://jobright.ai/jobs/info/69fa4c200b36ff0354761d89?utm_campaign=1052&utm_source=git)** | Houston, TX (TAS-Cullen HQ), US | On Site | May 05 |
@@ -109,6 +108,13 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[INTERSTATE REALTY MANAGEMENT CO](https://www.linkedin.com/company/9525868)** | **[Intern - Accounting (Affordable Operations)](https://jobright.ai/jobs/info/69f9f403db88714bcdfc040c?utm_campaign=1052&utm_source=git)** | US-NJ-Camden | On Site | May 05 |
 | ↳ | **[Intern - Accounting (Affordable Operations)](https://jobright.ai/jobs/info/69f9f3fea3d34b4f76f62ded?utm_campaign=1052&utm_source=git)** | Camden, NJ, US | On Site | May 05 |
 | ↳ | **[Intern - Accounting (Affordable Operations)](https://jobright.ai/jobs/info/69f9f3eb81706a5bd2172dd5?utm_campaign=1052&utm_source=git)** | MMA Corp Hourly - NJ | On Site | May 05 |
+| **[Fontaine Trailer](https://www.fontainetrailer.com)** | **[Finance Intern – Summer 2026](https://jobright.ai/jobs/info/68c317e25adaee6c9bda6e55?utm_campaign=1052&utm_source=git)** | Haleyville, AL | On Site | May 05 |
+
+### 🕒 Batch updated: 2026-05-06 04:11 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Sony](https://www.sony.com)** | **[Tax Intern](https://jobright.ai/jobs/info/69d7c5ef869c7e25d859058f?utm_campaign=1052&utm_source=git)** | New York, United States | On Site | May 05 |
 
 ### 🕒 Batch updated: 2026-05-06 01:50 ET
 
@@ -437,13 +443,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | **[HdL Companies](http://hdlcompanies.com)** | **[Intern I-Finance, Accounting, Corporate Development and Contract](https://jobright.ai/jobs/info/69f616fd81706a5bd216838e?utm_campaign=1052&utm_source=git)** | Brea, CA | On Site | May 02 |
-
-### 🕒 Batch updated: 2026-05-03 05:59 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69f672d6db88714bcdfb649d?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[State and Local Tax - Sales and Use Intern - Summer 2027](https://jobright.ai/jobs/info/69f4ffcd0b36ff035475014e?utm_campaign=1052&utm_source=git)** | Omaha, NE | On Site | May 01 |
-| **[BRG](http://www.thinkbrg.com)** | **[2026 Summer Associate (Intern) - Corporate Finance - Turnaround & Restructuring](https://jobright.ai/jobs/info/69bb5b603b74eb1e2c89c907?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | May 01 |
-| **[Coherent Corp.](https://www.coherent.com/)** | **[Intern, Financial Analyst Cost Accounting](https://jobright.ai/jobs/info/69f4fec881706a5bd21641d2?utm_campaign=1052&utm_source=git)** | 5100 Patrick Henry Drive, Santa Clara, CA, 95054, US | On Site | May 01 |
 
