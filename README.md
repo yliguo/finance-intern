@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-05-07 04:21 ET
+### 🕒 Batch updated: 2026-05-07 07:03 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -702,11 +702,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern](https://jobright.ai/jobs/info/69f6137c582f810f9c8c840b?utm_campaign=1052&utm_source=git)** | Austin, TX | On Site | May 02 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/69f555e881706a5bd2166001?utm_campaign=1052&utm_source=git)** | Long Beach, CA | On Site | May 01 |
 | **[Doeren Mayhew](http://doeren.com)** | **[Tax Internship](https://jobright.ai/jobs/info/69f5302a0b36ff0354751054?utm_campaign=1052&utm_source=git)** | Duluth, GA | On Site | May 01 |
-
-### 🕒 Batch updated: 2026-05-04 06:59 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Access Systems, Inc.](https://www.accesssystems.com)** | **[2026 Summer Accounting Intern](https://jobright.ai/jobs/info/69f52a55a3d34b4f76f540ca?utm_campaign=1052&utm_source=git)** | Des Moines, IA | On Site | May 01 |
-| **[SBP](https://sbpusa.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/69f52a3481706a5bd2165313?utm_campaign=1052&utm_source=git)** | New Orleans, LA | On Site | May 01 |
 
