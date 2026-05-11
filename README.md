@@ -4,16 +4,19 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-05-10 22:29 ET
+### 🕒 Batch updated: 2026-05-11 02:31 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amgen](http://www.amgen.com)** | **[Grad Intern - Finance](https://jobright.ai/jobs/info/6a01346c238f143e8352b6b6?utm_campaign=1052&utm_source=git)** | Canada - Mississauga, CA | Hybrid | May 10 |
+| **[Stadler](http://www.stadlerrail.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a01284aa0eddc08c239e87f?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | May 10 |
 | **[Maverick Power](https://maverickpwr.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a0124d6a0eddc08c239e77a?utm_campaign=1052&utm_source=git)** | McKinney, TX | On Site | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Data & Pricing Analyst Intern](https://jobright.ai/jobs/info/6a0121cd238f143e8352b422?utm_campaign=1052&utm_source=git)** | IL, US | On Site | May 10 |
-| **[Qabas | Consulting & Training](https://qbs.ly/)** | **[Internship - Financial Analyst](https://jobright.ai/jobs/info/6a011e90c4b08448a0b1d960?utm_campaign=1052&utm_source=git)** | Cambridge, MA | Remote | May 10 |
+| **[Lucid Software](https://lucid.co)** | **[Strategic Financial Intern](https://jobright.ai/jobs/info/69f1733162b48c6838795748?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | Hybrid | May 10 |
 | **[Waldom](http://www.waldom.com/)** | **[Data & Pricing Analyst Intern](https://jobright.ai/jobs/info/6a010a0fa0eddc08c239e362?utm_campaign=1052&utm_source=git)** | Rockford, Illinois, United States | On Site | May 10 |
 | **[West Virginia University Foundation](https://www.wvuf.org/)** | **[Finance and Accounting Intern](https://jobright.ai/jobs/info/69ebc38fdc35f7132c4b30b0?utm_campaign=1052&utm_source=git)** | Morgantown, WV | Hybrid | May 10 |
+| **[CBIZ](http://www.cbiz.com)** | **[Tax Intern / Spring 2027](https://jobright.ai/jobs/info/69c89712e565c26a7002faf8?utm_campaign=1052&utm_source=git)** | Cumberland, MD | On Site | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer 2026 Temporary Financial Data & Strategy Intern- Endwell, NY](https://jobright.ai/jobs/info/6a00cd11c2ffb31f45363a4c?utm_campaign=1052&utm_source=git)** | NY, US | On Site | May 10 |
 | **[Withum](http://www.withum.com)** | **[Summer Interns 2026](https://jobright.ai/jobs/info/68cf15dc846f0b04af67f414?utm_campaign=1052&utm_source=git)** | Princeton, NJ | On Site | May 10 |
 | **[Visions Federal Credit Union](https://www.visionsfcu.org)** | **[Summer 2026 Temporary Financial Data & Strategy Intern- Endwell, NY](https://jobright.ai/jobs/info/6a00b56fc2ffb31f45363824?utm_campaign=1052&utm_source=git)** | Endwell, New York, United States | On Site | May 10 |
@@ -24,6 +27,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Accion](http://www.accion.org)** | **[Investment Intern, Emerge](https://jobright.ai/jobs/info/69effc44fbe0994a40eb9cd5?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | May 10 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Support Group Intern - Prequalification](https://jobright.ai/jobs/info/69c918b41818a24cd84d9a6d?utm_campaign=1052&utm_source=git)** | Tempe, AZ | On Site | May 10 |
 | **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Finance Intern](https://jobright.ai/jobs/info/69c7276c83ea553769fe1252?utm_campaign=1052&utm_source=git)** | Lewisburg, TN | On Site | May 10 |
+| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2027 (Atlanta, GA)](https://jobright.ai/jobs/info/698dbe77f64d441a164fed31?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 10 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Finance & Insurance Intern](https://jobright.ai/jobs/info/693b87d35f2c001987ed774d?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | May 10 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit Intern – Peak Season 2027](https://jobright.ai/jobs/info/69e4b9bd9b6eb37e26f7a926?utm_campaign=1052&utm_source=git)** | East Lansing, MI | On Site | May 10 |
 | **[Methode Electronics](http://methode.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/69d05a0ccfdc6132f943a905?utm_campaign=1052&utm_source=git)** | Southfield, MI | On Site | May 09 |
@@ -57,14 +61,13 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / White Plains (49583)](https://jobright.ai/jobs/info/69716ea1333b6343a14df628?utm_campaign=1052&utm_source=git)** | White Plains, NY | On Site | May 09 |
 | ↳ | **[Winter Internship 2027 / Tax Intern / Braintree (49576)](https://jobright.ai/jobs/info/69d5f9ab4a12eb12c5e15126?utm_campaign=1052&utm_source=git)** | Braintree, MA | On Site | May 09 |
 | ↳ | **[Winter Internship 2027 / Tax Intern / New York City (49586)](https://jobright.ai/jobs/info/697170d2587dfa0bb55f0e67?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | May 09 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Asset Management Operations, Portfolio Ops & Analytics](https://jobright.ai/jobs/info/69c5d3a783ea553769fd0685?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 09 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Ohio (49587)](https://jobright.ai/jobs/info/697168df587dfa0bb55f093c?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | May 09 |
+| ↳ | **[Winter Internship 2027 / Tax Intern / Ohio (49587)](https://jobright.ai/jobs/info/697168df587dfa0bb55f093c?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | May 09 |
 | **[Genmab](https://www.genmab.com)** | **[Commercialization Finance Intern](https://jobright.ai/jobs/info/69e13f2a40a62c1fa93b75db?utm_campaign=1052&utm_source=git)** | Princeton, NJ | Hybrid | May 09 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Accounting Intern - Summer 2026](https://jobright.ai/jobs/info/69ff29ce74b5407dd4673cb8?utm_campaign=1052&utm_source=git)** | Falls Church Virginia | On Site | May 09 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - IT Audit (Fall 2026)](https://jobright.ai/jobs/info/69715f06587dfa0bb55f0161?utm_campaign=1052&utm_source=git)** | San Antonio, TX | On Site | May 09 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Internal Audit)](https://jobright.ai/jobs/info/69ff237c238f143e83523e89?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Investment Accounting)](https://jobright.ai/jobs/info/69ff237c238f143e83523e88?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
+| ↳ | **[Summer Intern (Internal Audit)](https://jobright.ai/jobs/info/69ff237c238f143e83523e89?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
 | ↳ | **[Summer Intern (Investment Administration)](https://jobright.ai/jobs/info/69ff237c238f143e83523e8a?utm_campaign=1052&utm_source=git)** | MANHATTAN | On Site | May 09 |
-| ↳ | **[Summer Intern (Investment Accounting)](https://jobright.ai/jobs/info/69ff237c238f143e83523e88?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
 | ↳ | **[Accounting (Accounts Receivable Intern)](https://jobright.ai/jobs/info/69ff237b74b5407dd4673ab7?utm_campaign=1052&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | **[Spire](http://www.spire.com)** | **[Revenue & Predictive Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2798e5c44d4710fe25643?utm_campaign=1052&utm_source=git)** | Washington, DC | Hybrid | May 09 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, Treasury](https://jobright.ai/jobs/info/69c496abd5a1016e98dbe0d6?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | May 09 |
@@ -106,6 +109,16 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/69c4f3fc33eecf310795711c?utm_campaign=1052&utm_source=git)** | Englewood Cliffs, NJ | On Site | May 08 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern, Accounting (Finance and Records Dept.)](https://jobright.ai/jobs/info/69fe6b306bcf315dc8f57ab9?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | May 08 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Financial Affairs Support Team Internship](https://jobright.ai/jobs/info/69fe668a7714cd50b9100dae?utm_campaign=1052&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | May 08 |
+
+### 🕒 Batch updated: 2026-05-10 22:29 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Qabas | Consulting & Training](https://qbs.ly/)** | **[Internship - Financial Analyst](https://jobright.ai/jobs/info/6a011e90c4b08448a0b1d960?utm_campaign=1052&utm_source=git)** | Cambridge, MA | Remote | May 10 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Asset Management Operations, Portfolio Ops & Analytics](https://jobright.ai/jobs/info/69c5d3a783ea553769fd0685?utm_campaign=1052&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 09 |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Ohio (49587)](https://jobright.ai/jobs/info/697168df587dfa0bb55f093c?utm_campaign=1052&utm_source=git)** | Westerville, OH | On Site | May 09 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Internal Audit)](https://jobright.ai/jobs/info/69ff237c238f143e83523e89?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
+| ↳ | **[Summer Intern (Investment Accounting)](https://jobright.ai/jobs/info/69ff237c238f143e83523e88?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern / Wealth Management](https://jobright.ai/jobs/info/69fe65e652e2b44f558b18c7?utm_campaign=1052&utm_source=git)** | Brentwood, TN, US | On Site | May 08 |
 | ↳ | **[CW Accounts Receivable Intern](https://jobright.ai/jobs/info/69fe65d66bcf315dc8f5766a?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA, US | On Site | May 08 |
 | ↳ | **[Public Finance Intern](https://jobright.ai/jobs/info/69fe65c552e2b44f558b1899?utm_campaign=1052&utm_source=git)** | NY, US | Hybrid | May 08 |
@@ -115,7 +128,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Investment Administration)](https://jobright.ai/jobs/info/69ff237c238f143e83523e8a?utm_campaign=1052&utm_source=git)** | MANHATTAN | On Site | May 09 |
-| ↳ | **[Summer Intern (Internal Audit)](https://jobright.ai/jobs/info/69ff237c238f143e83523e89?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Accounting & Finance](https://jobright.ai/jobs/info/69fe64ea4b9bbf21744b13e8?utm_campaign=1052&utm_source=git)** | Richardson, TX 75082, USA | On Site | May 08 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Intern, Accounting (Finance and Records Dept.)](https://jobright.ai/jobs/info/69feb6721161630dd3b027ad?utm_campaign=1052&utm_source=git)** | 125 N State St, Salt Lake City, UT, 84103, US | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Accounting College Internship](https://jobright.ai/jobs/info/69fe62ae52e2b44f558b15e6?utm_campaign=1052&utm_source=git)** | Honolulu, HI, US | On Site | May 08 |
@@ -217,7 +229,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Investment Accounting)](https://jobright.ai/jobs/info/69ff237c238f143e83523e88?utm_campaign=1052&utm_source=git)** | MANHATTAN | Remote | May 09 |
 | **[Colliers](http://www.colliers.com)** | **[Fall 2026 - Property Accounting Intern (8 months)](https://jobright.ai/jobs/info/69fe20516bcf315dc8f54d01?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 08 |
 | **[AdventHealth Colorado](https://networkofcare.adventhealth.com/colorado)** | **[Finance Intern](https://jobright.ai/jobs/info/69fe20027714cd50b90fe4f3?utm_campaign=1052&utm_source=git)** | ADVENTHEALTH HINSDALE, US | Remote | May 08 |
 | **[Basis Vectors Capital](https://basisvectors.com/)** | **[Investment Intern](https://jobright.ai/jobs/info/69fe1c9ff363bc4dc339ba3a?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | May 08 |
@@ -438,12 +449,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[RemoteHunter](https://remotehunter.com/)** | **[Asset Strategy Intern](https://jobright.ai/jobs/info/69fc697f666f063d3d6ccaa0?utm_campaign=1052&utm_source=git)** | Delafield, WI, US | On Site | May 06 |
 | ↳ | **[INTERN - ACCOUNTING CLERK](https://jobright.ai/jobs/info/69fc693d5cff890b03f2fa4a?utm_campaign=1052&utm_source=git)** | KY, US | On Site | May 06 |
 | ↳ | **[Credit Risk Management Department Risk Analytics - Model Intern](https://jobright.ai/jobs/info/69fc648dab1b7e27b9fa3b73?utm_campaign=1052&utm_source=git)** | NY, US | On Site | May 06 |
-
-### 🕒 Batch updated: 2026-05-08 01:24 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[Intern-Procurement](https://jobright.ai/jobs/info/69fc937ab113035a9f8e9dd7?utm_campaign=1052&utm_source=git)** | Three Ravinia Drive, Atlanta, GA, 30346, US | Hybrid | May 07 |
-| ↳ | **[Accounts Payable Intern (Summer 2026)](https://jobright.ai/jobs/info/69fc641f2e6c421278ddbe30?utm_campaign=1052&utm_source=git)** | Markham, IL, US | On Site | May 06 |
-| ↳ | **[Financial Analyst Intern](https://jobright.ai/jobs/info/69fc63cb2e6c421278ddbe1f?utm_campaign=1052&utm_source=git)** | Bothell, WA, US | Hybrid | May 06 |
 
