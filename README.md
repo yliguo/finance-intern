@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-05-16 09:04 ET
+### 🕒 Batch updated: 2026-05-16 11:51 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -42,24 +42,24 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Power Integrations](https://www.power.com)** | **[Finance & Accounting Internship with AI Enablement](https://jobright.ai/jobs/info/6a0797646186f46859881339?utm_campaign=1052&utm_source=git)** | San Jose, CA | On Site | May 15 |
 | **[Stockman of Montana](https://www.stockmanbank.com/)** | **[INTERN AG & COMMERCIAL LENDING](https://jobright.ai/jobs/info/6a0797636186f46859881336?utm_campaign=1052&utm_source=git)** | Conrad, MT | On Site | May 15 |
 | **[Birnie Bus Service, Inc](https://www.jointeambirnie.com/)** | **[Finance Summer Intern – Fixed Asset & Leasing](https://jobright.ai/jobs/info/6a0797616186f46859881329?utm_campaign=1052&utm_source=git)** | Belmar, NJ | On Site | May 15 |
-| **[The Cigna Group](https://www.cigna.com/)** | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a0796df939a5f01db951f9c?utm_campaign=1052&utm_source=git)** | Philadelphia, Pennsylvania, United States of America | On Site | May 15 |
-| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a0796df939a5f01db951f99?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States of America | Hybrid | May 15 |
+| **[The Cigna Group](https://www.cigna.com/)** | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a0796df939a5f01db951f9b?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States of America | Hybrid | May 15 |
 | ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a0796df939a5f01db951f9d?utm_campaign=1052&utm_source=git)** | Franklin, Tennessee, United States of America | On Site | May 15 |
-| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a0796df939a5f01db951f9b?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States of America | Hybrid | May 15 |
+| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a0796df939a5f01db951f99?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States of America | Hybrid | May 15 |
 | ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a0796df939a5f01db951f9a?utm_campaign=1052&utm_source=git)** | Bloomfield, Connecticut, United States of America | On Site | May 15 |
+| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a0796df939a5f01db951f9c?utm_campaign=1052&utm_source=git)** | Philadelphia, Pennsylvania, United States of America | On Site | May 15 |
 | **[Dream](http://www.dream.ca/)** | **[Intern, Corporate Accounting](https://jobright.ai/jobs/info/6a07953b403fc339507e63e8?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 15 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a079512403fc339507e6335?utm_campaign=1052&utm_source=git)** | Laval, Quebec, Canada | On Site | May 15 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a078e0d3b54ed42d74cf550?utm_campaign=1052&utm_source=git)** | Bloomfield, CT, US | On Site | May 15 |
 | ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a078e0d3b54ed42d74cf551?utm_campaign=1052&utm_source=git)** | Denver, CO, US | On Site | May 15 |
 | ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a078e0d3b54ed42d74cf54f?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, US | On Site | May 15 |
-| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a078e0c3b54ed42d74cf54d?utm_campaign=1052&utm_source=git)** | Austin, TX, US | On Site | May 15 |
 | ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a078e0c3b54ed42d74cf54e?utm_campaign=1052&utm_source=git)** | Franklin, TN, US | On Site | May 15 |
+| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a078e0c3b54ed42d74cf54d?utm_campaign=1052&utm_source=git)** | Austin, TX, US | On Site | May 15 |
 | **[Therma](http://www.therma.com)** | **[Procurement Intern Summer 2026](https://jobright.ai/jobs/info/6a078838403fc339507e5c68?utm_campaign=1052&utm_source=git)** | Therma, 1601 Las Plumas Avenue, San Jose, California, United States of America | On Site | May 15 |
 | **[Skillsoft](http://www.skillsoft.com)** | **[Part-Time Financial Analyst Intern](https://jobright.ai/jobs/info/6a0787d2403fc339507e5c33?utm_campaign=1052&utm_source=git)** | United States | Remote | May 15 |
 | **[GlassRatner](http://glassratner.com)** | **[Intern](https://jobright.ai/jobs/info/6a078791939a5f01db9510e7?utm_campaign=1052&utm_source=git)** | Los Angeles, CA 90067, USA | On Site | May 15 |
 | **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a0786f2939a5f01db951082?utm_campaign=1052&utm_source=git)** | Dublin, OH | On Site | May 15 |
-| ↳ | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a03211abc4184089f22f558?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
 | ↳ | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a0786f03b54ed42d74cf0bb?utm_campaign=1052&utm_source=git)** | Orange Park, FL | On Site | May 15 |
+| ↳ | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a03211abc4184089f22f558?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
 | **[Southside Bank](http://southside.com)** | **[Investment Services intern](https://jobright.ai/jobs/info/6a0786d78f3e371eb6178345?utm_campaign=1052&utm_source=git)** | Fort Worth, TX, US | On Site | May 15 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Tax Intern – Peak Season 2027 (January - April)](https://jobright.ai/jobs/info/6a0785e9403fc339507e5ab8?utm_campaign=1052&utm_source=git)** | Toledo, OH | On Site | May 15 |
 | **[Proman USA, Inc.](http://WWW.PROMAN.ORG)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a0785a9403fc339507e5a82?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | May 15 |
@@ -80,8 +80,8 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[The Helper Bees](https://www.thehelperbees.com)** | **[Accounting & Finance Intern](https://jobright.ai/jobs/info/6a076f2fa203b1052e43a9b5?utm_campaign=1052&utm_source=git)** | Austin,TX,US | Hybrid | May 15 |
 | **[Capital Oral & Facial Surgery Center](http://www.docvlee.com/)** | **[M&A Intern](https://jobright.ai/jobs/info/6a076f263b54ed42d74cd666?utm_campaign=1052&utm_source=git)** | Corporate: 12770 Merit Dr. Suite 800 Dallas, TX 75251, Dallas, TX | On Site | May 15 |
 | **[RBC](https://www.rbc.com)** | **[Private Banking Advisor Intern](https://jobright.ai/jobs/info/6a076f128f3e371eb6176c45?utm_campaign=1052&utm_source=git)** | LANGLEY, British Columbia, Canada | On Site | May 15 |
-| **[Utah Retirement Systems](https://www.urs.org)** | **[Investment Risk Management Intern](https://jobright.ai/jobs/info/6a076ea66186f4685987e3f2?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | May 15 |
-| ↳ | **[Investment Risk Management Intern](https://jobright.ai/jobs/info/6a076ea66186f4685987e3f1?utm_campaign=1052&utm_source=git)** | UT-Salt Lake City | On Site | May 15 |
+| **[Utah Retirement Systems](https://www.urs.org)** | **[Investment Risk Management Intern](https://jobright.ai/jobs/info/6a076ea66186f4685987e3f1?utm_campaign=1052&utm_source=git)** | UT-Salt Lake City | On Site | May 15 |
+| ↳ | **[Investment Risk Management Intern](https://jobright.ai/jobs/info/6a076ea66186f4685987e3f2?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | May 15 |
 | **[MAC.BID](https://www.mac.bid/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a076d546186f4685987e35e?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA, US | Hybrid | May 15 |
 | **[Multisorb](http://www.multisorb.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a076ce46186f4685987e259?utm_campaign=1052&utm_source=git)** | Buffalo, NY | Hybrid | May 15 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/69ebbc424b0fa35a7077df6a?utm_campaign=1052&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 15 |
@@ -110,12 +110,20 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[TD](https://www.td.com)** | **[Underwriting Automation Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/6a075038a203b1052e439826?utm_campaign=1052&utm_source=git)** | Markham, Ontario, Canada | On Site | May 15 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Quantitative Equity Research, Intern](https://jobright.ai/jobs/info/69ebb7fd58811370cb13bffa?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 15 |
 
+### 🕒 Batch updated: 2026-05-16 09:04 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[The Cigna Group](https://www.cigna.com/)** | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a0796df939a5f01db951f9c?utm_campaign=1052&utm_source=git)** | Philadelphia, Pennsylvania, United States of America | On Site | May 15 |
+| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a0796df939a5f01db951f9b?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States of America | Hybrid | May 15 |
+| **[Utah Retirement Systems](https://www.urs.org)** | **[Investment Risk Management Intern](https://jobright.ai/jobs/info/6a076ea66186f4685987e3f2?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | May 15 |
+| ↳ | **[Investment Risk Management Intern](https://jobright.ai/jobs/info/6a076ea66186f4685987e3f1?utm_campaign=1052&utm_source=git)** | UT-Salt Lake City | On Site | May 15 |
+
 ### 🕒 Batch updated: 2026-05-16 06:08 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | **[The Cigna Group](https://www.cigna.com/)** | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a0796df939a5f01db951f9d?utm_campaign=1052&utm_source=git)** | Franklin, Tennessee, United States of America | On Site | May 15 |
-| ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a0796df939a5f01db951f9c?utm_campaign=1052&utm_source=git)** | Philadelphia, Pennsylvania, United States of America | On Site | May 15 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a078e0d3b54ed42d74cf54f?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, US | On Site | May 15 |
 | ↳ | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a078e0d3b54ed42d74cf550?utm_campaign=1052&utm_source=git)** | Bloomfield, CT, US | On Site | May 15 |
 | **[Horizontal Wireline Services](https://horizontalwireline.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a074e62403fc339507e2e56?utm_campaign=1052&utm_source=git)** | Houston, TX, US | On Site | May 15 |
@@ -151,8 +159,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
-| **[Utah Retirement Systems](https://www.urs.org)** | **[Investment Risk Management Intern](https://jobright.ai/jobs/info/6a076ea66186f4685987e3f1?utm_campaign=1052&utm_source=git)** | UT-Salt Lake City | On Site | May 15 |
-| ↳ | **[Investment Risk Management Intern](https://jobright.ai/jobs/info/6a076ea66186f4685987e3f2?utm_campaign=1052&utm_source=git)** | Salt Lake City, UT | On Site | May 15 |
 | **[Artane Partners](https://artanepartners.com)** | **[Investment Banking Internship](https://jobright.ai/jobs/info/6a07501a6186f4685987d224?utm_campaign=1052&utm_source=git)** | New York, United States | Remote | May 15 |
 | **[TD](https://www.td.com)** | **[Financial Operations Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a07444e6186f4685987c844?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, CA | Hybrid | May 15 |
 | **[MAT Holdings, Inc.](http://www.matholdingsinc.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a0742cf3b54ed42d74cba1e?utm_campaign=1052&utm_source=git)** | Long Grove, IL | On Site | May 15 |
@@ -941,19 +947,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[DP World](https://www.dpworld.com/)** | **[Intern Finance](https://jobright.ai/jobs/info/6a03663f7c753c287f6e6960?utm_campaign=1052&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | May 12 |
 | **[Nexus Energy Inc.](https://www.nexusenergycanada.com)** | **[Junior Accountant Intern](https://jobright.ai/jobs/info/69e6ec55f8fa2f3ec32a3f97?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 12 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, Accounting](https://jobright.ai/jobs/info/69e6d5cfe0cd471b2f127a8f?utm_campaign=1052&utm_source=git)** | Tustin, CA | On Site | May 12 |
-
-### 🕒 Batch updated: 2026-05-13 07:26 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Cortland](https://cortland.com)** | **[Investments Intern - Atlanta, GA](https://jobright.ai/jobs/info/6a03efad7c753c287f6eb487?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | May 12 |
-| **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Investment Intern](https://jobright.ai/jobs/info/6a039c8722395b6dc6d96791?utm_campaign=1052&utm_source=git)** | Los Angeles, CA | Hybrid | May 12 |
-| **[Berkshire](https://berkshireresidentialinvestments.com)** | **[Investment Intern](https://jobright.ai/jobs/info/6a038dad6c07461fe170529c?utm_campaign=1052&utm_source=git)** | Los Angeles Office, KFO | Hybrid | May 12 |
-| **[Heart City Health](https://www.heartcityhealth.org)** | **[Accounts Payable Assistant - Intern](https://jobright.ai/jobs/info/6a035ef37c753c287f6e665a?utm_campaign=1052&utm_source=git)** | Elkhart, IN, US | On Site | May 12 |
-| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26039 Nature Finance and Investment (NFI) Associate Intern](https://jobright.ai/jobs/info/6a035daebc4184089f231d33?utm_campaign=1052&utm_source=git)** | Washington, DC, US | Hybrid | May 12 |
-| ↳ | **[IN-26039 Nature Finance and Investment (NFI) Associate Intern](https://jobright.ai/jobs/info/6a035daebc4184089f231d34?utm_campaign=1052&utm_source=git)** | US-DC-Washington | Hybrid | May 12 |
-| **[Cherokee Federal](https://cherokee-federal.com)** | **[Intern Finance](https://jobright.ai/jobs/info/6a035bbc6c07461fe17033a1?utm_campaign=1052&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | May 12 |
-| **[Sunrise Credit Services, Inc.](https://www.sunrisecreditservices.com)** | **[Entry Level Debt Collectors - F/T-P/T](https://jobright.ai/jobs/info/6a035a99ed6a637463f4f358?utm_campaign=1052&utm_source=git)** | Melville, NY | Hybrid | May 12 |
-| **[MNP](http://www.mnp.ca)** | **[Intern or Co-op Student, Assurance and Accounting (Winter 2027)](https://jobright.ai/jobs/info/69af714b749500645093e1be?utm_campaign=1052&utm_source=git)** | Victoria, British Columbia, Canada | On Site | May 12 |
-| **[Honest Health](https://honesthealth.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6a035a6eed6a637463f4f2d5?utm_campaign=1052&utm_source=git)** | United States | Remote | May 12 |
 
