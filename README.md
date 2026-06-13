@@ -4,11 +4,15 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-06-12 22:41 ET
+### 🕒 Batch updated: 2026-06-13 02:52 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Corporate Intern - Global Tax](https://jobright.ai/jobs/info/6a2cc59ea1d15e3c552fd222?utm_campaign=1052&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
+| **[Orlando Health](https://www.orlandohealth.com/)** | **[Intern - Finance Support](https://jobright.ai/jobs/info/6a2cc11dfc0644749054b2c3?utm_campaign=1052&utm_source=git)** | Orlando,Florida,United States | On Site | Jun 12 |
+| **[Dollar Tree Distribution, Inc.](https://www.linkedin.com/company/53969352)** | **[Intern](https://jobright.ai/jobs/info/6a2cbdfa7cd40a338fae79f9?utm_campaign=1052&utm_source=git)** | VA-Chesapeake, US | On Site | Jun 12 |
+| **[Harbinger](https://harbingermotors.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a2cbb59f1751b183c819b9a?utm_campaign=1052&utm_source=git)** | Garden Grove, CA | On Site | Jun 12 |
 | **[PSEG](https://landing.pseg.com)** | **[Staff Intern - Market Risk Job Details / PSEG](https://jobright.ai/jobs/info/6a2cad11d3ec94183f4be12b?utm_campaign=1052&utm_source=git)** | Newark, NJ, US, 07101 | Hybrid | Jun 12 |
 | **[Cake Mortgage Corp](https://www.mhlending.us/)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/6a2caabcfc0644749054aeda?utm_campaign=1052&utm_source=git)** | Chatsworth,CA,US | On Site | Jun 12 |
 | **[Services for the UnderServed](https://www.sus.org)** | **[Intern](https://jobright.ai/jobs/info/6a2c74a6c260bb1b8ae168bf?utm_campaign=1052&utm_source=git)** | New York, NY, US | On Site | Jun 12 |
@@ -47,12 +51,14 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[DigitalOcean](http://www.digitalocean.com)** | **[Corporate FP&A Intern](https://jobright.ai/jobs/info/6a2c33befc06447490548a95?utm_campaign=1052&utm_source=git)** | San Francisco, CA | Remote | Jun 12 |
 | **[Prysmian](https://www.prysmian.com)** | **[Accounts Payable Internship](https://jobright.ai/jobs/info/6a0f11c9619335383fb28e9c?utm_campaign=1052&utm_source=git)** | Vaughan, Canada | On Site | Jun 12 |
 | **[Copart](http://www.copart.com)** | **[Tax Accounting Intern](https://jobright.ai/jobs/info/69f231c0ecbc8c2f73209218?utm_campaign=1052&utm_source=git)** | Dallas, TX - Headquarters, US | On Site | Jun 12 |
-| **[Crest Industries](http://www.crestoperations.com/)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a0ea3fb83d714428981a56f?utm_campaign=1052&utm_source=git)** | Pineville, Louisiana | On Site | Jun 12 |
+| **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Intern, Finance Intercompany](https://jobright.ai/jobs/info/6a0f40c080bf0430c7632124?utm_campaign=1052&utm_source=git)** | Iselin, NJ | On Site | Jun 12 |
+| **[Crest Industries](http://www.crestoperations.com/)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a2134d24bdf8a5a96bd5094?utm_campaign=1052&utm_source=git)** | Pineville, Louisiana | On Site | Jun 12 |
 | **[GZA GeoEnvironmental, Inc.](http://www.gza.com)** | **[Finance Intern/ Temporary Role](https://jobright.ai/jobs/info/6a2c27d1a1d15e3c552fa49c?utm_campaign=1052&utm_source=git)** | Norwood, MA | Hybrid | Jun 12 |
 | **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Intern, Finance Intercompany](https://jobright.ai/jobs/info/6a0f13ed80bf0430c7630b44?utm_campaign=1052&utm_source=git)** | USA - Iselin, Wood Ave | On Site | Jun 12 |
 | **[GZA GeoEnvironmental, Inc.](http://www.gza.com)** | **[Finance Intern/ Temporary Role](https://jobright.ai/jobs/info/6a2c1c90d3ec94183f4bb477?utm_campaign=1052&utm_source=git)** | Norwood, Massachusetts, United States | Hybrid | Jun 12 |
 | **[Green Bay Packaging](https://gbp.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a2c1b93f1751b183c816ceb?utm_campaign=1052&utm_source=git)** | Green Bay, WI 54302, USA | On Site | Jun 12 |
 | **[Alluvionic Inc.](https://alluvionic.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a2c1795c260bb1b8ae1474e?utm_campaign=1052&utm_source=git)** | Melbourne, FL | On Site | Jun 12 |
+| **[Schneider Downs](https://www.schneiderdowns.com/)** | **[2027 Audit Summer Intern](https://jobright.ai/jobs/info/6a2cdaf4f1751b183c819ffc?utm_campaign=1052&utm_source=git)** | Columbus, OH | Hybrid | Jun 12 |
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[Financial Planning and Sales Intern](https://jobright.ai/jobs/info/6a2c0e67fc06447490547fa8?utm_campaign=1052&utm_source=git)** | West Chester, OH | On Site | Jun 12 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a2c09fcf1751b183c8166cf?utm_campaign=1052&utm_source=git)** | 2117 Building - Olmsted County Campus, MN | On Site | Jun 12 |
 | **[Cone Health](http://www.conehealth.com)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a2c0846fc06447490547dff?utm_campaign=1052&utm_source=git)** | Greensboro, NC | On Site | Jun 12 |
@@ -103,6 +109,12 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Campbell Scientific](http://www.campbellsci.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a2b03540ad4053b108ca2fd?utm_campaign=1052&utm_source=git)** | 815 W 1800 N, Logan, UT | On Site | Jun 11 |
 | **[TMX Group](http://www.tmx.com)** | **[Controllership Intern](https://jobright.ai/jobs/info/6a2af8b89bf7365df089b731?utm_campaign=1052&utm_source=git)** | Toronto - 100 Adelaide St W, CA | Hybrid | Jun 11 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Graduate Intern - Budget](https://jobright.ai/jobs/info/6a2afee09bf7365df089ba5b?utm_campaign=1052&utm_source=git)** | City Hall, 300 West Main Street, Grand Prairie, TX | On Site | Jun 11 |
+
+### 🕒 Batch updated: 2026-06-12 22:41 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Crest Industries](http://www.crestoperations.com/)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a0ea3fb83d714428981a56f?utm_campaign=1052&utm_source=git)** | Pineville, Louisiana | On Site | Jun 12 |
 | **[Skadden, Arps, Slate, Meagher & Flom LLP and Affiliates](http://www.skadden.com)** | **[Firm Tax Intern](https://jobright.ai/jobs/info/69d5a788891d7b11cfd03677?utm_campaign=1052&utm_source=git)** | White Plains, NY | On Site | Jun 11 |
 | ↳ | **[Firm Tax Intern](https://jobright.ai/jobs/info/69d594bd706f771673ba441a?utm_campaign=1052&utm_source=git)** | White Plains | On Site | Jun 11 |
 | **[Koch](https://www.kochinc.com)** | **[Spring or Summer 2027 Tax Internship (Plano)](https://jobright.ai/jobs/info/69eb57f016b2612c2a11b583?utm_campaign=1052&utm_source=git)** | Plano, TX | On Site | Jun 11 |
@@ -556,7 +568,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
-| **[Crest Industries](http://www.crestoperations.com/)** | **[Accounting Internship](https://jobright.ai/jobs/info/6a2134d24bdf8a5a96bd5094?utm_campaign=1052&utm_source=git)** | Pineville, Louisiana | On Site | Jun 09 |
 | ↳ | **[Intern, Finance (FP&A) (4 Months)](https://jobright.ai/jobs/info/6a27454a7d827633afff9dab?utm_campaign=1052&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | **[Airbus](https://us.airbus.com)** | **[Long-term Internship - Finance Controlling](https://jobright.ai/jobs/info/6a27411d30042e7539088195?utm_campaign=1052&utm_source=git)** | Columbus, MS, US | On Site | Jun 08 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Finance/Accounting Intern - REMOTE](https://jobright.ai/jobs/info/6a273b8430042e7539087ec8?utm_campaign=1052&utm_source=git)** | Baton Rouge, LA | Remote | Jun 08 |
@@ -652,17 +663,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Program Finance (4 Months)](https://jobright.ai/jobs/info/6a270b774ec8d737d6dfd7a5?utm_campaign=1052&utm_source=git)** | 2 Pemberton Avenue, North Vancouver, BC, V7P 2R2, CA | On Site | Jun 08 |
 | ↳ | **[Intern, Program Finance Navy (4 Months)](https://jobright.ai/jobs/info/6a270b77ca77fd3096d25009?utm_campaign=1052&utm_source=git)** | 2 Pemberton Avenue, North Vancouver, BC, V7P 2R2, CA | On Site | Jun 08 |
 | ↳ | **[Intern, Revenue Accounting (8 Months)](https://jobright.ai/jobs/info/6a270b762056260dd6e84c5b?utm_campaign=1052&utm_source=git)** | 115 Carrie Cates Court, North Vancouver, BC, V7M 3K7, CA | On Site | Jun 08 |
-
-### 🕒 Batch updated: 2026-06-09 02:42 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| ↳ | **[Intern, Program Finance Navy (4 Months)](https://jobright.ai/jobs/info/6a27454aca77fd3096d26814?utm_campaign=1052&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
-| **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Program Finance Navy (4 Months)](https://jobright.ai/jobs/info/6a270b77ca77fd3096d25009?utm_campaign=1052&utm_source=git)** | 2 Pemberton Avenue, North Vancouver, BC, V7P 2R2, CA | On Site | Jun 08 |
-| ↳ | **[Intern, Program Finance (4 Months)](https://jobright.ai/jobs/info/6a270b774ec8d737d6dfd7a5?utm_campaign=1052&utm_source=git)** | 2 Pemberton Avenue, North Vancouver, BC, V7P 2R2, CA | On Site | Jun 08 |
-| ↳ | **[Intern, Finance (FP&A) (4 Months)](https://jobright.ai/jobs/info/6a270b7230042e7539086afa?utm_campaign=1052&utm_source=git)** | 10 Pemberton Avenue, North Vancouver, BC, V7P 2R1, CA | On Site | Jun 08 |
-| ↳ | **[Intern, Finance (Controllership) (4 Months)](https://jobright.ai/jobs/info/6a270b704ec8d737d6dfd7a1?utm_campaign=1052&utm_source=git)** | 2 Pemberton Avenue, North Vancouver, BC, V7P 2R2, CA | On Site | Jun 08 |
-| ↳ | **[Intern, Finance (Corporate Governance and Tax) (8 Months)](https://jobright.ai/jobs/info/6a270b6e12f0202342262374?utm_campaign=1052&utm_source=git)** | 2 Pemberton Avenue, North Vancouver, BC, V7P 2R2, CA | On Site | Jun 08 |
-| ↳ | **[Intern, Accounting Operations (8 Months)](https://jobright.ai/jobs/info/6a270b6e2056260dd6e84c56?utm_campaign=1052&utm_source=git)** | 115 Carrie Cates Court, North Vancouver, BC, V7M 3K7, CA | On Site | Jun 08 |
-| **[Great Lakes Service](https://www.greatlakesservice.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a27064e30042e75390868f0?utm_campaign=1052&utm_source=git)** | Knoxville, Tennessee | On Site | Jun 08 |
 
