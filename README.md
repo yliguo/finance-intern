@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-06-27 06:53 ET
+### 🕒 Batch updated: 2026-06-27 09:16 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -443,20 +443,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Finance Intern-Spring 2027 (Indianapolis)](https://jobright.ai/jobs/info/6a31f140c477a5075f490009?utm_campaign=1052&utm_source=git)** | Indianapolis, IN | On Site | Jun 22 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit Intern – Peak Season 2027](https://jobright.ai/jobs/info/6a28fb2140ac8e32932a4ac5?utm_campaign=1052&utm_source=git)** | Cincinnati, OH | On Site | Jun 22 |
 | **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Internship in Quality Audit Management - (International Student)](https://jobright.ai/jobs/info/6a390e57a0f3e56e86d6ec34?utm_campaign=1052&utm_source=git)** | United States of America-Alabama-Vance | On Site | Jun 22 |
-
-### 🕒 Batch updated: 2026-06-23 22:34 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Elevate Financial Planning and Wealth Management](elevatefpwm.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6a3b1810649fdf1629307489?utm_campaign=1052&utm_source=git)** | Florida, United States | Remote | Jun 23 |
-| **[HORIZONES](http://www.horizonesconsulting.com)** | **[Economic & Actuarial Analysis Intern / Social Service & Professional Internship](https://jobright.ai/jobs/info/6a3aedbd1232144fb1570ce6?utm_campaign=1052&utm_source=git)** | Canada | Remote | Jun 23 |
-| ↳ | **[Internship in Quality Audit Management - (International Student)](https://jobright.ai/jobs/info/6a390e52a0f3e56e86d6ec2f?utm_campaign=1052&utm_source=git)** | Vance, Alabama, United States of America | On Site | Jun 22 |
-| ↳ | **[Internship in Quality Audit Management - (International Student)](https://jobright.ai/jobs/info/6a390e4fa0f3e56e86d6ec2e?utm_campaign=1052&utm_source=git)** | 1 Mercedes Benz Drive | On Site | Jun 22 |
-| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Audit Intern - Spring 2027 (Atlanta, GA)](https://jobright.ai/jobs/info/698dbe77f64d441a164fed31?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jun 22 |
-| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit Intern – Peak Season 2027](https://jobright.ai/jobs/info/69e5c7cce0cd471b2f122b94?utm_campaign=1052&utm_source=git)** | Springfield, OH | On Site | Jun 22 |
-| **[Advantax, Inc.](http://www.advantax.com/)** | **[Property Tax Intern](https://jobright.ai/jobs/info/6a38c87af6b55d12c7925e5a?utm_campaign=1052&utm_source=git)** | Elgin, IL, US | On Site | Jun 22 |
-| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Winter 2027 (Baltimore)](https://jobright.ai/jobs/info/698e199078b4502f12a4e658?utm_campaign=1052&utm_source=git)** | Baltimore, MD | Hybrid | Jun 22 |
-| **[The City of Frederick](http://www.cityoffrederickmd.gov)** | **[Budget and Finance Intern](https://jobright.ai/jobs/info/6a39afb9f6b55d12c7929b5d?utm_campaign=1052&utm_source=git)** | Frederick, MD | On Site | Jun 21 |
-| **[Crowe](https://www.crowe.com)** | **[Audit High School Intern - September 2026](https://jobright.ai/jobs/info/6a3b0898797099171917cf37?utm_campaign=1052&utm_source=git)** | South Bend, IN, USA | On Site | Jun 21 |
-| **[MMB+CO](https://www.mmbaccounting.com)** | **[Summer 2027 Assurance Intern - Elmira, NY (On-Site)](https://jobright.ai/jobs/info/6a384d0d29c90c607e4e76a5?utm_campaign=1052&utm_source=git)** | Elmira - Elmira, NY 14901 | On Site | Jun 21 |
 
