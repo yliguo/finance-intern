@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-06-27 02:24 ET
+### 🕒 Batch updated: 2026-06-27 06:53 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -459,24 +459,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[The City of Frederick](http://www.cityoffrederickmd.gov)** | **[Budget and Finance Intern](https://jobright.ai/jobs/info/6a39afb9f6b55d12c7929b5d?utm_campaign=1052&utm_source=git)** | Frederick, MD | On Site | Jun 21 |
 | **[Crowe](https://www.crowe.com)** | **[Audit High School Intern - September 2026](https://jobright.ai/jobs/info/6a3b0898797099171917cf37?utm_campaign=1052&utm_source=git)** | South Bend, IN, USA | On Site | Jun 21 |
 | **[MMB+CO](https://www.mmbaccounting.com)** | **[Summer 2027 Assurance Intern - Elmira, NY (On-Site)](https://jobright.ai/jobs/info/6a384d0d29c90c607e4e76a5?utm_campaign=1052&utm_source=git)** | Elmira - Elmira, NY 14901 | On Site | Jun 21 |
-
-### 🕒 Batch updated: 2026-06-23 18:07 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/690726f563502c0aded8518c?utm_campaign=1052&utm_source=git)** | Plastic Trim International, Inc., East Tawas, MI, US | On Site | Jun 23 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Quality Audit Management - (International Student)](https://jobright.ai/jobs/info/6a381827f6b55d12c79250a6?utm_campaign=1052&utm_source=git)** | 1 Mercedes Benz Drive, Vance, Alabama, United States of America | On Site | Jun 21 |
-| ↳ | **[Internship in Quality Audit Management - (International Student)](https://jobright.ai/jobs/info/6a381825f6b55d12c79250a5?utm_campaign=1052&utm_source=git)** | Vance, Alabama, United States of America | On Site | Jun 21 |
-| **[Gollob Morgan Peddy Inc](http://gmpcpa.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/69fb0e0f18b94b2515bde77c?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | Jun 21 |
-| **[Ascend](https://ascendtogether.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/69c706a91b5ad028873895ae?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | Jun 21 |
-| **[Gollob Morgan Peddy Inc](http://gmpcpa.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a0703cf24dcb03739f1de7a?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | Jun 21 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / Ohio (49579)](https://jobright.ai/jobs/info/69716961587dfa0bb55f09b7?utm_campaign=1052&utm_source=git)** | Beachwood, OH | On Site | Jun 21 |
-| ↳ | **[Winter Internship 2027 / Tax Intern / Braintree (49576)](https://jobright.ai/jobs/info/69d5f9ab4a12eb12c5e15126?utm_campaign=1052&utm_source=git)** | Braintree, MA | Hybrid | Jun 21 |
-| ↳ | **[Winter Internship 2027 / Tax Intern / Worcester (49594)](https://jobright.ai/jobs/info/69716792587dfa0bb55f0819?utm_campaign=1052&utm_source=git)** | Worcester, MA | On Site | Jun 21 |
-| ↳ | **[Winter Internship 2027 / Audit Intern / Chicago (49585)](https://jobright.ai/jobs/info/69bc536745e08b3dc1f8c829?utm_campaign=1052&utm_source=git)** | Chicago, IL | On Site | Jun 21 |
-| **[Amazon](https://amazon.com)** | **[2027 Tax Intern (Summer Internship)](https://jobright.ai/jobs/info/6a1b7ae4547e292ae139d7fc?utm_campaign=1052&utm_source=git)** | Seattle, WA | On Site | Jun 21 |
-| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Tax Intern](https://jobright.ai/jobs/info/699085420f6f7e7a2cecf9e9?utm_campaign=1052&utm_source=git)** | Minth North America, Inc., Wixom, MI, US | On Site | Jun 21 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Healthcare Advisory Intern (49584)](https://jobright.ai/jobs/info/6a2a6c922cde2824469c1bab?utm_campaign=1052&utm_source=git)** | Beachwood, OH | Hybrid | Jun 21 |
-| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Birmingham, AL](https://jobright.ai/jobs/info/6a37c15ece501060b5cf8d05?utm_campaign=1052&utm_source=git)** | Birmingham, AL 35209 | On Site | Jun 21 |
-| **[The Dutch Group](https://www.thedutchgroup.net)** | **[Summer 2027 Accounting Intern](https://jobright.ai/jobs/info/6a37a861649fdf16292fd64b?utm_campaign=1052&utm_source=git)** | Columbus, MS 39701, USA | On Site | Jun 21 |
 
