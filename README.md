@@ -4,11 +4,14 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-05 12:01 ET
+### 🕒 Batch updated: 2026-07-05 15:04 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a45467f0dd56c76cc2f2de8?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, US | On Site | Jul 05 |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Covington, LA](https://jobright.ai/jobs/info/6a34c92e7f3fdd180d4cbbe9?utm_campaign=1052&utm_source=git)** | Covington, LA | On Site | Jul 05 |
+| **[Arrow Electronics](http://www.arrowecs.pl)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a10a015619335383fb33dd7?utm_campaign=1052&utm_source=git)** | US-CO-Denver, Colorado (Panorama Arrow Building), US | Hybrid | Jul 05 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Tax Accounting Intern - Houma, LA](https://jobright.ai/jobs/info/699e9300ce78e77b4fe40283?utm_campaign=1052&utm_source=git)** | Houma, LA | On Site | Jul 05 |
 | ↳ | **[Audit Accounting Intern - Houston, TX](https://jobright.ai/jobs/info/699ed43994ef206f184dd451?utm_campaign=1052&utm_source=git)** | Houston, TX | On Site | Jul 05 |
 | **[Lloyd Companies](http://lloydcompanies.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a4a52b25d7b097d2df3c1aa?utm_campaign=1052&utm_source=git)** | Sioux Falls, SD | On Site | Jul 05 |
@@ -106,6 +109,11 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Centennial Bank](https://www.my100bank.com/)** | **[Intern - Lending](https://jobright.ai/jobs/info/6a46b2cec2d11a6a46670299?utm_campaign=1052&utm_source=git)** | Fort Myers, Florida, United States | On Site | Jul 02 |
 | ↳ | **[Intern - Lending](https://jobright.ai/jobs/info/6a46b2cd3dbab558e29a848f?utm_campaign=1052&utm_source=git)** | Coral Gables, Florida, United States | On Site | Jul 02 |
 | **[Terumo Blood and Cell Technologies](http://www.terumobct.com)** | **[Intern Graduate - Cost Accountant](https://jobright.ai/jobs/info/6a4695258204a812e98c907f?utm_campaign=1052&utm_source=git)** | Lakewood, CO, US | On Site | Jul 02 |
+
+### 🕒 Batch updated: 2026-07-05 12:01 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
 | ↳ | **[Intern Undergraduate - Cost Accountant](https://jobright.ai/jobs/info/6a4694f7c2d11a6a4666f9f5?utm_campaign=1052&utm_source=git)** | Lakewood, CO, US | On Site | Jul 02 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Accounting Technician - Intern](https://jobright.ai/jobs/info/6a46982d971cd25b06f8f664?utm_campaign=1052&utm_source=git)** | San Antonio, TX, US | On Site | Jul 02 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[STAR Intern - Vice President and Finance](https://jobright.ai/jobs/info/6a4697390dd56c76cc2fa1cf?utm_campaign=1052&utm_source=git)** | St. Paul, MN, US | On Site | Jul 02 |
@@ -261,7 +269,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Tax Internship - Winter 2027](https://jobright.ai/jobs/info/69d4449054f00230c6d2fb9f?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jul 01 |
 | **[Sabre](https://www.sabre.com)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a4580a83dbab558e29a17e1?utm_campaign=1052&utm_source=git)** | Southlake, TX | On Site | Jul 01 |
 | **[Atherton & Associates, LLP. Tax, Assurance & Consulting](https://athertoncpas.com/)** | **[Tax Internship](https://jobright.ai/jobs/info/6a45a4ac3dbab558e29a1e1c?utm_campaign=1052&utm_source=git)** | Modesto, CA | On Site | Jul 01 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a45467f0dd56c76cc2f2de8?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, US | On Site | Jul 01 |
 
 ### 🕒 Batch updated: 2026-07-03 09:46 ET
 
@@ -374,20 +381,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a44183265e80d3c99f2b89e?utm_campaign=1052&utm_source=git)** | Fremont, CA | On Site | Jun 30 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Strategy and Research Department Macro and Market Research Intern](https://jobright.ai/jobs/info/6a351f1ef6b55d12c791ebb8?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | **[EXL](http://www.exlservice.com)** | **[US Tax Intern](https://jobright.ai/jobs/info/6a4412e70153061b8b3df2e3?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 30 |
-
-### 🕒 Batch updated: 2026-07-02 07:27 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| ↳ | **[Intern, Investment Data Management](https://jobright.ai/jobs/info/6a0cdff4963f7a67d95dc6ff?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 01 |
-| **[Security Benefit](https://securitybenefit.com)** | **[Internship - Valuation Actuarial](https://jobright.ai/jobs/info/6a3fc99e54db074376c689a3?utm_campaign=1052&utm_source=git)** | Security Benefit, 6480 Sprint Parkway, Overland Park, Kansas, United States of America | Hybrid | Jun 30 |
-| **[Valnet](https://www.valnetinc.com)** | **[Merger and Acquisitions Intern](https://jobright.ai/jobs/info/6a44101d65e80d3c99f2b69e?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 30 |
-| **[CAE](http://www.cae.de)** | **[C-FIN-200 Tax Intern-EN](https://jobright.ai/jobs/info/6a0cc4890411d7417a1bc27c?utm_campaign=1052&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 30 |
-| **[Ria Money Transfer](https://www.riamoneytransfer.com/)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a440ec365e80d3c99f2b64e?utm_campaign=1052&utm_source=git)** | , Remote, United States | Remote | Jun 30 |
-| **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Accounting Intern (Temporary Internship)](https://jobright.ai/jobs/info/6a440cb6b156014e414bb3ee?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | Jun 30 |
-| **[Harris Computer](http://www.harriscomputer.com)** | **[(Remote) Intern, Research Analyst, Mergers & Acquisitions](https://jobright.ai/jobs/info/6a440bfe0153061b8b3df0df?utm_campaign=1052&utm_source=git)** | Texas, United States | Remote | Jun 30 |
-| **[The GEO Group, Inc.](http://www.geogroup.com)** | **[FINANCE INTERN](https://jobright.ai/jobs/info/6a4557540dd56c76cc2f31a3?utm_campaign=1052&utm_source=git)** | Boca Raton, FL, US | On Site | Jun 30 |
-| **[Maverick Payments](https://www.MaverickPayments.com)** | **[Underwriting Intern](https://jobright.ai/jobs/info/6a440690b156014e414bb234?utm_campaign=1052&utm_source=git)** | Calabasas, CA | On Site | Jun 30 |
-| **[First Realty Management](http://firstrealtymgt.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a43b564592109606e5a869c?utm_campaign=1052&utm_source=git)** | Boston, MA, US | On Site | Jun 30 |
-| **[Bull Street Partners](https://bullstreetpartners.com/)** | **[M&A Analyst Internship](https://jobright.ai/jobs/info/6a43ff7157ffc22029405e12?utm_campaign=1052&utm_source=git)** | United States | Remote | Jun 30 |
 
