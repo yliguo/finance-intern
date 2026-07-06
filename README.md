@@ -4,14 +4,14 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-05 22:28 ET
+### 🕒 Batch updated: 2026-07-06 03:04 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Capital Blue Cross](https://capbluecross.com)** | **[MAR Audit Intern](https://jobright.ai/jobs/info/6a4a936f5d7b097d2df3c4c0?utm_campaign=1052&utm_source=git)** | Harrisburg, PA, US | Hybrid | Jul 05 |
-| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jul 05 |
-| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jul 05 |
+| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jul 05 |
+| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jul 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a45467f0dd56c76cc2f2de8?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, US | On Site | Jul 05 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Audit Accounting Intern - Covington, LA](https://jobright.ai/jobs/info/6a34c92e7f3fdd180d4cbbe9?utm_campaign=1052&utm_source=git)** | Covington, LA | On Site | Jul 05 |
 | **[Arrow Electronics](http://www.arrowecs.pl)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a10fa9083d7144289829af2?utm_campaign=1052&utm_source=git)** | Centennial, CO | Hybrid | Jul 05 |
@@ -110,12 +110,12 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Franklin County Data Center (FCDC)](https://datacenter.franklincountyohio.gov)** | **[2026 Fall Fiscal Intern](https://jobright.ai/jobs/info/6a3425327f3fdd180d4c8fe8?utm_campaign=1052&utm_source=git)** | Columbus, OH 43215, USA | On Site | Jul 02 |
 | ↳ | **[2026 Fall Appraisal Intern](https://jobright.ai/jobs/info/6a46b40fc2d11a6a466702e5?utm_campaign=1052&utm_source=git)** | Columbus, OH 43215, USA | On Site | Jul 02 |
 
-### 🕒 Batch updated: 2026-07-05 17:54 ET
+### 🕒 Batch updated: 2026-07-05 22:28 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
-| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jul 05 |
-| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jul 05 |
+| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jul 05 |
+| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jul 05 |
 
 ### 🕒 Batch updated: 2026-07-05 15:04 ET
 
@@ -356,18 +356,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[2027 Summer Corporate Intern - Finance](https://jobright.ai/jobs/info/6a44ce6bf3019f3fa8313103?utm_campaign=1052&utm_source=git)** | Irving, TX | On Site | Jul 01 |
 | **[Planned Parenthood Federation of America](http://www.plannedparenthood.org/)** | **[Financial Planning & Analysis Intern](https://jobright.ai/jobs/info/6a3e88c28bfad862bc99fdf1?utm_campaign=1052&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
 | **[RBC](https://www.rbc.com)** | **[Financial Planner Relationship Intern](https://jobright.ai/jobs/info/6a44a6c7b156014e414bcde7?utm_campaign=1052&utm_source=git)** | GATINEAU, Quebec, Canada | On Site | Jun 30 |
-
-### 🕒 Batch updated: 2026-07-02 15:12 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| ↳ | **[Tax Internship - Winter 2027](https://jobright.ai/jobs/info/69c9de5c1b5ad0288739d08d?utm_campaign=1052&utm_source=git)** | Kirkland, WA | On Site | Jul 01 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Financial Institutions Coverage Intern – September – December 2026 – Toronto](https://jobright.ai/jobs/info/6a44b6880153061b8b3e0e1c?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 30 |
-| **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Finance intern](https://jobright.ai/jobs/info/6a4477920153061b8b3e06a4?utm_campaign=1052&utm_source=git)** | Bridgeport, CT | On Site | Jun 30 |
-| **[Ennismore](https://ennismore.com)** | **[Intern, Finance and People & Culture (F/M/X)](https://jobright.ai/jobs/info/6a446b5fef17a815538a3fa2?utm_campaign=1052&utm_source=git)** | Ennismore, Ontario, Canada | On Site | Jun 30 |
-| **[Crowe](https://www.crowe.com)** | **[Audit Intern Winter 2027](https://jobright.ai/jobs/info/6a02bed722395b6dc6d8d805?utm_campaign=1052&utm_source=git)** | South Bend, IN | On Site | Jun 30 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Outsourced Accounting Services Fall 2026 / Springfield](https://jobright.ai/jobs/info/6a4455eeb156014e414bc400?utm_campaign=1052&utm_source=git)** | Springfield, MO | On Site | Jun 30 |
-| ↳ | **[Intern Audit Winter 2028 / Jacksonville](https://jobright.ai/jobs/info/6a446e9565e80d3c99f2c9fd?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Jun 30 |
-| ↳ | **[Intern Audit Summer 2028 / Jacksonville](https://jobright.ai/jobs/info/6a446e8def17a815538a4034?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Jun 30 |
-| ↳ | **[Intern Tax Winter 2028 / Jacksonville](https://jobright.ai/jobs/info/6a44ceb6f3019f3fa831310d?utm_campaign=1052&utm_source=git)** | Jacksonville, FL | On Site | Jun 30 |
 
