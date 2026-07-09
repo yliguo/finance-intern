@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-08 22:10 ET
+### 🕒 Batch updated: 2026-07-09 02:41 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -350,12 +350,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Centennial Bank](https://www.my100bank.com/)** | **[Intern - Lending](https://jobright.ai/jobs/info/6a46b2cec2d11a6a46670299?utm_campaign=1052&utm_source=git)** | Fort Myers, Florida, United States | On Site | Jul 02 |
 | ↳ | **[Intern - Lending](https://jobright.ai/jobs/info/6a46b2cd3dbab558e29a848f?utm_campaign=1052&utm_source=git)** | Coral Gables, Florida, United States | On Site | Jul 02 |
 | **[Terumo Blood and Cell Technologies](http://www.terumobct.com)** | **[Intern Graduate - Cost Accountant](https://jobright.ai/jobs/info/6a4695258204a812e98c907f?utm_campaign=1052&utm_source=git)** | Lakewood, CO, US | On Site | Jul 02 |
-
-### 🕒 Batch updated: 2026-07-05 12:01 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| ↳ | **[Intern Undergraduate - Cost Accountant](https://jobright.ai/jobs/info/6a4694f7c2d11a6a4666f9f5?utm_campaign=1052&utm_source=git)** | Lakewood, CO, US | On Site | Jul 02 |
-| **[Fluor Corporation](http://www.fluor.com)** | **[Accounting Technician - Intern](https://jobright.ai/jobs/info/6a46982d971cd25b06f8f664?utm_campaign=1052&utm_source=git)** | San Antonio, TX, US | On Site | Jul 02 |
-| **[University of St. Thomas](http://www.stthomas.edu)** | **[STAR Intern - Vice President and Finance](https://jobright.ai/jobs/info/6a4697390dd56c76cc2fa1cf?utm_campaign=1052&utm_source=git)** | St. Paul, MN, US | On Site | Jul 02 |
 
