@@ -4,11 +4,15 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-12 04:04 ET
+### 🕒 Batch updated: 2026-07-12 06:19 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Framatome North America](www.framatome.com/en)** | **[Finance Intern (Accounts Payable)](https://jobright.ai/jobs/info/6a533eeed007ee02d95faca8?utm_campaign=1052&utm_source=git)** | Lynchburg, VA, United States | On Site | Jul 12 |
+| **[Servicon](https://servicon.com/)** | **[Revenue Administrator Intern](https://jobright.ai/jobs/info/6a533ab2e726ec56126a62d0?utm_campaign=1052&utm_source=git)** | Culver City, CA, United States | On Site | Jul 11 |
+| **[Novogradac](https://www.novoco.com)** | **[2027 Staff Accountant Intern - Cleveland](https://jobright.ai/jobs/info/6a5337c88576ec69c014f0f5?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 11 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Accounting](https://jobright.ai/jobs/info/6a53375b8576ec69c014f0cc?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Jul 11 |
 | **[LvlUp Ventures](https://www.lvlup.vc/)** | **[Venture Capital (VC) Intern](https://jobright.ai/jobs/info/6a531685d007ee02d95fa342?utm_campaign=1052&utm_source=git)** | Miami-FTL Area | Hybrid | Jul 11 |
 | **[Dannible & McKee, LLP](http://dmcpas.com)** | **[2027 Audit Intern](https://jobright.ai/jobs/info/6a5301bf8a74e077472f6ef0?utm_campaign=1052&utm_source=git)** | Syracuse, NY 13202, USA | On Site | Jul 11 |
 | **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a52f8128ef95364ead90858?utm_campaign=1052&utm_source=git)** | Davison, MI, United States | On Site | Jul 11 |
@@ -70,9 +74,9 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51be2c57513b72e0c6717f?utm_campaign=1052&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Jul 10 |
 | **[FMI](https://fmicorp.com/)** | **[Investment Banking Analyst Internship / Summer 2027 (CO)](https://jobright.ai/jobs/info/6a51b0f302522b5b722e9a6e?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | Jul 10 |
 | ↳ | **[Investment Banking Analyst Internship / Summer 2027 (NC)](https://jobright.ai/jobs/info/6a51b2cc78e364789ca5b1e7?utm_campaign=1052&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Jul 10 |
-| **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51ccc3bf63b66c7997cdf2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 10 |
+| **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51e3548d7d3e6cf1cc4669?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | Remote | Jul 10 |
 | ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51d9dd02522b5b722ec820?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jul 10 |
-| ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51e3548d7d3e6cf1cc4669?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | Remote | Jul 10 |
+| ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51ccc3bf63b66c7997cdf2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 10 |
 | ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51c9aa78e364789ca5cce7?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | Remote | Jul 10 |
 | **[PwC](http://pwc.com)** | **[New York - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a34b93a649fdf16292f6efd?utm_campaign=1052&utm_source=git)** | New York, NY | On Site | Jul 10 |
 | **[The Premiere Group](https://premiere.net)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a51c4f28d7d3e6cf1cc29cc?utm_campaign=1052&utm_source=git)** | Columbia, MO, United States | On Site | Jul 10 |
@@ -105,6 +109,13 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51971402522b5b722e900b?utm_campaign=1052&utm_source=git)** | San Francisco, California, United States | Remote | Jul 10 |
 | ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51a18bbf63b66c7997a8cb?utm_campaign=1052&utm_source=git)** | New York city, New York, United States | Remote | Jul 10 |
 | **[TransMarket Group](http://www.transmarketgroup.com)** | **[Quantitative Trader Intern](https://jobright.ai/jobs/info/6a5196d957513b72e0c656dc?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 10 |
+
+### 🕒 Batch updated: 2026-07-12 04:04 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51ccc3bf63b66c7997cdf2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 10 |
+| ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51e3548d7d3e6cf1cc4669?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | Remote | Jul 10 |
 | **[SECU](https://www.ncsecu.org/)** | **[Intern- Tax Advantaged Solution Part-time Fall 2026](https://jobright.ai/jobs/info/6a4d5d14c643fd23fed3cb06?utm_campaign=1052&utm_source=git)** | Triangle Area | On Site | Jul 10 |
 | **[Nelnet](https://nelnetinc.com)** | **[Finance Intern - GTM - NBS](https://jobright.ai/jobs/info/6a50fd5c78e364789ca57bea?utm_campaign=1052&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 10 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Risk Technology Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6a519aadae4052672fe987e1?utm_campaign=1052&utm_source=git)** | New York, New York | On Site | Jul 10 |
@@ -117,7 +128,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Amrize](https://www.amrize.com)** | **[Job Cost Intern Job Details / Amrize](https://jobright.ai/jobs/info/6a280a1d7061b51a3a5f2ebf?utm_campaign=1052&utm_source=git)** | Calgary, AB, CA, T2B 0R5 | On Site | Jul 11 |
 | ↳ | **[Job Cost Intern](https://jobright.ai/jobs/info/6a1625dadc845f4be5bdcfb3?utm_campaign=1052&utm_source=git)** | Rocky View, AB, CA, T1X 0K1 | On Site | Jul 11 |
 | **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51d9dd02522b5b722ec820?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jul 10 |
-| ↳ | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51ccc3bf63b66c7997cdf2?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 10 |
 
 ### 🕒 Batch updated: 2026-07-11 21:59 ET
 
@@ -166,7 +176,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
-| **[ComCap](http://www.comcapllc.com/)** | **[Investment Banking Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51e3548d7d3e6cf1cc4669?utm_campaign=1052&utm_source=git)** | Nashville, TN, United States | Remote | Jul 10 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/6a511f7078e364789ca59070?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 10 |
 | ↳ | **[Private Equity Intern](https://jobright.ai/jobs/info/6a511ea9ae4052672fe9715b?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Messer Construction Co.](http://www.messer.com)** | **[Accounting Internship (Fall 2026) - Dayton, OH](https://jobright.ai/jobs/info/6a42a90a6faf7560609677e9?utm_campaign=1052&utm_source=git)** | Dayton, OH, United States | On Site | Jul 10 |
@@ -490,28 +499,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Milliman](http://www.milliman.com)** | **[Actuarial Intern - Summer 2027 - Philadelphia (Remote) Health](https://jobright.ai/jobs/info/6a4d0f3b99523700cbff4266?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Corporate Accounting - Fall 2026](https://jobright.ai/jobs/info/6a4c6da0d27b2c4dda9b4c63?utm_campaign=1052&utm_source=git)** | Burbank, CA, United States | On Site | Jul 07 |
 | **[Willis Johnson Wealth](https://wjohnsonwealth.com/)** | **[Wealth Management Internship: Fall 2026](https://jobright.ai/jobs/info/6a3d523778237a036d5e0a46?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 07 |
-
-### 🕒 Batch updated: 2026-07-09 02:41 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Cambrex](http://www.cambrex.com)** | **[Intern - Finance](https://jobright.ai/jobs/info/6a4ec303fc327f422fef4161?utm_campaign=1052&utm_source=git)** | Waltham, MA, United States | On Site | Jul 08 |
-| **[ING](http://www.ing.com)** | **[Summer 2027 Internship - Lending](https://jobright.ai/jobs/info/6a4e69f3fc327f422fef2a2c?utm_campaign=1052&utm_source=git)** | New York, United States | Hybrid | Jul 08 |
-| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jul 07 |
-| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit Intern – Peak Season 2027](https://jobright.ai/jobs/info/6a30833389f8f147d3735f66?utm_campaign=1052&utm_source=git)** | Dayton, OH, United States | On Site | Jul 07 |
-| **[Bel](https://www.groupe-bel.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a306832eace377055eb63c6?utm_campaign=1052&utm_source=git)** | Nampa, ID, United States | On Site | Jul 07 |
-| **[Lactalis USA](https://www.linkedin.com/company/107499148)** | **[Procurement Intern](https://jobright.ai/jobs/info/6a4d03a299523700cbff3fb5?utm_campaign=1052&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 07 |
-| **[LS Power](http://lspower.com)** | **[Accounting Intern, PE Accounting](https://jobright.ai/jobs/info/6a3d99298bfad862bc99de83?utm_campaign=1052&utm_source=git)** | East Brunswick, NJ, United States | On Site | Jul 07 |
-| **[SEK, CPAs & Advisors](http://www.sek.com)** | **[Audit Internship](https://jobright.ai/jobs/info/6a4d5d530209ea6fd6851ec7?utm_campaign=1052&utm_source=git)** | Hagerstown, MD, United States | On Site | Jul 07 |
-| ↳ | **[Tax Internship](https://jobright.ai/jobs/info/6a4d5ca20209ea6fd6851ea3?utm_campaign=1052&utm_source=git)** | Hagerstown, MD | On Site | Jul 07 |
-| **[Servicon](https://servicon.com/)** | **[Revenue Administrator Intern](https://jobright.ai/jobs/info/6a4c3def6189f64e437f197c?utm_campaign=1052&utm_source=git)** | Culver City, CA, US | On Site | Jul 06 |
-| **[Harris | Oakmark](https://www.harrisassoc.com)** | **[2027 Equity Research Internship](https://jobright.ai/jobs/info/6a4c7ab33122a76a8fd52f82?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 06 |
-| **[Keenfinity Group](https://www.keenfinity-group.com)** | **[Finance Intern – FP&A & Business Analytics](https://jobright.ai/jobs/info/6a394e2506a4fd4b1fab93eb?utm_campaign=1052&utm_source=git)** | Burnsville, MN, United States | Hybrid | Jul 06 |
-| **[Pratt Industries](http://www.prattindustries.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a4c5f3c4f64ba41dcb5f3ec?utm_campaign=1052&utm_source=git)** | Conyers, GA | On Site | Jul 06 |
-| **[Capital One](http://www.capitalone.com)** | **[Finance Internship Program - Summer 2027](https://jobright.ai/jobs/info/6a4ba0e94f64ba41dcb5ca22?utm_campaign=1052&utm_source=git)** | McLean, VA, United States of America | Hybrid | Jul 06 |
-| **[Reckitt](https://www.reckitt.com)** | **[2026 Finance Postgrad Internship - Nutley, NJ Job Details / Reckitt](https://jobright.ai/jobs/info/6a39a2746484fb75f2b32e5c?utm_campaign=1052&utm_source=git)** | Nutley, NJ, US | On Site | Jul 06 |
-| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Business Operations Intern - Fall 2026 Job Details / Leonardo DRS, Inc.](https://jobright.ai/jobs/info/6a4c4f324f64ba41dcb5f298?utm_campaign=1052&utm_source=git)** | Melbourne, FL, US, 32935 | On Site | Jul 06 |
-| **[Robinson Helicopter Company](http://robinsonheli.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a4c42584eb370649b27cc7b?utm_campaign=1052&utm_source=git)** | Torrance, CA | On Site | Jul 06 |
-| **[Maverick Payments](https://www.MaverickPayments.com)** | **[Underwriting Intern](https://jobright.ai/jobs/info/6a440690b156014e414bb234?utm_campaign=1052&utm_source=git)** | Calabasas, CA | On Site | Jul 06 |
-| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2027 Summer Corporate Intern - Pricing](https://jobright.ai/jobs/info/6a44d05edc1f8335cfdeb2e3?utm_campaign=1052&utm_source=git)** | Peoria, IL | On Site | Jul 06 |
 
