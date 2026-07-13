@@ -4,11 +4,32 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-13 10:14 ET
+### 🕒 Batch updated: 2026-07-13 13:08 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simon & Schuster](http://www.simonandschuster.com)** | **[Customer Financial Services (CFS) Internship Program](https://jobright.ai/jobs/info/6a502a0dfc327f422fef813d?utm_campaign=1052&utm_source=git)** | Riverside, NJ 08075, USA | On Site | Jul 13 |
+| **[Valero](http://www.valero.com)** | **[Accounting Intern (On-Going)](https://jobright.ai/jobs/info/6a54fc2cf2c46727285ef061?utm_campaign=1052&utm_source=git)** | US-TX-San Antonio | On Site | Jul 13 |
+| ↳ | **[Accounting Intern (On-Going)](https://jobright.ai/jobs/info/6a54fbd7f2c46727285ef01d?utm_campaign=1052&utm_source=git)** | San Antonio, TX, United States | On Site | Jul 13 |
+| **[Graham Allen Partners](https://www.graham-allen.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a54fa9fae07d60a8d00e194?utm_campaign=1052&utm_source=git)** | South Bend, IN, United States | On Site | Jul 13 |
+| **[DRW](http://drw.com/)** | **[Quantitative Trading Analyst Intern](https://jobright.ai/jobs/info/6a54f9d3268af95237be86b9?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Fleet Services Auto Parts](https://jobright.ai/jobs/info/6a38f5a7ce501060b5cfa618?utm_campaign=1052&utm_source=git)** | Tolleson, AZ, US | Hybrid | Jul 13 |
+| **[MarshBerry](http://marshberry.com)** | **[Transaction Advisory Intern - Summer 2027](https://jobright.ai/jobs/info/6a3064dc43732c05812e2321?utm_campaign=1052&utm_source=git)** | Woodmere, OH, United States | On Site | Jul 13 |
+| **[ByteDance](http://bytedance.com)** | **[Payment Strategy Project Intern (Global Payment LATAM)- 2026 Start (MBA)](https://jobright.ai/jobs/info/6a50e8e90524e919f4a9ac6d?utm_campaign=1052&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
+| **[Fluor Corporation](http://www.fluor.com)** | **[Infrastructure Finance Intern](https://jobright.ai/jobs/info/6a54f2b2f2c46727285eed25?utm_campaign=1052&utm_source=git)** | College Station, TX, United States | On Site | Jul 13 |
+| **[Christianson CPAs & Consultants](https://www.christiansoncpa.com/)** | **[Accounting Internship - 2027](https://jobright.ai/jobs/info/6a3f4da7122f340d29cf624b?utm_campaign=1052&utm_source=git)** | Willmar, MN, United States | On Site | Jul 13 |
+| **[City of Fredericksburg, Virginia](https://www.fredericksburgva.gov/)** | **[Procurement Intern](https://jobright.ai/jobs/info/6a54f27c268af95237be84c0?utm_campaign=1052&utm_source=git)** | City of Fredericksburg, VA, United States | On Site | Jul 13 |
+| **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a54f2514119652ff3862584?utm_campaign=1052&utm_source=git)** | Midland, MI, United States | On Site | Jul 13 |
+| **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Cash Management Intern – Summer 2026](https://jobright.ai/jobs/info/6a54f2214119652ff386253b?utm_campaign=1052&utm_source=git)** | New York, New York, United States | On Site | Jul 13 |
+| **[Ascend](https://ascendtogether.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a5130dd02522b5b722e8380?utm_campaign=1052&utm_source=git)** | Tyler, TX, United States | On Site | Jul 13 |
+| ↳ | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a1600250073182bd92af16c?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | Jul 13 |
+| **[LightPath Technologies](http://www.lightpath.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a31ed872ee3ac1b4bef1cd9?utm_campaign=1052&utm_source=git)** | G5 Infrared LLC - Hudson, NH 03051 | On Site | Jul 13 |
+| **[Minth North America, Inc.](http://www.minthgroup.com/en/)** | **[Tax Intern](https://jobright.ai/jobs/info/699085420f6f7e7a2cecf9e9?utm_campaign=1052&utm_source=git)** | Minth North America, Inc., Wixom, MI, US | On Site | Jul 13 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/69c6ea78e565c26a70023f44?utm_campaign=1052&utm_source=git)** | East Tawas, MI, United States | On Site | Jul 13 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Treasury Liquidity & Funding Management intern](https://jobright.ai/jobs/info/6a54e1ad31f2d15a8d813cfc?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
+| **[Synergy Wealth Solutions](https://www.synergywealthsolutions.com)** | **[Financial Planning Intern](https://jobright.ai/jobs/info/6a54e01081744f383a3138ed?utm_campaign=1052&utm_source=git)** | Chesterfield, MO, United States | On Site | Jul 13 |
+| **[Sundt Construction](https://www.sundt.com/foundation)** | **[Support Group Intern - Prequalification](https://jobright.ai/jobs/info/6a086887403fc339507edddd?utm_campaign=1052&utm_source=git)** | 2620 S. 55th Street, Tempe, AZ, 85282, US | On Site | Jul 13 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Internal Audit Department - Quality Assurance Intern](https://jobright.ai/jobs/info/6a54cd6981744f383a313402?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 | **[Advantax, Inc.](http://www.advantax.com/)** | **[Property Tax Intern](https://jobright.ai/jobs/info/6a38c87af6b55d12c7925e5a?utm_campaign=1052&utm_source=git)** | Elgin, IL, US | On Site | Jul 13 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / DC Metro (49590)](https://jobright.ai/jobs/info/69d519bfcdb525785fbce4da?utm_campaign=1052&utm_source=git)** | McLean, VA 22102 | On Site | Jul 13 |
@@ -16,7 +37,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Kirsch CPA Group](https://www.kirschcpa.com)** | **[2027 Summer Accounting / Tax Internship](https://jobright.ai/jobs/info/6a54c3887aaba06019d05097?utm_campaign=1052&utm_source=git)** | Hamilton, OH, United States | On Site | Jul 13 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Braintree (49576)](https://jobright.ai/jobs/info/6a54c2cef7e23d26a08feb05?utm_campaign=1052&utm_source=git)** | Braintree, MA, United States | On Site | Jul 13 |
 | **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit Intern – Peak Season 2027](https://jobright.ai/jobs/info/6a28fb2140ac8e32932a4ac5?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 13 |
-| **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Cash Management Intern – Summer 2026](https://jobright.ai/jobs/info/6a54b89a8215bf1b856b6be5?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Winter 2027 (Baltimore)](https://jobright.ai/jobs/info/698e199078b4502f12a4e658?utm_campaign=1052&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jul 13 |
 | **[Scotiabank](https://www.scotiagam.com)** | **[GBM - Investment Banking Internship/Co-op - Winter 2027](https://jobright.ai/jobs/info/6a546a55d007ee02d95feb25?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 13 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Accounts Payable Intern](https://jobright.ai/jobs/info/6a54a7c8ea8dc8115ea9a858?utm_campaign=1052&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 13 |
@@ -34,7 +54,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Ohio (49587)](https://jobright.ai/jobs/info/6a4cd9b435e45603c4bb1e7e?utm_campaign=1052&utm_source=git)** | Woodmere, OH 44122, United States | On Site | Jul 12 |
 | **[Aerotech, Inc.](http://www.aerotech.com/Default.aspx)** | **[FINANCE & OPERATIONS ASSOCIATE INTERNSHIP AT KST](https://jobright.ai/jobs/info/6a5410bb8ef95364ead9447b?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 12 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: Financial Analyst – Rochester MN](https://jobright.ai/jobs/info/6a51cdc757513b72e0c6826a?utm_campaign=1052&utm_source=git)** | Rochester, MN, United States | On Site | Jul 12 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Treasury Intern- Fall 2026](https://jobright.ai/jobs/info/6a5406b18ef95364ead942e1?utm_campaign=1052&utm_source=git)** | AL, United States | Remote | Jul 12 |
 | **[Robinson Helicopter Company](http://robinsonheli.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a53fd35c8eb0843027ae678?utm_campaign=1052&utm_source=git)** | 1. Torrance, CA 90505 | On Site | Jul 12 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Long Island (49596)](https://jobright.ai/jobs/info/6a53fc93c8eb0843027ae65d?utm_campaign=1052&utm_source=git)** | Jericho, NY, United States | On Site | Jul 12 |
 | **[Cronus Capital Management LLC](https://www.cronusam.com)** | **[Corporate Finance Intern](https://jobright.ai/jobs/info/6a53fbb88a74e077472fa407?utm_campaign=1052&utm_source=git)** | NYC Metro Area | Hybrid | Jul 12 |
@@ -47,12 +66,11 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Dannible & McKee, LLP](http://dmcpas.com)** | **[2027 Audit Intern](https://jobright.ai/jobs/info/6a1eb884dce5db1256d0fade?utm_campaign=1052&utm_source=git)** | Schenectady, NY 12305, USA | On Site | Jul 12 |
 | **[Kirsch CPA Group](https://www.kirschcpa.com)** | **[2027 Tax Season Co-Op / Internship](https://jobright.ai/jobs/info/6a53c5878576ec69c0150e0e?utm_campaign=1052&utm_source=git)** | Hamilton, OH, United States | On Site | Jul 12 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Greenville, SC](https://jobright.ai/jobs/info/6a4d66413122a76a8fd5573f?utm_campaign=1052&utm_source=git)** | 12 Greenville - Greenville, SC 29601, United States | On Site | Jul 12 |
-| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jul 12 |
-| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jul 12 |
+| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jul 12 |
+| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jul 12 |
 | **[Gollob Morgan Peddy Inc](http://gmpcpa.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a1dafa8e24ef365258390af?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | Jul 12 |
 | ↳ | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a5232c59fbdab22fe13a771?utm_campaign=1052&utm_source=git)** | Tyler, TX, United States | On Site | Jul 12 |
 | **[Saltmarsh](http://saltmarshcpa.com)** | **[2027 Internship Opportunities (Tax & Audit)](https://jobright.ai/jobs/info/6a53b9718ef95364ead93123?utm_campaign=1052&utm_source=git)** | Orlando, FL, United States | On Site | Jul 12 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Healthcare Advisory Intern (49584)](https://jobright.ai/jobs/info/6a2a6c922cde2824469c1bab?utm_campaign=1052&utm_source=git)** | Beachwood, OH, United States | On Site | Jul 12 |
 | **[Northmarq](http://www.northmarq.com)** | **[Internship Pipeline](https://jobright.ai/jobs/info/6a53b05c8576ec69c0150999?utm_campaign=1052&utm_source=git)** | Baltimore, Maryland, United States | On Site | Jul 12 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / New York City (49586)](https://jobright.ai/jobs/info/697170d2587dfa0bb55f0e67?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | ↳ | **[Winter Internship 2027 / Tax Intern / San Diego (49578)](https://jobright.ai/jobs/info/69716e0b587dfa0bb55f0cd5?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | On Site | Jul 12 |
@@ -63,11 +81,11 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[Winter Internship 2027 / Tax Intern / Florham Park (49592)](https://jobright.ai/jobs/info/69716777333b6343a14df03e?utm_campaign=1052&utm_source=git)** | Florham Park, NJ, United States | On Site | Jul 12 |
 | **[Koch](https://www.kochinc.com)** | **[Spring 2027 Tax Internship (Wichita)](https://jobright.ai/jobs/info/6a2f7bc789f8f147d3731e6c?utm_campaign=1052&utm_source=git)** | Wichita, KS, United States | On Site | Jul 12 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a1a16372b206f3955eb2a49?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI | Hybrid | Jul 12 |
-| **[SB Energy](https://sbenergy.com)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/69feb5c1d0dc596b8d119ab2?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area, CA | Hybrid | Jul 12 |
-| ↳ | **[Capital Markets Intern](https://jobright.ai/jobs/info/6a524e3cd007ee02d95f6f54?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area, CA, United States | Hybrid | Jul 12 |
+| **[SB Energy](https://sbenergy.com)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/6a524e3cd007ee02d95f6f54?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area, CA, United States | Hybrid | Jul 12 |
+| ↳ | **[Capital Markets Intern](https://jobright.ai/jobs/info/69feb5c1d0dc596b8d119ab2?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area, CA | Hybrid | Jul 12 |
 | **[Springline Advisory](https://springlineadvisory.com)** | **[Spring Internship 2028](https://jobright.ai/jobs/info/69fcccd0432a3c4da8dff1da?utm_campaign=1052&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Jul 12 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a52f08fe726ec56126a515e?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI, United States | Hybrid | Jul 12 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6a1ff4043a5f0145f4c12090?utm_campaign=1052&utm_source=git)** | Auburn Hills - Michigan - USA, US | On Site | Jul 12 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a1ff4043a5f0145f4c12090?utm_campaign=1052&utm_source=git)** | Auburn Hills - Michigan - USA, US | On Site | Jul 12 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6a52f08fe726ec56126a515e?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI, United States | Hybrid | Jul 12 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / White Plains (49583)](https://jobright.ai/jobs/info/69716ea1333b6343a14df628?utm_campaign=1052&utm_source=git)** | White Plains, NY | On Site | Jul 12 |
 | **[DFC Company](https://dfccompany.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a53844d9fbdab22fe13fa19?utm_campaign=1052&utm_source=git)** | West Fargo, ND, United States | On Site | Jul 12 |
 | **[HCVT](http://www.hcvt.com)** | **[International Tax Internship - Summer 2027](https://jobright.ai/jobs/info/6a5382df8576ec69c014ff72?utm_campaign=1052&utm_source=git)** | Glendale, CA, United States | Hybrid | Jul 12 |
@@ -91,6 +109,20 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Four Hands](https://fourhands.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a52cafd8a74e077472f6210?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Jul 11 |
 | **[Sweeney Conrad](http://sweeneyconrad.com)** | **[Client Accounting & Advisory Services Internship - Summer 2027](https://jobright.ai/jobs/info/6a52ca379fbdab22fe13d18d?utm_campaign=1052&utm_source=git)** | Kirkland, WA, United States | On Site | Jul 11 |
 | **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Finance Intern](https://jobright.ai/jobs/info/6a52c39cd007ee02d95f8e51?utm_campaign=1052&utm_source=git)** | Bronx, NY, United States | On Site | Jul 11 |
+
+### 🕒 Batch updated: 2026-07-13 10:14 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Cash Management Intern – Summer 2026](https://jobright.ai/jobs/info/6a54b89a8215bf1b856b6be5?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Treasury Intern- Fall 2026](https://jobright.ai/jobs/info/6a5406b18ef95364ead942e1?utm_campaign=1052&utm_source=git)** | AL, United States | Remote | Jul 12 |
+| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jul 12 |
+| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jul 12 |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Healthcare Advisory Intern (49584)](https://jobright.ai/jobs/info/6a2a6c922cde2824469c1bab?utm_campaign=1052&utm_source=git)** | Beachwood, OH, United States | On Site | Jul 12 |
+| **[SB Energy](https://sbenergy.com)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/69feb5c1d0dc596b8d119ab2?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area, CA | Hybrid | Jul 12 |
+| ↳ | **[Capital Markets Intern](https://jobright.ai/jobs/info/6a524e3cd007ee02d95f6f54?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area, CA, United States | Hybrid | Jul 12 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a52f08fe726ec56126a515e?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI, United States | Hybrid | Jul 12 |
+| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6a1ff4043a5f0145f4c12090?utm_campaign=1052&utm_source=git)** | Auburn Hills - Michigan - USA, US | On Site | Jul 12 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Fundamental Equities Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3e8657122f340d29cf36ff?utm_campaign=1052&utm_source=git)** | New York, New York, United States | On Site | Jul 11 |
 | **[Cabinetworks Group](http://www.cabinetworksgroup.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/69fa6fb5db88714bcdfc2f11?utm_campaign=1052&utm_source=git)** | US - Michigan - Livonia, US | On Site | Jul 11 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / Ohio (49579)](https://jobright.ai/jobs/info/6a5273ece726ec56126a3275?utm_campaign=1052&utm_source=git)** | Woodmere, OH, United States | Hybrid | Jul 11 |
@@ -114,13 +146,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
-| **[Jackson Hewitt Tax Service Inc.](http://www.jacksonhewitt.com)** | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccfd550bbaf76504ffee0?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA 15237 | On Site | Jul 12 |
-| ↳ | **[Seasonal Entry Level Tax Preparer Positions 25 locations greater Pitts](https://jobright.ai/jobs/info/693ccac250bbaf76504ffc21?utm_campaign=1052&utm_source=git)** | N Versailles, PA 15137 | On Site | Jul 12 |
 | **[Gollob Morgan Peddy Inc](http://gmpcpa.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a0703cf24dcb03739f1de7a?utm_campaign=1052&utm_source=git)** | Tyler, TX | On Site | Jul 12 |
-| **[SB Energy](https://sbenergy.com)** | **[Capital Markets Intern](https://jobright.ai/jobs/info/6a524e3cd007ee02d95f6f54?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area, CA, United States | Hybrid | Jul 12 |
-| ↳ | **[Capital Markets Intern](https://jobright.ai/jobs/info/69feb5c1d0dc596b8d119ab2?utm_campaign=1052&utm_source=git)** | San Francisco Bay Area, CA | Hybrid | Jul 12 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a1ff4043a5f0145f4c12090?utm_campaign=1052&utm_source=git)** | Auburn Hills - Michigan - USA, US | On Site | Jul 12 |
-| ↳ | **[Finance Intern](https://jobright.ai/jobs/info/6a52f08fe726ec56126a515e?utm_campaign=1052&utm_source=git)** | Auburn Hills, MI, United States | Hybrid | Jul 12 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Audit Intern / DC Metro (49590)](https://jobright.ai/jobs/info/6a528eeee726ec56126a39b1?utm_campaign=1052&utm_source=git)** | McLean, VA 22102 | On Site | Jul 11 |
 | **[Amrize](https://www.amrize.com)** | **[Job Cost Intern Job Details / Amrize](https://jobright.ai/jobs/info/6a280a1d7061b51a3a5f2ebf?utm_campaign=1052&utm_source=git)** | Calgary, AB, CA, T2B 0R5 | On Site | Jul 11 |
 | ↳ | **[Job Cost Intern](https://jobright.ai/jobs/info/6a1625dadc845f4be5bdcfb3?utm_campaign=1052&utm_source=git)** | Rocky View, AB, CA, T1X 0K1 | On Site | Jul 11 |
@@ -273,7 +299,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Koch](https://www.kochinc.com)** | **[Spring or Summer 2027 Tax Internship (Atlanta)](https://jobright.ai/jobs/info/6a2f7c5a89f8f147d3731e87?utm_campaign=1052&utm_source=git)** | Atlanta, GA | On Site | Jul 10 |
 | **[PwC](http://pwc.com)** | **[Denver - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a32f2f0910b734910712bab?utm_campaign=1052&utm_source=git)** | CO-Denver, US | On Site | Jul 10 |
 | ↳ | **[Denver - Tax JD - Intern - Summer 2027](https://jobright.ai/jobs/info/6a50fd2978e364789ca57bb1?utm_campaign=1052&utm_source=git)** | CO-Denver, United States | On Site | Jul 10 |
-| **[Ascend](https://ascendtogether.com)** | **[Tax & Audit Intern](https://jobright.ai/jobs/info/6a5130dd02522b5b722e8380?utm_campaign=1052&utm_source=git)** | Tyler, TX, United States | On Site | Jul 10 |
 | **[DuPont](http://www.dupont.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a4af1564f64ba41dcb5b8f0?utm_campaign=1052&utm_source=git)** | Wilmington, Delaware, United States of America | On Site | Jul 10 |
 | **[Peak Retirement Planning, Inc.](https://peakretirementplanning.com/)** | **[Intern/Aspiring Financial Planner](https://jobright.ai/jobs/info/6a44f31b9b6dfb6da322bcf8?utm_campaign=1052&utm_source=git)** | Columbus, 3600 Olentangy River Rd, US | On Site | Jul 10 |
 
@@ -343,7 +368,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[bhm cpa group](https://www.bhmcpagroup.com)** | **[2027 bhm Tax Department Internship](https://jobright.ai/jobs/info/6a5107c2bf63b66c79978477?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Jul 10 |
 | ↳ | **[2027 bhm Audit Department Internship](https://jobright.ai/jobs/info/6a5107a778e364789ca582c7?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Jul 10 |
 | **[8-koi®](https://www.8-koi.com)** | **[Finance/Business Intern (Part Time)](https://jobright.ai/jobs/info/6a50eac80524e919f4a9ad6c?utm_campaign=1052&utm_source=git)** | Melbourne, FL, United States | On Site | Jul 10 |
-| **[ByteDance](http://bytedance.com)** | **[Payment Strategy Project Intern (Global Payment LATAM)- 2026 Start (MBA)](https://jobright.ai/jobs/info/6a50e8e90524e919f4a9ac6d?utm_campaign=1052&utm_source=git)** | San Jose, CA, United States | On Site | Jul 10 |
 | **[Bridgewater Associates](https://www.bridgewater.com/)** | **[Campus 2027 Investment Associate Intern](https://jobright.ai/jobs/info/6a50e226a0690e7973481982?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[Comfort Systems USA](http://www.comfortsystemsusa.com/home/index.php)** | **[Operational Finance Intern](https://jobright.ai/jobs/info/69fb3da387a4820e6da869c2?utm_campaign=1052&utm_source=git)** | Greater Houston | On Site | Jul 10 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Operations](https://jobright.ai/jobs/info/6a46f75a8204a812e98caaa4?utm_campaign=1052&utm_source=git)** | Jersey City, NJ | On Site | Jul 10 |
@@ -466,22 +490,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[2027 Staff Accountant Intern - Andover](https://jobright.ai/jobs/info/6a0a7e153b54ed42d74e0544?utm_campaign=1052&utm_source=git)** | Andover, MA | On Site | Jul 08 |
 | ↳ | **[2027 Staff Accountant Intern - Cleveland](https://jobright.ai/jobs/info/6a0a7e15939a5f01db962ab1?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jul 08 |
 | **[Media Works, Ltd.](http://medialtd.com)** | **[Billing Intern](https://jobright.ai/jobs/info/6a4e9f390ea38951a6ff3e90?utm_campaign=1052&utm_source=git)** | Baltimore, Maryland, United States | On Site | Jul 08 |
-
-### 🕒 Batch updated: 2026-07-10 10:04 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[State of Colorado](https://dpo.colorado.gov/)** | **[Legislative Financial Audit Intern](https://jobright.ai/jobs/info/6a509fb12e2ceb72963b3f50?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | Hybrid | Jul 09 |
-| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a246cd26624e500cad0dcae?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 09 |
-| **[Novogradac](https://www.novoco.com)** | **[2027 Staff Accountant Intern - Cleveland](https://jobright.ai/jobs/info/6a0a7e15939a5f01db962ab1?utm_campaign=1052&utm_source=git)** | Cleveland, OH | On Site | Jul 08 |
-| ↳ | **[2027 Staff Accountant Intern](https://jobright.ai/jobs/info/6a2855027061b51a3a5f4ed6?utm_campaign=1052&utm_source=git)** | Petaluma, US | On Site | Jul 08 |
-| **[ENGIE](http://www.engie.com)** | **[Tax - Transactional Tax Internship](https://jobright.ai/jobs/info/6a4eeee09469c0662034d0e4?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | Hybrid | Jul 08 |
-| **[MKM Partners](http://mkmpartners.com)** | **[Equity Research Intern](https://jobright.ai/jobs/info/6a5023181544d7246c0d7df1?utm_campaign=1052&utm_source=git)** | Newport Beach, CA, United States | On Site | Jul 08 |
-| **[Parkland Corporation](https://www.parkland.ca/)** | **[Accounting Intern - September 2026 (4-Month Term)](https://jobright.ai/jobs/info/6a3d6916882f121f56a3745d?utm_campaign=1052&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 08 |
-| **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2026 - Accounting Internship - Millsaps College](https://jobright.ai/jobs/info/6a4e9bd49469c0662034c0c2?utm_campaign=1052&utm_source=git)** | Jackson, MS, United States | On Site | Jul 08 |
-| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (San Francisco)](https://jobright.ai/jobs/info/6a4ea5861544d7246c0d3ab9?utm_campaign=1052&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 08 |
-| **[Benco Dental](https://www.benco.com/)** | **[Accounting Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4d637c0209ea6fd6852095?utm_campaign=1052&utm_source=git)** | Pittston, PA, United States | On Site | Jul 08 |
-| **[DFC Company](https://dfccompany.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a4ed083fc327f422fef4405?utm_campaign=1052&utm_source=git)** | West Fargo, ND, United States | On Site | Jul 08 |
-| **[Ardian](https://www.ardian.com/)** | **[Secondaries & Primaries Intern - September 2026 I NYC](https://jobright.ai/jobs/info/6a4ecbc80ea38951a6ff4843?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Intern, Nutrien Financial Accounting](https://jobright.ai/jobs/info/6a4e82371544d7246c0d31e3?utm_campaign=1052&utm_source=git)** | Loveland, CO, United States | On Site | Jul 08 |
 
