@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-17 12:08 ET
+### 🕒 Batch updated: 2026-07-17 14:56 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -473,22 +473,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Athens, AL](https://jobright.ai/jobs/info/6a55f590e9b77f668bd5fec2?utm_campaign=1052&utm_source=git)** | Athens, AL, United States | On Site | Jul 13 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Macro Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/6a55beaeef22935f2e3f68c1?utm_campaign=1052&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, United States | On Site | Jul 13 |
 | **[Alluvionic Inc.](https://alluvionic.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a55beaa05c65f7c8f4c7067?utm_campaign=1052&utm_source=git)** | Melbourne, FL, United States | On Site | Jul 13 |
-
-### 🕒 Batch updated: 2026-07-14 15:06 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| ↳ | **[Tax Internship 2027 (Colorado Springs)](https://jobright.ai/jobs/info/6a51d47978e364789ca5d7fc?utm_campaign=1052&utm_source=git)** | Colorado Springs, CO, United States | On Site | Jul 14 |
-| **[The PAM Firm, Inc](https://thepamfirm.com)** | **[Bookkeeper Intern](https://jobright.ai/jobs/info/6a432feeb0f2553559ece97c?utm_campaign=1052&utm_source=git)** | Long Beach, CA, United States | Remote | Jul 13 |
-| **[Picus Capital](http://www.picuscap.com)** | **[Off-cycle Internship - Investment Analyst/Associate(m/f/d)](https://jobright.ai/jobs/info/6a55bd1f2ce8bf79a13a04e0?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
-| **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a55bc6bfdf4fa71202b45d7?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 13 |
-| **[Baker Newman Noyes](http://bnncpa.com)** | **[2027 Internship](https://jobright.ai/jobs/info/6a55ba92ec54dd532d812c41?utm_campaign=1052&utm_source=git)** | Manchester, NH, United States | On Site | Jul 13 |
-| **[Bridgewater Associates](https://www.bridgewater.com/)** | **[2027 - Investment Associate Intern](https://jobright.ai/jobs/info/6a55b1f314f1040fa611a93e?utm_campaign=1052&utm_source=git)** | New York City, United States | On Site | Jul 13 |
-| **[Lockwood™](http://thelockwoodgrp.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a55b12fef22935f2e3f5c6d?utm_campaign=1052&utm_source=git)** | Stamford, CT, United States | On Site | Jul 13 |
-| **[Walleye Capital](https://www.walleyecapital.com/)** | **[Fundamental Equities Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3e8657122f340d29cf36ff?utm_campaign=1052&utm_source=git)** | New York, New York | On Site | Jul 13 |
-| **[Varda Space Industries](http://varda.com)** | **[Financial Analyst Internship - Fall 2026](https://jobright.ai/jobs/info/6a51b31e8d7d3e6cf1cc144e?utm_campaign=1052&utm_source=git)** | El Segundo, CA, United States | On Site | Jul 13 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Financial Institutions Department-FLU Risk Management Intern](https://jobright.ai/jobs/info/6a559f3613cd7d29d5e32f51?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
-| **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Macroeconomic Work Intern](https://jobright.ai/jobs/info/6a559c7e78611229b823d4fa?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Jul 13 |
-| ↳ | **[WBG Pioneer - World Bank Treasury Intern](https://jobright.ai/jobs/info/6a559afa7ab5da6d2628f395?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Jul 13 |
-| ↳ | **[WBG Pioneer - Macroeconomic Modeling and Fiscal Analytics Intern](https://jobright.ai/jobs/info/6a559a9178d1443bd1e80ffb?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | On Site | Jul 13 |
 
