@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-18 03:37 ET
+### 🕒 Batch updated: 2026-07-18 06:12 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -440,14 +440,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Swiss Re](http://www.swissre.com)** | **[Actuarial Intern (Fall 2026)](https://jobright.ai/jobs/info/6a56012defb06a45240d2cfb?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 14 |
 | **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[2027 Tax Season Internship](https://jobright.ai/jobs/info/6a55f7cfefb06a45240d269c?utm_campaign=1052&utm_source=git)** | Orange Park, FL, United States | On Site | Jul 14 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Strategy and Research Department Macro and Market Research Intern](https://jobright.ai/jobs/info/6a55f3df10c4d945d86460a8?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
-
-### 🕒 Batch updated: 2026-07-15 06:43 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| ↳ | **[Procurement Analyst Intern](https://jobright.ai/jobs/info/6a1def063e538a28c204d1d1?utm_campaign=1052&utm_source=git)** | Chicago - 345 North Morgan | On Site | Jul 14 |
-| **[Bauer Entertainment Marketing](https://www.bauerentertainmentmarketing.com/)** | **[Fall 2026 Accounting Internship](https://jobright.ai/jobs/info/6a55f2f810c4d945d8646048?utm_campaign=1052&utm_source=git)** | East Nashville, TN, United States | Remote | Jul 14 |
-| **[TL Squared LLP](https://www.tlsqd.com/)** | **[Outsourced Accounting Intern](https://jobright.ai/jobs/info/6a560f0521f64463ad3525dd?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA, United States | Remote | Jul 14 |
-| **[COARE Beheer](http://www.coare.nl)** | **[Acquisitions Intern](https://jobright.ai/jobs/info/6a560eecf7517b519ad538ab?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | On Site | Jul 14 |
-| **[Lonerock Clinic](www.lonerockclinic.com)** | **[Healthcare Finance & Operations Intern (Contract, ~3 Months)](https://jobright.ai/jobs/info/6a55f163efb06a45240d22d5?utm_campaign=1052&utm_source=git)** | EUGENE, OR, United States | On Site | Jul 14 |
 
