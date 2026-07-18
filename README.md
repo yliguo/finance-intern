@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-18 01:17 ET
+### 🕒 Batch updated: 2026-07-18 03:37 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -450,12 +450,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[TL Squared LLP](https://www.tlsqd.com/)** | **[Outsourced Accounting Intern](https://jobright.ai/jobs/info/6a560f0521f64463ad3525dd?utm_campaign=1052&utm_source=git)** | Walnut Creek, CA, United States | Remote | Jul 14 |
 | **[COARE Beheer](http://www.coare.nl)** | **[Acquisitions Intern](https://jobright.ai/jobs/info/6a560eecf7517b519ad538ab?utm_campaign=1052&utm_source=git)** | Miami, FL, United States | On Site | Jul 14 |
 | **[Lonerock Clinic](www.lonerockclinic.com)** | **[Healthcare Finance & Operations Intern (Contract, ~3 Months)](https://jobright.ai/jobs/info/6a55f163efb06a45240d22d5?utm_campaign=1052&utm_source=git)** | EUGENE, OR, United States | On Site | Jul 14 |
-
-### 🕒 Batch updated: 2026-07-15 03:53 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Illinois Department of Commerce and Economic Opportunity](https://dceo.illinois.gov)** | **[INTERNAL AUDITS INTERN](https://jobright.ai/jobs/info/6a4303ed6c326942b4e84f33?utm_campaign=1052&utm_source=git)** | Springfield, IL | On Site | Jul 14 |
-| **[The Nash Group • Certified Public Accountants](https://nashgroupcpas.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a55efef21f64463ad350c7d?utm_campaign=1052&utm_source=git)** | Fircrest, WA, United States | On Site | Jul 14 |
-| **[M&T Bank](http://www.mtb.com)** | **[2027 Corporate Summer Internship Program- Accounting](https://jobright.ai/jobs/info/6a5464bfc8eb0843027afbde?utm_campaign=1052&utm_source=git)** | Buffalo, NY, United States of America | Hybrid | Jul 14 |
 
