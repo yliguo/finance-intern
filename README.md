@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-19 04:02 ET
+### 🕒 Batch updated: 2026-07-19 06:20 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -355,13 +355,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, External Audit - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/6a574ad3f7517b519ad59c30?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA, United States | Hybrid | Jul 15 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Finance Volunteer/Intern](https://jobright.ai/jobs/info/6a5747a810c4d945d864d9a5?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 15 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[POOL: RedTire Program Finance Analyst Student Intern](https://jobright.ai/jobs/info/6a57792ae9b77f668bd6812f?utm_campaign=1052&utm_source=git)** | Topeka Metropolitan Area | On Site | Jul 15 |
-
-### 🕒 Batch updated: 2026-07-16 06:50 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[CECO Environmental Corporation](https://www.cecoenviro.com)** | **[Finance and Accounting Analyst Intern](https://jobright.ai/jobs/info/6a57fc6f68d16a30e241103f?utm_campaign=1052&utm_source=git)** | Addison, TX, United States | On Site | Jul 15 |
-| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, State and Local Tax - Summer 2027 (Fort Lauderdale)](https://jobright.ai/jobs/info/6a57dfb58f51964c04045585?utm_campaign=1052&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 15 |
-| **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Internship in Quality Audit Management - (International Student)](https://jobright.ai/jobs/info/6a57290af7517b519ad594c0?utm_campaign=1052&utm_source=git)** | Vance, AL, United States | On Site | Jul 14 |
-| **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/6a571b0610c4d945d864d048?utm_campaign=1052&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 14 |
 
