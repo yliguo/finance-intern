@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-18 21:57 ET
+### 🕒 Batch updated: 2026-07-19 01:43 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -373,26 +373,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Popular](https://www.popular.com)** | **[Specialized Accounting Internship (St. Thomas) Job Details / Popular](https://jobright.ai/jobs/info/6a571270f7517b519ad58fc1?utm_campaign=1052&utm_source=git)** | St. Thomas, VI, United States | On Site | Jul 14 |
 | **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a571134e9b77f668bd6699d?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI, United States | On Site | Jul 14 |
 | **[KEATING](http://keatinginc.com)** | **[Wealth Management Internship](https://jobright.ai/jobs/info/6a570f1521f64463ad357bb0?utm_campaign=1052&utm_source=git)** | Manhattan, KS, United States | On Site | Jul 14 |
-
-### 🕒 Batch updated: 2026-07-16 01:32 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Mountain America Credit Union](https://www.macu.com/)** | **[Post-Graduate Internal Audit Intern (6 Month Duration)](https://jobright.ai/jobs/info/6a57cd3aa791c6211bf01157?utm_campaign=1052&utm_source=git)** | Sandy, UT, United States | On Site | Jul 15 |
-| **[Interstate Business Solutions, LLC](https://cleanerhighways.com)** | **[Intern - Summer 2026 (Noblesville IN)](https://jobright.ai/jobs/info/6a571322e9b77f668bd66a18?utm_campaign=1052&utm_source=git)** | Noblesville, IN 46060, USA | On Site | Jul 14 |
-| **[The University of Kansas School of Business](http://www.business.ku.edu/)** | **[POOL: RedTire Program Finance Analyst Student Intern](https://jobright.ai/jobs/info/6a570e4453b3962b910b3698?utm_campaign=1052&utm_source=git)** | University of Kansas Lawrence Campus | On Site | Jul 14 |
-| **[AC Accounting LLC │aca.taxes](http://acaccounting.pro)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a5717cde9b77f668bd66b63?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
-| **[DHL Global Forwarding](https://www.fedquestsolutions.com)** | **[Finance Intern – Short Term Assignment](https://jobright.ai/jobs/info/6a56f11510c4d945d864c930?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 14 |
-| **[Bancroft](https://www.bancroft.org/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a565f8d10c4d945d8649160?utm_campaign=1052&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Jul 14 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Tax Intern - Fall/Spring Semester](https://jobright.ai/jobs/info/6a569c56f7517b519ad56d5f?utm_campaign=1052&utm_source=git)** | Mayfield Heights, OH, United States | On Site | Jul 14 |
-| **[Farmers & Merchants Bank of Long Beach](https://www.fmb.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a56d4df53b3962b910b2d09?utm_campaign=1052&utm_source=git)** | Lakewood, CA, United States | On Site | Jul 14 |
-| **[Louisville Metro Government](https://louisvilleky.gov/)** | **[Internal Auditor](https://jobright.ai/jobs/info/6a57d8a072fe7a7b98dcb3d6?utm_campaign=1052&utm_source=git)** | Louisville, KY, United States | On Site | Jul 14 |
-| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Tax Accounting Intern - Houma, LA](https://jobright.ai/jobs/info/6a56d85821f64463ad357349?utm_campaign=1052&utm_source=git)** | Houma, LA 70360, United States | On Site | Jul 14 |
-| **[Bonduelle Americas](https://bonduelleamericas.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a56bf8153b3962b910b27d4?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Jul 14 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Providence (49591)](https://jobright.ai/jobs/info/6a56bcba21f64463ad356b72?utm_campaign=1052&utm_source=git)** | Providence, RI 02903, United States | On Site | Jul 14 |
-| **[Prairie Capital Advisors, Inc.](http://prairiecap.com)** | **[Valuation Intern - Winter 2027 - Oakbrook Terrace, IL](https://jobright.ai/jobs/info/6a568286e9b77f668bd63da3?utm_campaign=1052&utm_source=git)** | Oakbrook Terrace, IL, United States | On Site | Jul 14 |
-| **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer -Forensic Accountants and financial Intern](https://jobright.ai/jobs/info/6a56b35ce9b77f668bd65247?utm_campaign=1052&utm_source=git)** | Washington, DC, , US | On Site | Jul 14 |
-| **[Prairie Capital Advisors, Inc.](http://prairiecap.com)** | **[Valuation Intern - Winter 2027 - Atlanta, GA](https://jobright.ai/jobs/info/6a56826bf7517b519ad562d4?utm_campaign=1052&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jul 14 |
-| ↳ | **[Valuation Intern - Winter 2027 - Chicago, IL (Loop)](https://jobright.ai/jobs/info/6a568273f7517b519ad562e1?utm_campaign=1052&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 14 |
-| ↳ | **[M&A Intern - Summer 2027 - Chicago, IL (Loop)](https://jobright.ai/jobs/info/6a569eb721f64463ad355d37?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
 
