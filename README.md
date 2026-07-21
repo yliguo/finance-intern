@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-20 17:55 ET
+### 🕒 Batch updated: 2026-07-20 21:56 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -38,7 +38,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Building Ontario Fund](https://buildingonfund.ca)** | **[Indigenous Opportunities Financing Program (IOFP) Intern](https://jobright.ai/jobs/info/6a5e3e4bf29acc1a11746470?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 20 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Corporate Staff Accountant](https://jobright.ai/jobs/info/6a5e389d050c423c792edd6a?utm_campaign=1052&utm_source=git)** | Topeka, KS, United States | Hybrid | Jul 20 |
 | **[Chevron](http://www.chevron.com)** | **[2026-2027 Supply & Trading TAMU TRIP Program Intern](https://jobright.ai/jobs/info/6a5e3595f3674a0545d27979?utm_campaign=1052&utm_source=git)** | Houston 1400 Smith Street, United States of America | On Site | Jul 20 |
-| **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a58097c9f1f56462cf68299?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 20 |
+| **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a58085572fe7a7b98dcc858?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 20 |
 | **[Associated Electric Cooperative Inc.](https://www.aeci.org/)** | **[Audit Services Intern](https://jobright.ai/jobs/info/6a5e3012270e3033b045c41c?utm_campaign=1052&utm_source=git)** | Springfield, MO, United States | On Site | Jul 20 |
 | **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Fall Accounting Intern](https://jobright.ai/jobs/info/6a5e2c99050c423c792ed896?utm_campaign=1052&utm_source=git)** | Syracuse, NY, United States | On Site | Jul 20 |
 | ↳ | **[Fall Accounting Intern](https://jobright.ai/jobs/info/6a4bb9ca6189f64e437ef837?utm_campaign=1052&utm_source=git)** | Syracuse, NY | On Site | Jul 20 |
@@ -109,6 +109,12 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Accounting](https://jobright.ai/jobs/info/6a2a60d4495d985b99428af0?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 18 |
 | **[Graycor](http://graycor.com)** | **[Investment Analyst Internship](https://jobright.ai/jobs/info/6a5baee0c8e3a473cb8b0a63?utm_campaign=1052&utm_source=git)** | Chicago, IL (Downtown), United States | On Site | Jul 18 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Accounting](https://jobright.ai/jobs/info/69b5824f56973837413ad665?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, USA | On Site | Jul 18 |
+
+### 🕒 Batch updated: 2026-07-20 17:55 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a58097c9f1f56462cf68299?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 20 |
 
 ### 🕒 Batch updated: 2026-07-20 15:27 ET
 
