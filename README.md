@@ -4,11 +4,15 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-29 09:50 ET
+### 🕒 Batch updated: 2026-07-29 12:16 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seaboard International Forest Products, LLC](https://www.sifp.com)** | **[Fall 2026 Intern](https://jobright.ai/jobs/info/6a51b3cb78e364789ca5b348?utm_campaign=1052&utm_source=git)** | Nashua, NH, United States | On Site | Jul 29 |
+| **[Jasper Engines & Transmissions](https://www.jasperengines.com)** | **[HS WBL Intern: Accounts Receivable](https://jobright.ai/jobs/info/6a69fa1d48355b3f12bee59e?utm_campaign=1052&utm_source=git)** | Jasper, IN, United States | On Site | Jul 29 |
+| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Audit Intern – Peak Season 2027 (January - April)](https://jobright.ai/jobs/info/6a5a955d686b4755d1e16150?utm_campaign=1052&utm_source=git)** | Springfield, OH, United States | On Site | Jul 29 |
+| **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[Intern, External Audit - Fall 2026, Cranberry Township](https://jobright.ai/jobs/info/6a574ad3f7517b519ad59c30?utm_campaign=1052&utm_source=git)** | Cranberry Township, PA, United States | Hybrid | Jul 29 |
 | **[EG Conley, PC](https://www.egconley.com/)** | **[Tax Intern](https://jobright.ai/jobs/info/6a69f21ac63ba56308f507a1?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 29 |
 | **[Baker Newman Noyes](http://bnncpa.com)** | **[2027 Internship](https://jobright.ai/jobs/info/6a55ba92ec54dd532d812c41?utm_campaign=1052&utm_source=git)** | Manchester, NH, United States | On Site | Jul 29 |
 | **[ROTH Capital Partners](http://www.roth.com)** | **[Equity Research Intern](https://jobright.ai/jobs/info/6a501bed9469c066203502b6?utm_campaign=1052&utm_source=git)** | Newport Beach, CA, United States | On Site | Jul 29 |
@@ -105,6 +109,11 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a685a8957cfac3b219142dd?utm_campaign=1052&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jul 28 |
 | **[Interstate Business Solutions, LLC](https://cleanerhighways.com)** | **[Intern - Fall 2026 (Noblesville IN)](https://jobright.ai/jobs/info/6a55d03e05c65f7c8f4c81f1?utm_campaign=1052&utm_source=git)** | Noblesville, IN, United States | On Site | Jul 28 |
 | **[Barnes Dennig](http://barnesdennig.com)** | **[Audit  Internship / January-April (Winter) 2027 - Indianapolis, IN](https://jobright.ai/jobs/info/6a56081bf7517b519ad53151?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 28 |
+
+### 🕒 Batch updated: 2026-07-29 09:50 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
 | **[Dannible & McKee, LLP](http://dmcpas.com)** | **[2027 Tax Intern](https://jobright.ai/jobs/info/6a55cfb1ec54dd532d813d2a?utm_campaign=1052&utm_source=git)** | Schenectady, NY, United States | On Site | Jul 28 |
 | **[Hamilton County, Ohio](https://www.hamilton-co.org)** | **[Hotel Lodging Tax Intern (4739-02)](https://jobright.ai/jobs/info/6a55d009fdf4fa71202b5a89?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 27 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Accounting Intern - Athens, AL](https://jobright.ai/jobs/info/6a55f590e9b77f668bd5fec2?utm_campaign=1052&utm_source=git)** | Athens, AL, United States | On Site | Jul 27 |
@@ -503,12 +512,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Verdantas](https://www.verdantas.com)** | **[Fall Accounting Intern](https://jobright.ai/jobs/info/6a637dbf8d53603449602944?utm_campaign=1052&utm_source=git)** | California, United States | Remote | Jul 24 |
 | **[H&CO](http://floridacpa.com)** | **[Finance Intern / GBS](https://jobright.ai/jobs/info/6a63cdf68d536034496046df?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 24 |
 | **[BMW Group](https://www.bmwgroup-werke.com)** | **[Intern, Controlling](https://jobright.ai/jobs/info/6a63ccc4979290281c704337?utm_campaign=1052&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Jul 24 |
-
-### 🕒 Batch updated: 2026-07-26 06:37 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[BMO](http://www.bmo.com)** | **[Market Risk Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a63bf595c7e2d715ebadc5b?utm_campaign=1052&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 24 |
-| **[Mercuria](http://www.mercuria.com)** | **[Mercuria Energy Americas — Spring & Summer 2027 Internship Program](https://jobright.ai/jobs/info/6a63c9235c7e2d715ebadf1d?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 24 |
-| **[Doeren Mayhew](http://doeren.com)** | **[2027 Winter Internship](https://jobright.ai/jobs/info/6a51371d02522b5b722e8726?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | On Site | Jul 24 |
 
