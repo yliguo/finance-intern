@@ -4,11 +4,15 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-29 04:25 ET
+### 🕒 Batch updated: 2026-07-29 07:16 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a51fa7678e364789ca5eea9?utm_campaign=1052&utm_source=git)** | Canton, MI, United States | On Site | Jul 29 |
+| **[Festo USA](http://www.festo.com/us)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a69b4cf0b42f866b619510e?utm_campaign=1052&utm_source=git)** | Islandia, NY, United States | Hybrid | Jul 29 |
+| **[Galaxy Distribution](https://www.linkedin.com/company/92637478)** | **[Accounting/Finance Intern](https://jobright.ai/jobs/info/6a69acff47d8280e278501d6?utm_campaign=1052&utm_source=git)** | Memphis, TN, United States | On Site | Jul 29 |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / New York City  (49586)](https://jobright.ai/jobs/info/6a69a1544e046878af69c8f6?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Investment Banking Intern - Summer 2027 - Seattle, WA](https://jobright.ai/jobs/info/6a6953365d01972698ee7a4f?utm_campaign=1052&utm_source=git)** | Seattle, WA, United States | On Site | Jul 28 |
 | **[Chevron](http://www.chevron.com)** | **[2026-2027 Supply & Trading TAMU TRIP Program Intern](https://jobright.ai/jobs/info/6a5e3595f3674a0545d27979?utm_campaign=1052&utm_source=git)** | Houston, Texas, United States | On Site | Jul 28 |
 | **[ALPFA Baltimore Chapter](https://www.alpfa.org/baltimore-professional-chapter)** | **[2027 Audit Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a69710d5f8d2a1f3a112125?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 28 |
@@ -18,7 +22,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Hantz Group](http://hantzgroup.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a571134e9b77f668bd6699d?utm_campaign=1052&utm_source=git)** | Ann Arbor, MI, United States | On Site | Jul 28 |
 | **[LAZ Parking](https://www.lazparking.com)** | **[Internship, Accounting - Hartford, CT](https://jobright.ai/jobs/info/6a435fdae09ecb4959644583?utm_campaign=1052&utm_source=git)** | Hartford, CT, United States | On Site | Jul 28 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Accounting & Finance Co-Op/Intern - Summer 2027](https://jobright.ai/jobs/info/6a690ee005bae84301b5a373?utm_campaign=1052&utm_source=git)** | Lithia, FL, United States | Hybrid | Jul 28 |
-| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a172215f45c6530ce9a93b7?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 28 |
+| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a246cd26624e500cad0dcae?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 28 |
 | ↳ | **[Financial Services Professional](https://jobright.ai/jobs/info/6a34af81ce501060b5cf2253?utm_campaign=1052&utm_source=git)** | Wall Township, NJ, United States | On Site | Jul 28 |
 | **[Popular](https://www.popular.com)** | **[Specialized Accounting Internship (St. Thomas)](https://jobright.ai/jobs/info/6a4d663c3122a76a8fd5573c?utm_campaign=1052&utm_source=git)** | St. Thomas, U.S. Virgin Islands, United States | On Site | Jul 28 |
 | **[Waste Connections](http://www.wasteconnections.com/)** | **[Intern](https://jobright.ai/jobs/info/6a68f01b5d01972698ee55ba?utm_campaign=1052&utm_source=git)** | Denver, Colorado, United States | On Site | Jul 28 |
@@ -38,7 +42,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Tang Capital Management, LLC](https://tangcapital.bamboohr.com/jobs/)** | **[Finance & Accounting Intern](https://jobright.ai/jobs/info/6a6913493b549b0b531d3baa?utm_campaign=1052&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 28 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Actuarial Internship - Summer 2027](https://jobright.ai/jobs/info/6a6912495d01972698ee6419?utm_campaign=1052&utm_source=git)** | Schaumburg, IL, United States | Hybrid | Jul 28 |
 | **[Walker & Armstrong LLP](https://www.wa-cpas.com/)** | **[Audit Intern](https://jobright.ai/jobs/info/6a3ea8b4ce7cce40b3421292?utm_campaign=1052&utm_source=git)** | Tucson, AZ, United States | On Site | Jul 28 |
-| **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a58085572fe7a7b98dcc858?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 28 |
+| **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a58097c9f1f56462cf68299?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 28 |
 | **[Team JAS](https://teamjas.com)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a690c8e5d01972698ee61a7?utm_campaign=1052&utm_source=git)** | Jacksonville, FL, United States | On Site | Jul 28 |
 | **[SECURA Insurance](http://www.secura.net)** | **[Intern - Actuarial Services/Data Science](https://jobright.ai/jobs/info/6a68d432b22f1b56a6028d97?utm_campaign=1052&utm_source=git)** | Neenah, WI, United States | On Site | Jul 28 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Finance Business Partner Co-Op/Intern - Summer 2027](https://jobright.ai/jobs/info/6a69090905bae84301b5a10a?utm_campaign=1052&utm_source=git)** | Durham, North Carolina, United States | Hybrid | Jul 28 |
@@ -105,6 +109,13 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a6867e00fd0c22fa643d3e5?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | Hybrid | Jul 27 |
 | ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a6849056eaf5519573a5fbc?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 27 |
 | ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a68b937207d4f2e632e4527?utm_campaign=1052&utm_source=git)** | Tampa, FL, United States | Remote | Jul 27 |
+
+### 🕒 Batch updated: 2026-07-29 04:25 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a172215f45c6530ce9a93b7?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 28 |
+| **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a58085572fe7a7b98dcc858?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 28 |
 | ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a6846186eaf5519573a5f21?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | Hybrid | Jul 27 |
 | ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a68461357cfac3b21913e63?utm_campaign=1052&utm_source=git)** | Cleveland, OH, United States | Hybrid | Jul 27 |
 | ↳ | **[Early Careers: Actuarial Intern](https://jobright.ai/jobs/info/6a6842d86eaf5519573a5ee3?utm_campaign=1052&utm_source=git)** | Winston-Salem, NC, United States | Hybrid | Jul 27 |
@@ -118,7 +129,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[Audit Winter 2027 Internship - Atlanta, GA](https://jobright.ai/jobs/info/6a691fbe36d36c1ff299849c?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 28 |
 | ↳ | **[Tax Winter 2027 Internship - Rochester, MN](https://jobright.ai/jobs/info/6a691f5436d36c1ff2998479?utm_campaign=1052&utm_source=git)** | Rochester, MN, United States | Hybrid | Jul 28 |
 | ↳ | **[Tax Winter 2027 Internship - Atlanta, GA](https://jobright.ai/jobs/info/6a691f3f05bae84301b5aa19?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 28 |
-| **[Dream](http://www.dream.ca/)** | **[Intern, Development Accounting](https://jobright.ai/jobs/info/6a58097c9f1f56462cf68299?utm_campaign=1052&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 28 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Corporate Actuarial Analyst, Special Projects team - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a68ce9a36d36c1ff2996308?utm_campaign=1052&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Jul 28 |
 | ↳ | **[Corporate Actuarial Analyst, Special Projects team - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a68d4f3b22f1b56a6028e0d?utm_campaign=1052&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Jul 28 |
 
@@ -217,7 +227,6 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 |--------|------|----------|------|-------------|------|
 | **[KEATING](http://keatinginc.com)** | **[Wealth Management Internship](https://jobright.ai/jobs/info/6a570f1521f64463ad357bb0?utm_campaign=1052&utm_source=git)** | Manhattan, KS, United States | On Site | Jul 28 |
 | **[Davenport & Company LLC](http://www.investdavenport.com)** | **[2027 Public Finance Summer Internship](https://jobright.ai/jobs/info/6a4fb4f44649561ec08aea3e?utm_campaign=1052&utm_source=git)** | Richmond, VA, United States | On Site | Jul 27 |
-| **[Creative Financial Group](http://1creative.com)** | **[Financial Services Professional](https://jobright.ai/jobs/info/6a246cd26624e500cad0dcae?utm_campaign=1052&utm_source=git)** | Wall Township, NJ | On Site | Jul 27 |
 | **[Oxford Properties Group](http://www.oxfordproperties.com)** | **[Intern, Real Estate Asset Management (Summer 2027)](https://jobright.ai/jobs/info/6a6795eb872eb74f9ead9d90?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
 | ↳ | **[Intern, Real Estate Investments (Summer 2027)](https://jobright.ai/jobs/info/6a6795e3d0fb4c3df393d9b5?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Student Accounting Intern](https://jobright.ai/jobs/info/6a679534d0fb4c3df393d98a?utm_campaign=1052&utm_source=git)** | St. Paul, MN, United States | On Site | Jul 27 |
@@ -506,12 +515,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a638bb50c8e2b4f36dce5ac?utm_campaign=1052&utm_source=git)** | Reston, VA, United States | On Site | Jul 24 |
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program – Investment Bank & Capital Markets: Investment Bank Coverage – Chicago 2027 - Fall Hiring](https://jobright.ai/jobs/info/6a63b6e987cef057612ca2a3?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 24 |
 | **[Peak Retirement Planning, Inc.](https://peakretirementplanning.com/)** | **[Intern/Aspiring Financial Planner](https://jobright.ai/jobs/info/6a44f31b9b6dfb6da322bcf8?utm_campaign=1052&utm_source=git)** | Columbus, OH, United States | On Site | Jul 24 |
-
-### 🕒 Batch updated: 2026-07-26 01:52 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program – Investment Bank & Capital Markets: Investment Bank Capital Markets – New York 2027 - Fall Hiring](https://jobright.ai/jobs/info/6a63b5350c8e2b4f36dcf581?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Jul 24 |
-| ↳ | **[Deutsche Bank Internship Program – Investment Bank & Capital Markets: Investment Bank Coverage – New York 2027 - Fall Hiring](https://jobright.ai/jobs/info/6a63b53087cef057612ca1f8?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Jul 24 |
-| **[Alliance Bank](https://www.alliancebank.com/)** | **[High School Accounting Intern](https://jobright.ai/jobs/info/6a63b4fe8d53603449603cef?utm_campaign=1052&utm_source=git)** | Francesville, IN, United States | On Site | Jul 24 |
 
