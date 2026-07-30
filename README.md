@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-30 06:59 ET
+### 🕒 Batch updated: 2026-07-30 09:41 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -524,29 +524,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[Credit Analyst Internship: Summer 2027](https://jobright.ai/jobs/info/69f3d17e6942c746fa694e32?utm_campaign=1052&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 25 |
 | **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/69d6e277366bb95ba555087c?utm_campaign=1052&utm_source=git)** | 300 East Main St., Norfolk, VA, 23510, US | On Site | Jul 25 |
 | ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/6a4bd042c2d11a6a46678c17?utm_campaign=1052&utm_source=git)** | Norfolk, VA, United States | On Site | Jul 25 |
-
-### 🕒 Batch updated: 2026-07-27 08:13 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Tax Accounting Intern - Houma, LA](https://jobright.ai/jobs/info/699e9300ce78e77b4fe40283?utm_campaign=1052&utm_source=git)** | Houma, LA | On Site | Jul 26 |
-| **[LS Solutions](https://www.linkedin.com/company/109394290)** | **[Paid Tax Intern - Data Entry & Cross-Dept Exposure](https://jobright.ai/jobs/info/6a662a2a5c7e2d715ebb301f?utm_campaign=1052&utm_source=git)** | Madison, WI, United States | On Site | Jul 25 |
-| **[SC Johnson](http://www.scjohnson.com)** | **[Finance/Accounting Intern - Summer 2027](https://jobright.ai/jobs/info/6a62f55232abf9182432c55e?utm_campaign=1052&utm_source=git)** | Racine, WI, United States | On Site | Jul 25 |
-| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/69d6e29552a5bf580012cb68?utm_campaign=1052&utm_source=git)** | Norfolk, VA, United States | On Site | Jul 25 |
-| ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/6a5cd1c5c8e3a473cb8b30aa?utm_campaign=1052&utm_source=git)** | Norfolk, VA, United States | On Site | Jul 25 |
-| ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/69d6e277366bb95ba555087c?utm_campaign=1052&utm_source=git)** | 300 East Main St., Norfolk, VA, 23510, US | On Site | Jul 25 |
-| **[MMB+CO](https://www.mmbaccounting.com)** | **[Winter 2027 Tax Intern - Latham, NY (On-Site)](https://jobright.ai/jobs/info/6a57a65ef7517b519ad5b890?utm_campaign=1052&utm_source=git)** | Latham, NY, United States | On Site | Jul 25 |
-| **[Barnes Dennig](http://barnesdennig.com)** | **[Tax  Internship / January-April (Winter) 2027 - Cincinnati, OH](https://jobright.ai/jobs/info/6a5edeb9f3674a0545d2b36f?utm_campaign=1052&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 24 |
-| **[Metropolis Technologies](http://www.metropolis.io)** | **[Tax Intern](https://jobright.ai/jobs/info/6a5e861a050c423c792efc3a?utm_campaign=1052&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 24 |
-| **[CanKids KidsCan](https://www.cankidsindia.org)** | **[Finance Intern](https://jobright.ai/jobs/info/6a6456f00c8e2b4f36dd1aec?utm_campaign=1052&utm_source=git)** | Delhi, OH, United States | On Site | Jul 24 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Risk Management Intern, Fall 2026](https://jobright.ai/jobs/info/6a63bf060c8e2b4f36dcfa1c?utm_campaign=1052&utm_source=git)** | Burbank, CA, United States | Hybrid | Jul 24 |
-| **[Crest Industries](http://www.crestoperations.com/)** | **[Mid-State Accounting Intern](https://jobright.ai/jobs/info/6a63b81a5c7e2d715ebad8a5?utm_campaign=1052&utm_source=git)** | Alexandria, LA, United States | On Site | Jul 24 |
-| **[Axcelus Financial](https://www.axcelus.com)** | **[Actuarial Intern](https://jobright.ai/jobs/info/6a64428b5c7e2d715ebafabd?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 24 |
-| **[Bobcat Company](https://www.bobcat.com)** | **[Fall 2026 Accounting Intern Job Details / Doosan Corp](https://jobright.ai/jobs/info/6a644197e8d8d22e3292c52c?utm_campaign=1052&utm_source=git)** | West Fargo, ND, United States | On Site | Jul 24 |
-| **[Pinnacle Actuarial Resources, Inc.](http://pinnacleactuaries.com)** | **[Future Consideration - Actuarial Intern](https://jobright.ai/jobs/info/6a5dfc98f29acc1a1174522c?utm_campaign=1052&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jul 24 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Winter Internship 2027 / Tax Intern / Long Island (49596)](https://jobright.ai/jobs/info/6a53fc93c8eb0843027ae65d?utm_campaign=1052&utm_source=git)** | Jericho, NY, United States | Hybrid | Jul 24 |
-| **[LS Power](http://lspower.com)** | **[Accounting Intern, PE Accounting](https://jobright.ai/jobs/info/6a3d99298bfad862bc99de83?utm_campaign=1052&utm_source=git)** | East Brunswick, NJ, United States | On Site | Jul 24 |
-| **[Crest Industries](http://www.crestoperations.com/)** | **[Finance Internship](https://jobright.ai/jobs/info/6a52316ed007ee02d95f66c2?utm_campaign=1052&utm_source=git)** | Pineville, LA, United States | On Site | Jul 24 |
-| **[Dempsey Uniform & Linen Supply](http://dempseyuniform.com)** | **[Business Accounting Intern](https://jobright.ai/jobs/info/6a397b02f6b55d12c792848a?utm_campaign=1052&utm_source=git)** | Jessup, PA | On Site | Jul 24 |
-| **[Walleye Capital](https://www.walleyecapital.com/)** | **[Fundamental Equities Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5e072bf3674a0545d26d3b?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 
