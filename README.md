@@ -4,7 +4,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-07-30 04:10 ET
+### 🕒 Batch updated: 2026-07-30 06:59 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
@@ -23,8 +23,8 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Accounting Intern](https://jobright.ai/jobs/info/6a638bb50c8e2b4f36dce5ac?utm_campaign=1052&utm_source=git)** | Reston, VA, United States | On Site | Jul 29 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Accounts Receivable Intern](https://jobright.ai/jobs/info/6a6aa2d019d76667a2ac095c?utm_campaign=1052&utm_source=git)** | Fort Myers, FL, United States | On Site | Jul 29 |
 | **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[Intern - Accounting](https://jobright.ai/jobs/info/6a6a68ec0b42f866b61989c5?utm_campaign=1052&utm_source=git)** | Sanford, FL, United States | On Site | Jul 29 |
-| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a6a5794c63ba56308f52a88?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jul 29 |
-| ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/6a4d34a7c643fd23fed3c201?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jul 29 |
+| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a4d34a7c643fd23fed3c201?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jul 29 |
+| ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/6a6a5794c63ba56308f52a88?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jul 29 |
 | **[Allianz Partners](https://allianz-partners.com)** | **[Financial Analyst Intern](https://jobright.ai/jobs/info/6a6a947cc63ba56308f53e84?utm_campaign=1052&utm_source=git)** | Cambridge, Ontario, Canada | Hybrid | Jul 29 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Accounting Intern (Part-Time)](https://jobright.ai/jobs/info/6a68cadb5d01972698ee44cc?utm_campaign=1052&utm_source=git)** | Manhattan, New York, United States | On Site | Jul 29 |
 | **[Voltus](https://www.voltus.co)** | **[Energy Markets Intern (MISO)](https://jobright.ai/jobs/info/6a6a20378693c23e7fb78da5?utm_campaign=1052&utm_source=git)** | United States | Remote | Jul 29 |
@@ -109,6 +109,13 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Chevron](http://www.chevron.com)** | **[2026-2027 Supply & Trading TAMU TRIP Program Intern](https://jobright.ai/jobs/info/6a5e3595f3674a0545d27979?utm_campaign=1052&utm_source=git)** | Houston, Texas, United States | On Site | Jul 28 |
 | **[Texas Instruments](http://www.ti.com)** | **[Tax Accountant - Encore Program Internship](https://jobright.ai/jobs/info/6a691a5d5d01972698ee681a?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Jul 28 |
 | ↳ | **[Cost Accountant - Encore Program Internship](https://jobright.ai/jobs/info/6a691a583b549b0b531d3f26?utm_campaign=1052&utm_source=git)** | Dallas, TX, United States | On Site | Jul 28 |
+
+### 🕒 Batch updated: 2026-07-30 04:10 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
+| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Finance](https://jobright.ai/jobs/info/6a6a5794c63ba56308f52a88?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jul 29 |
+| ↳ | **[Intern, Finance](https://jobright.ai/jobs/info/6a4d34a7c643fd23fed3c201?utm_campaign=1052&utm_source=git)** | Exton, PA, United States | On Site | Jul 29 |
 
 ### 🕒 Batch updated: 2026-07-30 01:32 ET
 
@@ -542,21 +549,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Crest Industries](http://www.crestoperations.com/)** | **[Finance Internship](https://jobright.ai/jobs/info/6a52316ed007ee02d95f66c2?utm_campaign=1052&utm_source=git)** | Pineville, LA, United States | On Site | Jul 24 |
 | **[Dempsey Uniform & Linen Supply](http://dempseyuniform.com)** | **[Business Accounting Intern](https://jobright.ai/jobs/info/6a397b02f6b55d12c792848a?utm_campaign=1052&utm_source=git)** | Jessup, PA | On Site | Jul 24 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Fundamental Equities Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5e072bf3674a0545d26d3b?utm_campaign=1052&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
-
-### 🕒 Batch updated: 2026-07-27 02:20 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[HDR](https://taplow.fi)** | **[Infrastructure Finance Intern](https://jobright.ai/jobs/info/6a6600150c8e2b4f36dd48c1?utm_campaign=1052&utm_source=git)** | Sacramento, CA, United States | On Site | Jul 26 |
-| **[CAE](http://www.cae.de)** | **[C-FIN-201 Tax Intern – Tax Technology & AI Enablement](https://jobright.ai/jobs/info/6a2b5a381de59e0682a8937b?utm_campaign=1052&utm_source=git)** | Montreal (St. Laurent), Canada | Hybrid | Jul 25 |
-| **[BMW Group](https://www.bmwgroup-werke.com)** | **[Accounting Intern (12 Months)](https://jobright.ai/jobs/info/6a2b0dc1d3ec8317fe146e11?utm_campaign=1052&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jul 25 |
-| **[PSP Investments | Investissements PSP](http://www.investpsp.com/en/)** | **[Intern, Canada Growth Fund (May – August 2027)](https://jobright.ai/jobs/info/6a480b8c4f64ba41dcb5818c?utm_campaign=1052&utm_source=git)** | Montreal, Canada | On Site | Jul 25 |
-| **[MNP](http://www.mnp.ca)** | **[Intern, Assurance and Accounting (SUMMER STUDENT 2027)](https://jobright.ai/jobs/info/699cf30581476f6176b57e67?utm_campaign=1052&utm_source=git)** | Grande Prairie, Alberta, Canada | On Site | Jul 25 |
-| **[BDO USA](https://www.bdo.com/)** | **[Tax Intern, Core Tax Services - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/6a4bd042c2d11a6a46678c17?utm_campaign=1052&utm_source=git)** | Norfolk, VA, United States | On Site | Jul 25 |
-| ↳ | **[Tax Intern, Core Tax Services - Summer 2027 (Norfolk)](https://jobright.ai/jobs/info/69d6e29552a5bf580012cb68?utm_campaign=1052&utm_source=git)** | Norfolk, VA, United States | On Site | Jul 25 |
-| **[PP&Co](http://ppandco.com)** | **[Tax Intern](https://jobright.ai/jobs/info/6a3f1346ce7cce40b3422f0b?utm_campaign=1052&utm_source=git)** | San Jose, CA, United States | On Site | Jul 24 |
-| **[BMW Group](https://www.bmwgroup-werke.com)** | **[Intern, Tax](https://jobright.ai/jobs/info/6a6420cb87cef057612cbf1d?utm_campaign=1052&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Jul 24 |
-| **[Security Benefit](https://securitybenefit.com)** | **[Internship - Tax](https://jobright.ai/jobs/info/6a63d3775c7e2d715ebae402?utm_campaign=1052&utm_source=git)** | Topeka, KS, United States | Hybrid | Jul 24 |
-| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Tax Accounting Intern - Houston, TX](https://jobright.ai/jobs/info/6a6407e75c7e2d715ebaf0b6?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Jul 24 |
-| **[Novogradac](https://www.novoco.com)** | **[2027 Staff Accountant Intern - Boston](https://jobright.ai/jobs/info/6a55cc532ce8bf79a13a1051?utm_campaign=1052&utm_source=git)** | Boston, MA, United States | On Site | Jul 24 |
 
