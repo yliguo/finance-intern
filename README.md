@@ -4,18 +4,22 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 ⏱ Updated every 3 hours via GitHub Actions
 
 ---
-### 🕒 Batch updated: 2026-08-04 04:24 ET
+### 🕒 Batch updated: 2026-08-04 07:17 ET
 
 | Company | Role | Location | Type | Date Posted | Link |
 |--------|------|----------|------|-------------|------|
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DunlapSLK](https://dunlapslk.com/)** | **[Intern](https://jobright.ai/jobs/info/6a678a92d0fb4c3df393d58d?utm_campaign=1052&utm_source=git)** | Chalfont, PA, United States | On Site | Aug 04 |
+| **[UPS](http://www.ups.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6a719455e2b7476e7b20eaa8?utm_campaign=1052&utm_source=git)** | Bogota, New Jersey, United States | On Site | Aug 04 |
+| **[Kalitta Air](http://kalittaair.com)** | **[Accounting Intern (LCI) 8 hours](https://jobright.ai/jobs/info/6a7192f4ee751e0c793441fa?utm_campaign=1052&utm_source=git)** | Fredericksburg, VA, United States | On Site | Aug 04 |
+| **[HDR](http://www.hdrinc.com)** | **[Infrastructure Finance Intern](https://jobright.ai/jobs/info/6a7192619a0ca4480c7d4a8a?utm_campaign=1052&utm_source=git)** | Sacramento, CA, United States | On Site | Aug 04 |
 | **[ABB](https://global.abb/group/en)** | **[Procurement Specialist Intern - Fall 2026](https://jobright.ai/jobs/info/6a4fda8a9469c0662034f27d?utm_campaign=1052&utm_source=git)** | Senatobia, MS, United States | On Site | Aug 03 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 Commercial Banking Intern Orlando, FL](https://jobright.ai/jobs/info/6a71386f71acd469eeda2284?utm_campaign=1052&utm_source=git)** | Orlando, FL, United States | On Site | Aug 03 |
-| ↳ | **[Summer 2027 Commercial Banking Intern Birmingham, AL](https://jobright.ai/jobs/info/6a710c2b9a0ca4480c7d2c1c?utm_campaign=1052&utm_source=git)** | Birmingham, AL, United States | On Site | Aug 03 |
 | ↳ | **[Summer 2027 Commercial Banking Intern Raleigh, NC](https://jobright.ai/jobs/info/6a71386571acd469eeda227f?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Aug 03 |
+| ↳ | **[Summer 2027 Commercial Banking Intern Birmingham, AL](https://jobright.ai/jobs/info/6a710c2b9a0ca4480c7d2c1c?utm_campaign=1052&utm_source=git)** | Birmingham, AL, United States | On Site | Aug 03 |
 | ↳ | **[Summer 2027 Commercial Banking Intern Austin, TX](https://jobright.ai/jobs/info/6a71386f71acd469eeda2283?utm_campaign=1052&utm_source=git)** | Austin, TX, United States | On Site | Aug 03 |
-| ↳ | **[Summer 2027 Commercial Banking Intern Houston, TX](https://jobright.ai/jobs/info/6a713872e2b7476e7b20d694?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Aug 03 |
 | ↳ | **[Summer 2027 Commercial Banking Intern Columbia, SC](https://jobright.ai/jobs/info/6a710c2602d93145bf88dfda?utm_campaign=1052&utm_source=git)** | Columbia, SC, United States | On Site | Aug 03 |
+| ↳ | **[Summer 2027 Commercial Banking Intern Houston, TX](https://jobright.ai/jobs/info/6a713872e2b7476e7b20d694?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Aug 03 |
 | ↳ | **[Summer 2027 Commercial Banking Intern  Richmond, VA](https://jobright.ai/jobs/info/6a71386b71acd469eeda2282?utm_campaign=1052&utm_source=git)** | Richmond, VA, United States | On Site | Aug 03 |
 | ↳ | **[Summer 2027 Commercial Banking Intern Charleston, SC](https://jobright.ai/jobs/info/6a710c7fee751e0c7934239b?utm_campaign=1052&utm_source=git)** | Charleston, SC, United States | On Site | Aug 03 |
 | ↳ | **[Summer 2027 Commercial Banking Intern Charlotte, NC](https://jobright.ai/jobs/info/6a71387002d93145bf88eb8d?utm_campaign=1052&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 03 |
@@ -56,6 +60,7 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[Oliver Wyman Actuarial - Internship - Summer 2027](https://jobright.ai/jobs/info/6a711dcdee751e0c793429b8?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Aug 03 |
 | ↳ | **[Oliver Wyman Actuarial - Internship - Summer 2027](https://jobright.ai/jobs/info/6a711dcbcb96192a36847c86?utm_campaign=1052&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 03 |
 | ↳ | **[Oliver Wyman Actuarial - Internship - Summer 2027](https://jobright.ai/jobs/info/6a711dc0cb96192a36847c7e?utm_campaign=1052&utm_source=git)** | New York, NY, United States | Hybrid | Aug 03 |
+| **[Clove Dental](https://clovedds.com/santa-monica)** | **[Private Equity Intern — Dental M&A](https://jobright.ai/jobs/info/6a711aa79a0ca4480c7d3128?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 03 |
 | **[Public School and Education Employee Retirement System of Missouri](https://www.psrs-peers.org)** | **[Investment Intern Summer 2027](https://jobright.ai/jobs/info/6a70d4df1003bd7b70d6cdc6?utm_campaign=1052&utm_source=git)** | Jefferson City, MO, United States | On Site | Aug 03 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Audit Winter 2028 / Indianapolis](https://jobright.ai/jobs/info/6a7119fbee751e0c7934283d?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 03 |
 | ↳ | **[Intern Tax Winter 2028 / Indianapolis](https://jobright.ai/jobs/info/6a7119e3cb96192a36847ac5?utm_campaign=1052&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 03 |
@@ -75,12 +80,12 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 Commercial Banking Intern  Richmond, VA](https://jobright.ai/jobs/info/6a71767dee751e0c79343cba?utm_campaign=1052&utm_source=git)** | Richmond, CA, United States | On Site | Aug 03 |
 | ↳ | **[Summer 2027 Commercial Banking Intern Atlanta, GA](https://jobright.ai/jobs/info/6a71767571acd469eeda2f87?utm_campaign=1052&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 03 |
 | ↳ | **[Summer 2027 Commercial Banking Intern Charlotte, NC](https://jobright.ai/jobs/info/6a71766acb96192a36848f7c?utm_campaign=1052&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 03 |
-| ↳ | **[Summer 2027 Commercial Banking Intern Houston, TX](https://jobright.ai/jobs/info/6a71766802d93145bf88f859?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Aug 03 |
-| ↳ | **[Summer 2027 Commercial Banking Intern Denver, CO](https://jobright.ai/jobs/info/6a71766671acd469eeda2f62?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Aug 03 |
-| ↳ | **[Summer 2027 Commercial Banking Intern Orlando, FL](https://jobright.ai/jobs/info/6a717a5a02d93145bf88f995?utm_campaign=1052&utm_source=git)** | Orlando, FL, United States | On Site | Aug 03 |
 | ↳ | **[Summer 2027 Commercial Banking Intern Raleigh, NC](https://jobright.ai/jobs/info/6a7176a002d93145bf88f8e4?utm_campaign=1052&utm_source=git)** | Raleigh, NC, United States | On Site | Aug 03 |
-| ↳ | **[Summer 2027  Commercial Banking Intern Tampa, FL](https://jobright.ai/jobs/info/6a717a53ee751e0c79343d6b?utm_campaign=1052&utm_source=git)** | Tampa, Florida, United States | On Site | Aug 03 |
+| ↳ | **[Summer 2027 Commercial Banking Intern Denver, CO](https://jobright.ai/jobs/info/6a71766671acd469eeda2f62?utm_campaign=1052&utm_source=git)** | Denver, CO, United States | On Site | Aug 03 |
+| ↳ | **[Summer 2027 Commercial Banking Intern Houston, TX](https://jobright.ai/jobs/info/6a71766802d93145bf88f859?utm_campaign=1052&utm_source=git)** | Houston, TX, United States | On Site | Aug 03 |
+| ↳ | **[Summer 2027 Commercial Banking Intern Orlando, FL](https://jobright.ai/jobs/info/6a717a5a02d93145bf88f995?utm_campaign=1052&utm_source=git)** | Orlando, FL, United States | On Site | Aug 03 |
 | ↳ | **[Summer 2027 Commercial Banking Intern Austin, TX](https://jobright.ai/jobs/info/6a717673cb96192a36848f91?utm_campaign=1052&utm_source=git)** | Austin, Texas, United States | On Site | Aug 03 |
+| ↳ | **[Summer 2027  Commercial Banking Intern Tampa, FL](https://jobright.ai/jobs/info/6a717a53ee751e0c79343d6b?utm_campaign=1052&utm_source=git)** | Tampa, Florida, United States | On Site | Aug 03 |
 | ↳ | **[Summer 2027 Commercial Banking Intern Greenville, SC](https://jobright.ai/jobs/info/6a7176a89a0ca4480c7d45db?utm_campaign=1052&utm_source=git)** | Greenville, SC, United States | On Site | Aug 03 |
 | **[Transamerica](http://www.transamerica.com)** | **[Actuarial Intern (Summer 2027)](https://jobright.ai/jobs/info/6a717667e2b7476e7b20e3aa?utm_campaign=1052&utm_source=git)** | Cedar Rapids, IA, United States | Hybrid | Aug 03 |
 | **[Baker Tilly US](https://www.bakertilly.com/page/baker-tilly-foundation?utm_source=3BL&utm_medium=Media+Insight&utm_campaign=PR-Extra+Impact+Grant)** | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a71049771acd469eeda157f?utm_campaign=1052&utm_source=git)** | Tewksbury, MA, United States | On Site | Aug 03 |
@@ -88,15 +93,15 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a710492ee751e0c793421ea?utm_campaign=1052&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 03 |
 | ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a71048ccb96192a36847461?utm_campaign=1052&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 03 |
 | ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a71048b9a0ca4480c7d2a9d?utm_campaign=1052&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 03 |
-| ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a71048acb96192a36847460?utm_campaign=1052&utm_source=git)** | San Francisco County, CA, United States | On Site | Aug 03 |
 | ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a71048a02d93145bf88de51?utm_campaign=1052&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 03 |
-| ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a71048a02d93145bf88de52?utm_campaign=1052&utm_source=git)** | Kennewick, WA, United States | On Site | Aug 03 |
+| ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a71048acb96192a36847460?utm_campaign=1052&utm_source=git)** | San Francisco County, CA, United States | On Site | Aug 03 |
 | ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a71048aee751e0c793421e6?utm_campaign=1052&utm_source=git)** | Appleton, WI, United States | On Site | Aug 03 |
+| ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a71048a02d93145bf88de52?utm_campaign=1052&utm_source=git)** | Kennewick, WA, United States | On Site | Aug 03 |
 | ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a71048971acd469eeda157a?utm_campaign=1052&utm_source=git)** | Pittston, PA, United States | On Site | Aug 03 |
 | ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a710488cb96192a3684745f?utm_campaign=1052&utm_source=git)** | Eugene, OR, United States | On Site | Aug 03 |
 | ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a710488e2b7476e7b20c95d?utm_campaign=1052&utm_source=git)** | Albuquerque, NM, United States | On Site | Aug 03 |
-| ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a710487cb96192a3684745c?utm_campaign=1052&utm_source=git)** | Spokane, WA, United States | On Site | Aug 03 |
 | ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a710487cb96192a3684745e?utm_campaign=1052&utm_source=git)** | Overland Park, KS, United States | On Site | Aug 03 |
+| ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a710487cb96192a3684745c?utm_campaign=1052&utm_source=git)** | Spokane, WA, United States | On Site | Aug 03 |
 | ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a710485cb96192a3684745a?utm_campaign=1052&utm_source=git)** | San Jose, CA, United States | On Site | Aug 03 |
 | **[Bottega Veneta](http://bottegaveneta.it)** | **[BOTTEGA VENETA Inventory Control Intern](https://jobright.ai/jobs/info/6a710443cb96192a36847445?utm_campaign=1052&utm_source=git)** | Wayne, NJ, United States | On Site | Aug 03 |
 | **[Brio Real Estate, a Blackstone Portfolio Company](https://www.briore.com)** | **[Brio Asset Management Intern – Summer 2027](https://jobright.ai/jobs/info/6a70c3eae2b7476e7b20ab44?utm_campaign=1052&utm_source=git)** | Atlanta, Georgia, United States | On Site | Aug 03 |
@@ -104,6 +109,11 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Payment Solutions (Fall 2026)](https://jobright.ai/jobs/info/6a70fd8b02d93145bf88da17?utm_campaign=1052&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 03 |
 | **[Baker Tilly US](https://www.bakertilly.com/page/baker-tilly-foundation?utm_source=3BL&utm_medium=Media+Insight&utm_campaign=PR-Extra+Impact+Grant)** | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a70fb7dcb96192a36846e9d?utm_campaign=1052&utm_source=git)** | Cochise, AZ, United States | On Site | Aug 03 |
 | ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a70fb7bcb96192a36846e99?utm_campaign=1052&utm_source=git)** | Frisco, TX, United States | On Site | Aug 03 |
+
+### 🕒 Batch updated: 2026-08-04 04:24 ET
+
+| Company | Role | Location | Type | Date Posted | Link |
+|--------|------|----------|------|-------------|------|
 | ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a70fb7a71acd469eeda0f56?utm_campaign=1052&utm_source=git)** | Denver Metropolitan Area, United States | On Site | Aug 03 |
 | ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a70fb789a0ca4480c7d249b?utm_campaign=1052&utm_source=git)** | Santa Monica, CA, United States | On Site | Aug 03 |
 | ↳ | **[Tax and Audit Associates (BT Summer Intern Conversions Only)](https://jobright.ai/jobs/info/6a70fb76422dce5cda1d0c0e?utm_campaign=1052&utm_source=git)** | Lancaster, PA, United States | On Site | Aug 03 |
@@ -691,11 +701,4 @@ Automatically synced from **jobright-ai/2026-Account-Internship**
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Personal Debt Solutions - Edmonton & Calgary - September 2026](https://jobright.ai/jobs/info/6a5f76e8b0f20036bc6310d5?utm_campaign=1052&utm_source=git)** | Calgary, AB, Canada | Hybrid | Jul 30 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, Accounting (MBA Students)](https://jobright.ai/jobs/info/6a6c152f5c54bc4752cec74b?utm_campaign=1052&utm_source=git)** | Aliso Viejo, CA, United States | Hybrid | Jul 30 |
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Internal Audit Intern](https://jobright.ai/jobs/info/6a6c14a4acb0a61f9dbc43ad?utm_campaign=1052&utm_source=git)** | Oshkosh, WI, United States | On Site | Jul 30 |
-
-### 🕒 Batch updated: 2026-08-01 01:47 ET
-
-| Company | Role | Location | Type | Date Posted | Link |
-|--------|------|----------|------|-------------|------|
-| **[High Point Federal Credit Union](https://www.highpointfcu.com)** | **[Finance Intern](https://jobright.ai/jobs/info/6a6256bf1e089c0cc884bd5b?utm_campaign=1052&utm_source=git)** | Olean, NY, United States | On Site | Jul 31 |
-| ↳ | **[Paint Shop Finance Intern (Spring 2027)](https://jobright.ai/jobs/info/6a6c5fc05c54bc4752ceda4d?utm_campaign=1052&utm_source=git)** | Spartanburg, SC, United States | On Site | Jul 31 |
 
